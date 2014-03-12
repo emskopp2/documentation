@@ -43,7 +43,7 @@ div.mod_dms tr.level_2 td.category_name {
 	padding-left: 40px;
 }
 div.mod_dms tr.level_2 td.document_link,
-div.mod_dms tr.level_02 td.category_description {
+div.mod_dms tr.level_2 td.category_description {
 	padding-left: 60px;
 }
 div.mod_dms tr.level_2 td.document_description {
@@ -113,8 +113,11 @@ div.mod_dms .centered {
 	text-align: center;
 }
 div.mod_dms .label {
-	font-weight: bold;
-	padding-right: 5px;
+	font-style: italic;
+	padding-right: 20px;
+}
+div.mod_dms .label:after {
+	content: ":";
 }
 div.mod_dms .headline {
 	font-style: italic;
