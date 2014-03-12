@@ -9,13 +9,15 @@ In case there are issues, please use the [tracker](https://github.com/cliffparni
 Documentation
 -------------
 
+#### Old manual
+
 - See `documentation/manual_old/DokManSystem-Handbuch.pdf` to check the **old** manual.
 
 
 Configuration
 -------------
 
-### CSS
+#### CSS
 
 - See `customization/css/dms.css` as an example to style your dms frontend.
 
@@ -23,6 +25,6 @@ Configuration
 Configuration
 -------------
 
-### PHP
+#### PHP
 
 - See `configuration/php/php.ini` as an example to increase memory limits and execution time.
