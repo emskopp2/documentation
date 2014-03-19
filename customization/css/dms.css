@@ -122,6 +122,9 @@ div.mod_dms .label:after {
 div.mod_dms .headline {
 	font-style: italic;
 }
+div.mod_dms tr.subheadline td {
+	border-bottom: 1px solid #dddddd;
+}
 div.mod_dms td.button {
 	padding-left: 5px;
 	padding-right: 5px;
@@ -163,4 +166,21 @@ div.mod_dms #list_search select {
 div.mod_dms #list_search #searchText {
 	width: 135px;
 }
-
+.existingDocument, .explanation {
+	cursor: help;
+}
+.explanation {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#documentName,
+#documentDescription,
+#documentKeywords {
+	width: 100%;
+}
+.mandatory {
+	color: #c10000;
+	padding-left: 5px;
+	padding-right: 5px;
+	cursor: help;
+}
