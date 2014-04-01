@@ -1,4 +1,4 @@
-/* Level definitions */
+﻿/* Level definitions */
 div.mod_dms tr.category td.category_name:before, 
 div.mod_dms tr.document td.document_link:before {
 	font-family: verdana;
@@ -151,14 +151,70 @@ div.mod_dms tr.category.locked.empty td.category_filecount {
 	height: 15px !important;
 	font-size: 10px !important;
 }
-div.mod_dms #dms_errors {
-	border: 1px solid #ff0000;
-	margin-bottom: 10px;
-	padding: 5px;
+/* messages */
+div.mod_dms #dms_errors .error,
+div.mod_dms #dms_warnings .warning,
+div.mod_dms #dms_successes .success,
+div.mod_dms #dms_infos .info {
+	border: 1px solid;
+	font-size: 12px;
+	padding: 2px 5px 2px 20px;
+	-moz-border-radius: .5em;
+	-webkit-border-radius: .5em;
+	border-radius: .5em;
+	margin-bottom: 5px;
+}
+div.mod_dms #dms_errors .error:before,
+div.mod_dms #dms_warnings .warning:before,
+div.mod_dms #dms_successes .success:before,
+div.mod_dms #dms_infos .info:before {
+	font-size: 16px;
+	line-height: 16px;
+	float: left;
+	padding-right: 5px;
+	margin-left: -15px;
+	width: 12px;
+	text-align: center;
+	display: inline-block;
+}
+div.mod_dms #dms_errors .error {
+	color: #D8000C;
+	background-color: #FFBABA;
+	border-color: #D8000C;
+}
+div.mod_dms #dms_errors .error:before {
+	content: "\2718";
+}
+div.mod_dms #dms_warnings .warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+	border-color: #9F6000;
+}
+div.mod_dms #dms_warnings .warning:before {
+	content: "!";
+	font-weight: bold;
+}
+div.mod_dms #dms_successes .success {
+	color: #4F8A10;
+	background-color: #DFF2BF;
+	border-color: #4F8A10;
+}
+div.mod_dms #dms_successes .success:before {
+	content: "\2714";
+}
+div.mod_dms #dms_infos .info {
+	color: #00529B;
+	background-color: #BDE5F8;
+	border-color: #00529B;
+}
+div.mod_dms #dms_infos .info:before {
+	content: "i";
+	font-weight: bold;
 }
 div.mod_dms #list_search > div {
 	margin-bottom: 10px;
 }
+div.mod_dms #list_search button,
 div.mod_dms #list_search input,
 div.mod_dms #list_search select {
 	width: 140px;
