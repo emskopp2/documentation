@@ -12,3 +12,7 @@ Files
 ### Old manual
 
 - See `manual_old/DokManSystem-Handbuch.pdf` to check the **old** manual.
+
+### Logo
+
+- The logo files.
