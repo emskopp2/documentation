@@ -1,7 +1,7 @@
 ContaoDMS - Documentation
 =========================
 
-Some helping files for documenting the [[Contao DMS]](https://github.com/ContaoDMS/core).
+Some helping files for documenting the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 In case there are issues, please use the [tracker](https://github.com/ContaoDMS/documentation/issues).
 
