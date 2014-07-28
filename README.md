@@ -9,6 +9,10 @@ In case there are issues, please use the [tracker](https://github.com/ContaoDMS/
 Files
 ------
 
+### Manual
+
+- See `manual` to check the manual.
+
 ### Old manual
 
 - See `manual_old/DokManSystem-Handbuch.pdf` to check the **old** manual.
