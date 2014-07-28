@@ -13,16 +13,16 @@ Modify objects loaded by DmsLoader.
 
 Modify categories loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsModifyLoadedCategory)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadedcategory)
 
 ### dmsModifyLoadedAccessRight
 
 Modify access rights loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsModifyLoadedAccessRight)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadedaccessright)
 
 ### dmsModifyLoadedDocument
 
 Modify documents loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsModifyLoadedDocument)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadeddocument)
