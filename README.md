@@ -11,7 +11,7 @@ Files
 
 ### Manual
 
-- To get more information about the DMS, [read the manual](https://github.com/ContaoDMS/documentation/blob/master/manual/index.md).
+- To get more information about the DMS, [read the manual](https://github.com/ContaoDMS/documentation/blob/master/manual).
 
 ### Old manual
 
