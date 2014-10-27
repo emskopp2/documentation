@@ -7,22 +7,22 @@ The following hooks could be used.
 
 Modify objects loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md)
 
 ### dmsModifyLoadedCategory
 
 Modify categories loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadedcategory)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
 
 ### dmsModifyLoadedAccessRight
 
 Modify access rights loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadedaccessright)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
 
 ### dmsModifyLoadedDocument
 
 Modify documents loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyHooks.md#dmsmodifyloadeddocument)
+[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
