@@ -7,22 +7,22 @@ The following hooks could be used.
 
 Modify objects loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md)
+[Read more ...](dmsModifyLoadedHooks.md)
 
 ### dmsModifyLoadedCategory
 
 Modify categories loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
+[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
 
 ### dmsModifyLoadedAccessRight
 
 Modify access rights loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
+[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
 
 ### dmsModifyLoadedDocument
 
 Modify documents loaded by DmsLoader.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks/dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
+[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)

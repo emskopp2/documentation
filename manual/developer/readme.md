@@ -7,4 +7,4 @@ Get information how to extend the DMS.
 
 Hooks which could be used to modify objects or do custom work.
 
-[Read more ...](https://github.com/ContaoDMS/documentation/blob/master/manual/developer/hooks)
+[Read more ...](hooks)
