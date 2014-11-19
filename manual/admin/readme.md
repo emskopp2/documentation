@@ -3,6 +3,12 @@ Admin manual
 
 Get information how to administer the DMS.
 
+## Installation
+
+Explanation of the installation.
+
+[Read more ...](installation)
+
 ## Modules
 
 Explanation of the modules.
