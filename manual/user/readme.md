@@ -14,7 +14,7 @@ Befinden sich Dokumente in einer Kategorie, wird neben der Anzahl eine Checkbox 
 – Screenshot(s) – Ansicht Kategoriebaumstruktur mit Auswahl mit angewählter Checkbox
 
 
-# Suchfunktion
+## Suchfunktion
 
 Es kann nach Dokumenten gesucht werden. Dafür werden die zwei Suchoptionen „Exakte Suche“ sowie „Ähnlichkeitssuche“ angeboten.
 
