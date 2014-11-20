@@ -1,6 +1,6 @@
 # Settings
 
-Backendeinstellungen
+## Grundeinstellungen im Backend
 
 Nach der Installation sollten zuerst einige Grundeinstellungen vorgenommen werden.
 
