@@ -1,5 +1,4 @@
-Admin manual
-============
+# Admin manual
 
 ## Installation
 

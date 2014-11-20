@@ -1,5 +1,4 @@
-Access rights
-=============
+# Access rights
 
 Get information about the access rights view.
 

@@ -1,5 +1,4 @@
-Categories
-==========
+# Categories
 
 Get information about the categories view.
 

@@ -1,5 +1,4 @@
-Templates
-=========
+# Templates
 
 Get information about the templates.
 

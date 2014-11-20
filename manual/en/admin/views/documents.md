@@ -1,5 +1,4 @@
-Documents
-=========
+# Documents
 
 Get information about the documents view.
 

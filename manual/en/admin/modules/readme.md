@@ -1,5 +1,4 @@
-Modules
-=======
+# Modules
 
 ### Neue Module anlegen 
 Die Anzeige des DokManSystems im Frontend erfolgt durch Einbindung zweier Module die man im Backend unter Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt. 

@@ -1,5 +1,4 @@
-"dmsModifyLoaded..."-Hooks
-==========================
+# "dmsModifyLoaded..."-Hooks
 
 The following hooks could be used for modifying the objects loaded by DmsLoader.
 

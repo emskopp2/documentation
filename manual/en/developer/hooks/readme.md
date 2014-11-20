@@ -1,5 +1,4 @@
-Hooks
-=====
+# Hooks
 
 The following hooks could be used.
 

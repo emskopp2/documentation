@@ -1,5 +1,4 @@
-Installation
-============
+# Installation
 
 Die Erweiterung [DokManSystem] kann in der Contao Erweiterungsverwaltung im Backend installiert werden.
 
@@ -14,8 +13,7 @@ Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen:
 Kategorien, Zugriffsrechte, Dokumente (und Dateityp-Sets) zur Verfügung.
 
 
-Serverkonfiguration
--------------------
+## Serverkonfiguration
 
 Unter Umständen muss man eine eigene `php.ini` ins Web-ROOT der Installation legen um z.B. Arbeitsspeicher Limits oder Ausführungszeiten zu definieren. Sind diese zur gering kann es vorkommen, dass größere Dateien nicht hochgeladen werden können.
 

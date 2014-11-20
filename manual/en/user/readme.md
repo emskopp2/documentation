@@ -1,9 +1,4 @@
-User manual
-===========
-
-Benutzerhandbuch
-================
-
+# User manual
 
 ## Anzeige der Dokumente im Frontend
 

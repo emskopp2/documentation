@@ -1,5 +1,4 @@
-Views
-=====
+# Views
 
 Get information about the backend views.
 
