@@ -1,9 +1,7 @@
-# Handbuch/Manual
+# Deutsches Handbuch
 
-## Deutsches Handbuch
+![DE](de.png) Das deutsche Handbuch gibt es [hier](de).
 
-Das deutsche Handbuch gibt es [hier](de).
+# English manual
 
-## English manual
-
-The english manual is available [hier](en).
+![EN](en.png) The english manual is available [hier](en).
