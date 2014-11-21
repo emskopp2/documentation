@@ -24,7 +24,7 @@ von den Oberkategorie(n) geerbt werden sollen.
 * **Vererbung der Leserechte durch Oberkategorie(n):** Es werden für diese Kategorie die Leserechte der Oberkategorie(n) verwendet.
 * **Experten-Einstellungen:** ID und / oder Klassen eintragen
 * **Kategorie veröffentlichen:** Checkbox aktiv = Kategorie wird im Frontend angezeigt
-* **Anzeigen ab** und **Anzeigen bis:**Von welchem Tag an soll die Kategorie angezeigt werden? Und bis zu welchem Tag soll die Kategorie angezeigt werden.
+* **Anzeigen ab** und **Anzeigen bis:** Von welchem Tag an soll die Kategorie angezeigt werden? Und bis zu welchem Tag soll die Kategorie angezeigt werden.
 Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
 ## Bearbeitung einer Kategorie
