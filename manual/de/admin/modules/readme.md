@@ -1,6 +1,6 @@
 # Module
 
-### Neue Module anlegen 
+## Neue Module anlegen 
 Die Anzeige des DokManSystems im Frontend erfolgt durch Einbindung zweier Module die man im Backend unter Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt. 
 
 ### Ein Modul für die Auflistung der Dokumente: 
@@ -18,7 +18,7 @@ DMS-Template: mod_dms_management
 Screenshot(s) – Module - Datensatz bearbeiten
 
 
-### Einbindung der Module in die Website
+## Einbindung der Module in die Website
 Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfolgen.
 
 – Screenshot(s) –  Seitenstruktur – Artikel – Datensatz bearbeiten
