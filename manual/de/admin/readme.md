@@ -6,6 +6,12 @@ Explanation of the installation.
 
 [Read more ...](installation)
 
+## Initialization
+
+Explanation of the initialization.
+
+[Read more ...](initialization)
+
 ## Modules
 
 Explanation of the modules.
