@@ -1,12 +1,12 @@
 # "dmsModifyLoaded..."-Hooks
 
-Die folgenden Hooks können verwendet werden um Objekte zu ändern die vom `DmsLoader` geladen wurden.
+Die folgenden Hooks kÃ¶nnen verwendet werden um Objekte zu Ã¤ndern die vom `DmsLoader` geladen wurden.
 
 ## dmsModifyLoadedCategory
 
-Der "dmsModifyLoadedCategory"-Hook wird zum Ändern von Kategorien nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$category` (vorhandenee geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
-Er erwartet die geänderte Kategorie als Rückgabewert.
+Der "dmsModifyLoadedCategory"-Hook wird zum Ã„ndern von Kategorien nach dem Laden durch den `DmsLoader` ausgefÃ¼hrt. So kÃ¶nnen die Eigenschaften verÃ¤ndert werden.
+Er Ã¼bergibt `$category` (vorhandenee geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
+Er erwartet die geÃ¤nderte Kategorie als RÃ¼ckgabewert.
 
 *(seit Version 2.2.0)*
 
@@ -30,9 +30,9 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedAccessRight
 
-Der "dmsModifyLoadedAccessRight"-Hook wird zum Ändern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$accessRight` (vorhandenee geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
-Er erwartet das geänderte Zugriffsrecht als Rückgabewert.
+Der "dmsModifyLoadedAccessRight"-Hook wird zum Ã„ndern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgefÃ¼hrt. So kÃ¶nnen die Eigenschaften verÃ¤ndert werden.
+Er Ã¼bergibt `$accessRight` (vorhandenee geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
+Er erwartet das geÃ¤nderte Zugriffsrecht als RÃ¼ckgabewert.
 
 *(seit Version 2.2.0)*
 
@@ -56,9 +56,9 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedDocument
 
-Der "dmsModifyLoadedDocument"-Hook wird zum Ändern von Dokumenten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$document` (vorhandenee geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
-Er erwartet das geänderte Dokument als Rückgabewert.
+Der "dmsModifyLoadedDocument"-Hook wird zum Ã„ndern von Dokumenten nach dem Laden durch den `DmsLoader` ausgefÃ¼hrt. So kÃ¶nnen die Eigenschaften verÃ¤ndert werden.
+Er Ã¼bergibt `$document` (vorhandenee geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
+Er erwartet das geÃ¤nderte Dokument als RÃ¼ckgabewert.
 
 *(seit Version 2.2.0)*
 

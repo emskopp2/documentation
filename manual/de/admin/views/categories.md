@@ -1,6 +1,6 @@
 # Kategorien
 
-Hier erhalten Sie Informationen über die Ansicht für Kategorien.
+Hier erhalten Sie Informationen Ã¼ber die Ansicht fÃ¼r Kategorien.
 
 ## Erstellen einer Kategorie
 
@@ -14,6 +14,6 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
 *NOTHING TO SEE YET*
 
-## Löschen einer Kategorie
+## LÃ¶schen einer Kategorie
 
-Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich kein Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.
+Das LÃ¶schen einer Kategorie ist nur dann erlaubt, wenn sich kein Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.

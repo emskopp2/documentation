@@ -1,27 +1,27 @@
-# Views
+# Ansichten
 
-Get information about the backend views.
+Hier erhalten Sie Informationen über die Ansichten.
 
-## Categories
+## Kategorien
 
-Explanation of the categories view.
+Erklärung der Ansicht für Kategorien.
 
 [Weiterlesen ...](categories.md)
 
-## Access rights
+## Zugriffsrechte
 
-Explanation of the access rights view.
+Erklärung der Ansicht für Zugriffsrechte.
 
 [Weiterlesen ...](access_rights.md)
 
-## Documents
+## Dokumente
 
-Explanation of the documents view.
+Erklärung der Ansicht für Dokumente.
 
 [Weiterlesen ...](documents.md)
 
-## File type sets
+## Dateityp-Sets
 
-Explanation of the file type sets view.
+Erklärung der Ansicht für Dateityp-Sets.
 
 [Weiterlesen ...](file_type_sets.md)

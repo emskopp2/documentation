@@ -1,5 +1,5 @@
 # Templates
 
-Hier erhalten Sie Informationen über die Templates.
+Hier erhalten Sie Informationen Ã¼ber die Templates.
 
 *NOTHING TO SEE YET*

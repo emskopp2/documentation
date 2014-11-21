@@ -1,5 +1,5 @@
 # Zugriffsrechte
 
-Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
+Hier erhalten Sie Informationen Ã¼ber die Ansicht fÃ¼r Zugriffsrechte.
 
 *NOTHING TO SEE YET*

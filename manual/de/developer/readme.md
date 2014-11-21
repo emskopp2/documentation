@@ -1,9 +1,9 @@
-# Developer manual
+# Entwicklerhandbuch
 
-Get information how to extend the DMS.
+Hier erhalten Sie Informationen, wie Sie das DMS erweitern.
 
 ## Hooks
 
-Hooks which could be used to modify objects or do custom work.
+Hooks, die verwendet werden könnten, um Objekte zu ändern oder benutzerdefinierte Aktionen durchzuführen.
 
 [Weiterlesen ...](hooks)

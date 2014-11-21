@@ -1,5 +1,5 @@
 # Dokumente
 
-Hier erhalten Sie Informationen über die Ansicht für Dokumente.
+Hier erhalten Sie Informationen Ã¼ber die Ansicht fÃ¼r Dokumente.
 
 *NOTHING TO SEE YET*

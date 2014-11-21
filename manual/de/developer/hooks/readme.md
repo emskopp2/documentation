@@ -1,27 +1,27 @@
 # Hooks
 
-The following hooks could be used.
+Die folgenden Hooks können verwendet werden.
 
 ## "dmsModifyLoaded..."-Hooks
 
-Modify objects loaded by DmsLoader.
+Ändern von Objekten die vom `DmsLoader` geladen wurden.
 
 [Weiterlesen ...](dmsModifyLoadedHooks.md)
 
 ### dmsModifyLoadedCategory
 
-Modify categories loaded by DmsLoader.
+Ändern von Kategorien die vom `DmsLoader` geladen wurden.
 
 [Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
 
 ### dmsModifyLoadedAccessRight
 
-Modify access rights loaded by DmsLoader.
+Ändern von Zugriffsrechten die vom `DmsLoader` geladen wurden.
 
 [Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
 
 ### dmsModifyLoadedDocument
 
-Modify documents loaded by DmsLoader.
+Ändern von Dokumenten die vom `DmsLoader` geladen wurden.
 
 [Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
