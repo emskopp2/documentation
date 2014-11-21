@@ -1,19 +1,19 @@
-# Categories
+# Kategorien
 
-Get information about the categories view.
+Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
-## Creating a category
+## Erstellen einer Kategorie
 
-*ToDo*
+*NOTHING TO SEE YET*
 
-## Editing a category
+## Bearbeitung einer Kategorie
 
-*ToDo*
+*NOTHING TO SEE YET*
 
-## Moving a category
+## Verschieben einer Kategorie
 
-*ToDo*
+*NOTHING TO SEE YET*
 
-## Deleting a category
+## Löschen einer Kategorie
 
-- deleting is only allowed, if there is no document in the category or in any of its subcategories
+Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich kein Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.

@@ -1,20 +1,20 @@
 # "dmsModifyLoaded..."-Hooks
 
-The following hooks could be used for modifying the objects loaded by DmsLoader.
+Die folgenden Hooks können verwendet werden um Objekte zu ändern die vom `DmsLoader` geladen wurden.
 
 ## dmsModifyLoadedCategory
 
-The "dmsModifyLoadedCategory" hook is triggered for modifying the categories loaded by DmsLoader. So the properties could be modified.
-It passes the `$category` (existing loaded object) and the `$dbResultCategory` (the database result).
-It expects the modified category as return value.
+Der "dmsModifyLoadedCategory"-Hook wird zum Ändern von Kategorien nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+Er übergibt `$category` (vorhandenee geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
+Er erwartet die geänderte Kategorie als Rückgabewert.
 
-*(since Version 2.2.0)*
+*(seit Version 2.2.0)*
 
 
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedCategory');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedCategory');
 
 // MyDmsModificationClass.php
 
@@ -30,17 +30,17 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedAccessRight
 
-The "dmsModifyLoadedAccessRight" hook is triggered for modifying the access rights loaded by DmsLoader. So the properties could be modified.
-It passes the `$accessRight` (existing loaded object) and the `$dbResultAccessRight` (the database result).
-It expects the modified access right as return value.
+Der "dmsModifyLoadedAccessRight"-Hook wird zum Ändern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+Er übergibt `$accessRight` (vorhandenee geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
+Er erwartet das geänderte Zugriffsrecht als Rückgabewert.
 
-*(since Version 2.2.0)*
+*(seit Version 2.2.0)*
 
 
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedAccessRight');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedAccessRight');
 
 // MyDmsModificationClass.php
 
@@ -56,17 +56,17 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedDocument
 
-The "dmsModifyLoadedDocument" hook is triggered for modifying the documents loaded by DmsLoader. So the properties could be modified.
-It passes the `$document` (existing loaded object) and the `$dbResultDocument` (the database result).
-It expects the modified access right as return value.
+Der "dmsModifyLoadedDocument"-Hook wird zum Ändern von Dokumenten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+Er übergibt `$document` (vorhandenee geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
+Er erwartet das geänderte Dokument als Rückgabewert.
 
-*(since Version 2.2.0)*
+*(seit Version 2.2.0)*
 
 
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedDocument');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedDocument');
 
 // MyDmsModificationClass.php
 

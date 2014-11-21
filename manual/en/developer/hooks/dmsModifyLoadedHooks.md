@@ -14,7 +14,7 @@ It expects the modified category as return value.
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedCategory');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedCategory');
 
 // MyDmsModificationClass.php
 
@@ -40,7 +40,7 @@ It expects the modified access right as return value.
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedAccessRight');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedAccessRight');
 
 // MyDmsModificationClass.php
 
@@ -66,7 +66,7 @@ It expects the modified access right as return value.
 ```php
 // config.php
 
-$GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][]   = array('MyDmsModificationClass', 'myDmsModifyLoadedDocument');
+$GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][] = array('MyDmsModificationClass', 'myDmsModifyLoadedDocument');
 
 // MyDmsModificationClass.php
 

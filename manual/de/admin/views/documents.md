@@ -1,5 +1,5 @@
-# Documents
+# Dokumente
 
-Get information about the documents view.
+Hier erhalten Sie Informationen über die Ansicht für Dokumente.
 
 *NOTHING TO SEE YET*

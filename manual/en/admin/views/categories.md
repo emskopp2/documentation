@@ -16,4 +16,4 @@ Get information about the categories view.
 
 ## Deleting a category
 
-- deleting is only allowed, if there is no document in the category or in any of its subcategories
+Deleting a category is only permitted if there is no document in this category or in one of its subcategories.

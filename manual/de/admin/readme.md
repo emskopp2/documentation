@@ -1,37 +1,39 @@
-# Admin manual
+# Administratorhandbuch
+
+Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
 
 ## Installation
 
-Explanation of the installation.
+Erklärung der Installation.
 
 [Weiterlesen ...](installation)
 
-## Initialization
+## Initialisierung
 
-Explanation of the initialization.
+Erklärung der Initialisierung.
 
 [Weiterlesen ...](initialization)
 
-## Modules
+## Module
 
-Explanation of the modules.
+Erklärung der Module.
 
 [Weiterlesen ...](modules)
 
-## Settings
+## Einstellungen
 
-Explanation of the settings.
+Erklärung der Einstellungen.
 
 [Weiterlesen ...](settings)
 
 ## Templates
 
-Explanation of the templates.
+Erklärung der Templates.
 
 [Weiterlesen ...](templates)
 
-## Views
+## Ansichten
 
-Explanation of the backend views.
+Erklärung der Ansichten.
 
 [Weiterlesen ...](views)

@@ -1,5 +1,5 @@
-# Access rights
+# Zugriffsrechte
 
-Get information about the access rights view.
+Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
 
 *NOTHING TO SEE YET*
