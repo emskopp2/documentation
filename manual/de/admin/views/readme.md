@@ -20,8 +20,8 @@ Explanation of the documents view.
 
 [Read more ...](documents.md)
 
-## Dataset-Typ
+## File type sets
 
-Explanation of the dataset-typ.
+Explanation of the file type sets view.
 
-[Read more ...](dataset_typ.md)
+[Read more ...](file_type_sets.md)
