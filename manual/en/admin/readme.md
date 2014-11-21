@@ -1,5 +1,7 @@
 # Admin manual
 
+Get information how to administrate the DMS.
+
 ## Installation
 
 Explanation of the installation.
