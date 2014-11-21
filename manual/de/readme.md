@@ -19,20 +19,20 @@ Mitglieder stehen im Frontend, die entsprechenden Rechte vorausgesetzt, verschie
 
 --- and so on --
 
-## Admin manual
+## Administratorhandbuch
 
 Get information how to administer the DMS.
 
-[Read more ...](admin)
+[Weiterlesen ...](admin)
 
 ## Developer manual
 
 Get information how to extend the DMS.
 
-[Read more ...](developer)
+[Weiterlesen ...](developer)
 
-## User manual
+## Benutzerhandbuch
 
 Get information how to use the DMS.
 
-[Read more ...](user)
+[Weiterlesen ...](user)

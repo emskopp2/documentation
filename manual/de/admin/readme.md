@@ -4,34 +4,34 @@
 
 Explanation of the installation.
 
-[Read more ...](installation)
+[Weiterlesen ...](installation)
 
 ## Initialization
 
 Explanation of the initialization.
 
-[Read more ...](initialization)
+[Weiterlesen ...](initialization)
 
 ## Modules
 
 Explanation of the modules.
 
-[Read more ...](modules)
+[Weiterlesen ...](modules)
 
 ## Settings
 
 Explanation of the settings.
 
-[Read more ...](settings)
+[Weiterlesen ...](settings)
 
 ## Templates
 
 Explanation of the templates.
 
-[Read more ...](templates)
+[Weiterlesen ...](templates)
 
 ## Views
 
 Explanation of the backend views.
 
-[Read more ...](views)
+[Weiterlesen ...](views)

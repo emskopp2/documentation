@@ -6,22 +6,22 @@ Get information about the backend views.
 
 Explanation of the categories view.
 
-[Read more ...](categories.md)
+[Weiterlesen ...](categories.md)
 
 ## Access rights
 
 Explanation of the access rights view.
 
-[Read more ...](access_rights.md)
+[Weiterlesen ...](access_rights.md)
 
 ## Documents
 
 Explanation of the documents view.
 
-[Read more ...](documents.md)
+[Weiterlesen ...](documents.md)
 
 ## File type sets
 
 Explanation of the file type sets view.
 
-[Read more ...](file_type_sets.md)
+[Weiterlesen ...](file_type_sets.md)

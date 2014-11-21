@@ -6,22 +6,22 @@ The following hooks could be used.
 
 Modify objects loaded by DmsLoader.
 
-[Read more ...](dmsModifyLoadedHooks.md)
+[Weiterlesen ...](dmsModifyLoadedHooks.md)
 
 ### dmsModifyLoadedCategory
 
 Modify categories loaded by DmsLoader.
 
-[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
+[Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
 
 ### dmsModifyLoadedAccessRight
 
 Modify access rights loaded by DmsLoader.
 
-[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
+[Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
 
 ### dmsModifyLoadedDocument
 
 Modify documents loaded by DmsLoader.
 
-[Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
+[Weiterlesen ...](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
