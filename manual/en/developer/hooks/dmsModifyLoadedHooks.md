@@ -1,10 +1,10 @@
 # "dmsModifyLoaded..."-Hooks
 
-The following hooks could be used for modifying the objects loaded by DmsLoader.
+The following hooks could be used for modifying the objects loaded by `DmsLoader`.
 
 ## dmsModifyLoadedCategory
 
-The "dmsModifyLoadedCategory" hook is triggered for modifying the categories loaded by DmsLoader. So the properties could be modified.
+The "dmsModifyLoadedCategory" hook is triggered for modifying the categories loaded by `DmsLoader`. So the properties could be modified.
 It passes the `$category` (existing loaded object) and the `$dbResultCategory` (the database result).
 It expects the modified category as return value.
 
@@ -30,7 +30,7 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedAccessRight
 
-The "dmsModifyLoadedAccessRight" hook is triggered for modifying the access rights loaded by DmsLoader. So the properties could be modified.
+The "dmsModifyLoadedAccessRight" hook is triggered for modifying the access rights loaded by `DmsLoader`. So the properties could be modified.
 It passes the `$accessRight` (existing loaded object) and the `$dbResultAccessRight` (the database result).
 It expects the modified access right as return value.
 
@@ -56,7 +56,7 @@ class MyDmsModificationClass
 
 ## dmsModifyLoadedDocument
 
-The "dmsModifyLoadedDocument" hook is triggered for modifying the documents loaded by DmsLoader. So the properties could be modified.
+The "dmsModifyLoadedDocument" hook is triggered for modifying the documents loaded by `DmsLoader`. So the properties could be modified.
 It passes the `$document` (existing loaded object) and the `$dbResultDocument` (the database result).
 It expects the modified access right as return value.
 
