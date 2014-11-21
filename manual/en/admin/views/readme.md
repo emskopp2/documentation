@@ -19,3 +19,10 @@ Explanation of the access rights view.
 Explanation of the documents view.
 
 [Read more ...](documents.md)
+
+
+## File type sets
+
+Explanation of the file type sets view.
+
+[Read more ...](file_type_sets.md)
