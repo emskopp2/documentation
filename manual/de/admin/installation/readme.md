@@ -14,7 +14,12 @@ http://www.contao.org/de/extension-list/view/DokManSystem.html
 
 Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen: 
 
-Kategorien, Zugriffsrechte, Dokumente (und Dateityp-Sets) zur Verfügung.
+* Kategorien
+* Zugriffsrechte
+* Dokumente 
+* (und Dateityp-Sets) 
+ 
+zur Verfügung.
 
 ## Installation per Composer
 
