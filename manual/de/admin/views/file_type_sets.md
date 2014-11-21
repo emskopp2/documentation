@@ -9,10 +9,10 @@ Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kateg
 
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
-Name: Aussagekräftigen Namen vergeben (z.B. PDF Dokumente)
-Beschreibung: optionale Angabe einer Beschreibung
-Erlaubte Dateitypen: pdf (Gross oder Kleinschreibung spielt keine Rolle)
-Dateityp-Set veröffentlichen: Checkbox aktivieren
+* Name: Aussagekräftigen Namen vergeben (z.B. PDF Dokumente)
+* Beschreibung: optionale Angabe einer Beschreibung
+* Erlaubte Dateitypen: pdf (Gross oder Kleinschreibung spielt keine Rolle)
+* Dateityp-Set veröffentlichen: Checkbox aktivieren
 
 Speichern nicht vergessen ;-)
 
