@@ -19,3 +19,9 @@ Explanation of the access rights view.
 Explanation of the documents view.
 
 [Read more ...](documents.md)
+
+## Dataset-Typ
+
+Explanation of the dataset-typ.
+
+[Read more ...](dataset_typ.md)
