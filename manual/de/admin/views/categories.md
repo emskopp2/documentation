@@ -4,12 +4,16 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
 ## Erstellen einer Kategorie
 
-![Screenshot Backend Menü](../screenshot_backend_menu.png)
-
 Im Modul DMS → Kategorien
+
+![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
 * auf „Neue Kategorie“ anlegen
 * Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen
+
+![Screenshot Ansicht Kategorien](../screenshot_ansicht _kategorien.png)
+
+
 
 ### Beschreibung der einzelnen Felder:
 
