@@ -4,7 +4,7 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
 ## Erstellen einer Kategorie
 
-![DMS Modul Backend](../../manual_images/DMSModulBE.png)
+![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
 Im Modul DMS → Kategorien
 
