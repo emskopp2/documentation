@@ -11,8 +11,7 @@ Im Modul DMS → Kategorien
 * auf „Neue Kategorie“ anlegen
 * Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen
 
-![Screenshot Ansicht Kategorien](../screenshot_ansicht _kategorien.png)
-
+![Screenshot Ansicht Kategorien](screenshot_ansicht_kategorien.png)
 
 
 ### Beschreibung der einzelnen Felder:
