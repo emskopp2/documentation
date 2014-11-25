@@ -2,11 +2,11 @@
 
 Hier erhalten Sie Informationen über die Initialisierung.
 
-## Dokumentenablage aufbauen
+## Mitglieder und Mitgliedergruppen anlegen
 
-Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt indem man Dateitypen-Sets erstellt, Kategorien anlegt und Zugriffsrechte zuweist, sollten schon Mitgliedergruppen in der Benutzerverwaltung von Contao angelegt sein oder legt diese nun an dieser Stelle an. 
+Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt, sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
 
-Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen allerdings macht das Vorhandensein von Mitgliedergruppen die nächsten Arbeitsschritte effizienter. 
+Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen der Kategorien die Arbeitsschritte effizienter. 
 
 ![Screenshot Benutzerverwaltung.png](/manual/de/admin/initialization/screenshot_user_management.png)
 
@@ -27,11 +27,4 @@ Jetzt hat man ein Dateityp-Set vom Typ pdf angelegt.
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
-Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. doc, docx oder jpg, gif, tif
-
-## Mitglieder und Mitgliedergruppen anlegen
-Falls noch nicht geschehen, sollte man bevor man mit dem eigentlichen Aufbau der Dokumentenablage weitermacht, die  Mitglieder und Mitgliedergruppen einrichten.
-
-Das Anlegen von Mitgliedern und Mitgliedergruppen geschieht in der Contao Benutzerverwaltung.
-
-Dies ist nur eine Empfehlung. Das Anlegen der Mitgliedergruppen kann auch zu einem späteren Zeitpunkt erfolgen. 
+Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. doc, docx oder jpg, gif, tif 
