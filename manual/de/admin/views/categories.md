@@ -6,7 +6,7 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
 Im Modul DMS → Kategorien
 
-![Screenshot Backend Menü](../screenshot_dms_backend_menu.png)
+![Screenshot Backend Menü](screenshot_dms_backend_menu.png)
 
 auf „Neue Kategorie“ anlegen
 
