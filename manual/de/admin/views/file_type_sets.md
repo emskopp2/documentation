@@ -1,4 +1,4 @@
-# Dateityp-Sets
+# Dateityp-Sets #
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
@@ -27,4 +27,3 @@ Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „E
 * Vererbung
 * Unifikation
 * Anzeige
-* Test
