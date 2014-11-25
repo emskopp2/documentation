@@ -4,4 +4,4 @@
 
 # English manual
 
-![EN](en.png) The english manual is available [hier](en).
+![EN](en.png) The english manual is available [here](en).
