@@ -14,6 +14,7 @@ auf „Neue Kategorie“ anlegen
 
 * Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen.
 
+**Folgende Abb.:** Anlage der allerersten Kategorie
 ![Screenshot Kategorie einfügen](screenshot_category_insert.png)
 
 
