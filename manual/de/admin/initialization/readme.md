@@ -8,6 +8,9 @@ Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt indem man Dat
 
 Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen allerdings macht das Vorhandensein von Mitgliedergruppen die nächsten Arbeitsschritte effizienter. 
 
+![Screenshot Benutzerverwaltung.png](/manual/de/admin/initialization/screenshot_user_management.png)
+
+
 ### Dateityp-Sets erstellen
 Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
