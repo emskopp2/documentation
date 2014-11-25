@@ -39,7 +39,9 @@ auf „Neue Kategorie“ anlegen
 ![Screenshot Datatyp-Set konfigurieren](screenshot_category_config_datatyp_set.png)
 
 * **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch
-von den Oberkategorie(n) geerbt werden sollen. **Beispiel**: Sie haben eine Kategorie "Obst" und legen erlaubte Dateitypen fest. Dann sie eine neue Unterkategorie "Kernobst". Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Oberkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter. Sie können für die Unterkategrie natürlich noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
+von den Oberkategorie(n) geerbt werden sollen.
+
+**Beispiel**: Sie haben eine Kategorie "Obst" und legen erlaubte Dateitypen fest. Dann erstellen sie eine neue Unterkategorie von "Obst" z.B. "Kernobst". Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Oberkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter. Sie können für die Unterkategorie natürlich noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
 
 #### Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl.
 
