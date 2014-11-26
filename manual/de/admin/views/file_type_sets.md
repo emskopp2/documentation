@@ -1,4 +1,4 @@
-# Dateityp-Sets #
+# Dateityp-Sets
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
@@ -7,13 +7,13 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 ## Dateityp-Sets erstellen
 Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
-![Screenshot DMS Backend Menü](screenshot_dms_backend_menu.png)
+![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
 
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
-![Screenshot Neues Dateityp-Set anlegen](screenshot_add_new_datatyp_set.png)
+![Screenshot Neues Dateityp-Sets anlegen](screenshot_file_type_sets_new.png)
 
 
 * **Name:** Aussagekräftigen Namen vergeben (z.B. Word Dokumente)
@@ -22,17 +22,17 @@ Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 *Sollen mehrere erlaubte Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. pdf, zip oder jpg, gif, tif*
 
-* **Dateityp-Set veröffentlichen:** Checkbox aktivieren
+* **Dateityp-Sets veröffentlichen:** Checkbox aktivieren
 
-![Screenshot Dateityp-Set konfigurieren](screenshot_datatyp_set_settings.png)
+![Screenshot Dateityp-Sets konfigurieren](screenshot_file_type_sets_settings.png)
 
 Speichern nicht vergessen ;-)
 
-Jetzt hat man ein Dateityp-Set vom Typ doc und docx angelegt.
+Jetzt hat man ein Dateityp-Sets vom Typ doc und docx angelegt.
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
-![Screenshot Dateityp-Set Liste](screenshot_datatyp_list.png)
+![Screenshot Dateityp-Sets Liste](screenshot_file_type_sets_list.png)
 
 
 

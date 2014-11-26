@@ -6,16 +6,19 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
 Im Modul DMS → Kategorien
 
-![Screenshot Backend Menü](screenshot_dms_backend_menu.png)
+![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
 auf „Neue Kategorie“ anlegen
 
-![Screenshot Neue Kategorie anlegen](screenshot_category_new_category.png)
+![Screenshot Neue Kategorie anlegen](screenshot_categories_new_category.png)
 
 * Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen.
 
 **Folgende Abb.:** Anlage der allerersten Kategorie
-![Screenshot Kategorie einfügen](screenshot_category_insert.png)
+![Screenshot Kategorie einfügen](screenshot_categories_insert_first.png)
+
+**Folgende Abb.:** Anlage der einer belibigen weiteren Kategorie auf gleicher Ebene
+![Screenshot Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
 
 
 
@@ -32,11 +35,11 @@ auf „Neue Kategorie“ anlegen
 
 ### Erlaubte Dateitypen
 
-![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_category_name_and_description.png)
+![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
 * **Erlaubte Dateitypen:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet ist. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
-![Screenshot Datatyp-Set konfigurieren](screenshot_category_config_datatyp_set.png)
+![Screenshot Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
 
 * **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch
 von den Oberkategorie(n) geerbt werden sollen.
@@ -47,7 +50,7 @@ von den Oberkategorie(n) geerbt werden sollen.
 
 * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
 
-![Screenshot Datatyp Sets benutzen](screenshot_category_using_datatyp_sets.png)
+![Screenshot Dateityp-Sets benutzen](screenshot_categories_config_file_type_sets_2.png)
 
 
 
@@ -70,7 +73,7 @@ Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
 Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
-![Screenshot Kategorieübersicht](screenshot_category_listing.png)
+![Screenshot Kategorieübersicht](screenshot_categories_list.png)
 
 
 
@@ -78,7 +81,7 @@ Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
 In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (Siehe oben: *Nun erfolgen die Einstellungen für die Kategorie.*)
 
-![Screenschot Kategorie bearbeiten](screenshot_category_edit.png)
+![Screenschot Kategorie bearbeiten](screenshot_categories_edit.png)
 
 
 
@@ -87,11 +90,11 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 Kategorien lassen sich einfach über die Symbole *Verschieben* und *Einfügen* an eine andere Stelle verschieben
 
 1. Kategorie verschieben: 
-![Screenshot Kategorie verschieben](screenshot_category_move.png)
+![Screenshot Kategorie verschieben](screenshot_categories_move.png)
 
 
 2. Kategorie einfügen:
-![Screenshot Kategorie einfügen nach verchieben](screenshot_category_insert_after_moving.png)
+![Screenshot Kategorie einfügen nach verchieben](screenshot_categories_insert_after_moving.png)
 
 
 
@@ -99,4 +102,4 @@ Kategorien lassen sich einfach über die Symbole *Verschieben* und *Einfügen* a
 
 Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich **kein** Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.
 
-![Screenshot Kategorie löschen](screenshot_category_delete.png)
+![Screenshot Kategorie löschen](screenshot_categories_delete.png)

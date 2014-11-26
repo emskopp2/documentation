@@ -11,6 +11,6 @@ Die Rechte sind in zwei Gruppen aufgeteilt:
 
 Wenn sie in der Kategorieübersicht mit dem Mauszeiger über die Symbole rechts neben einer Kategorie fahren, wird ihnen die aktuelle Rechteeinstellung angezeigt.
 
-![Screenshot Anzeige der Leserechte](screenshot_fading_access_right_read.png)
+![Screenshot Anzeige der Leserechte](screenshot_categories_list_fading_access_rights_read.png)
 
-![Screenshot Anzeige der Verwaltungsrechte](screenshot_fading_access_right_administrate.png)
+![Screenshot Anzeige der Verwaltungsrechte](screenshot_categories_list_fading_access_rights_manage.png)
