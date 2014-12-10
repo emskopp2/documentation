@@ -24,4 +24,7 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 ## Einbindung der Module in die Website
 Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfolgen.
 
+![screenshot_select_datatyp_modul.png](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
+![screenshot_select_modul.png](/manual/de/admin/modules/screenshot_select_modul.png)
+
 *Screenshot(s) –  Seitenstruktur – Artikel – Datensatz bearbeiten*
