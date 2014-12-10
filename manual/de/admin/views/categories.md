@@ -37,7 +37,9 @@ auf „Neue Kategorie“ anlegen
 
 ![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
-* **Erlaubte Dateitypen:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet ist. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
+* **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kateorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebefalls möglich.
+
+**Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet ist. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
 ![Screenshot Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
 
@@ -66,7 +68,7 @@ von den Oberkategorie(n) geerbt werden sollen.
 
 ### Sonstige Einstellungen
 
-* **Experten-Einstellungen:** Falls gewünscht kann hier eine ID und / oder Klasse(n) für CSS eintragen werden
+* **Experten-Einstellungen:** Stylesheets (CSS) Falls gewünscht kann hier eine ID und / oder Klasse(n) eintragen werden
 * **Kategorie veröffentlichen:** Checkbox aktiv = Kategorie wird im Frontend angezeigt
 * **Anzeigen ab** und **Anzeigen bis:** Von welchem Tag an soll die Kategorie angezeigt werden? Und bis zu welchem Tag soll die Kategorie angezeigt werden.
 Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
@@ -89,11 +91,11 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 
 Kategorien lassen sich einfach über die Symbole *Verschieben* und *Einfügen* an eine andere Stelle verschieben
 
-1. Kategorie verschieben: 
+**Kategorie verschieben:** 
 ![Screenshot Kategorie verschieben](screenshot_categories_move.png)
 
 
-2. Kategorie einfügen:
+**Kategorie einfügen:**
 ![Screenshot Kategorie einfügen nach verchieben](screenshot_categories_insert_after_moving.png)
 
 
