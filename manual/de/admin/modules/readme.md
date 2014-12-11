@@ -45,7 +45,7 @@ Backend-Module → Inhalte → Artikel
 ![Screenshot Modulposition auswählen.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
 
 
-→ Auswahl des Elementyps → *Modul* 
+→ Auswahl des Elementtyps → *Modul* 
 
 
 ![Screenshot Elementtyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
@@ -55,5 +55,6 @@ Backend-Module → Inhalte → Artikel
 
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
 
-![Screenshot DMS Modulauswahl](/manual/de/admin/modules/screenshot_select_modul.png)
+![screenshot_select_modul.png](/manual/de/admin/modules/screenshot_select_modul.png)
+
 
