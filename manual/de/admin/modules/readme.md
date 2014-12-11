@@ -4,13 +4,14 @@ Hier erhalten Sie Informationen über die Module.
 
 Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter -> Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt.
 
-## Neue Module anlegen 
 
 ![screenshot_modules.png](/manual/de/admin/modules/screenshot_modules.png)
 
+## Neue Module anlegen 
+
 ### Erstes Modul: Für die Anzeige der Dokumente
-* **Titel des Moduls:** DMS-Anzeige 
-* **Modultyp:** DMS-Anzeige
+* **Titel des Moduls:** DMS-Auflistung 
+* **Modultyp:** DMS-Auflistung
 * **DMS-Template:** mod_dms_listing
 
 ![Screenshot Auflistungsmodul](screenshot_module_listing.png)
@@ -36,15 +37,15 @@ Bakend-Module --> Inhalte --> Artikel
 
 --> Neues Element
 
-![screenshot_create_new_elementtyp.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
+![Screenshot Neues Element erstellen.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
 
 
 
-*Folgende Abb.:* Auswahl des Datentyps --> Modul 
+*Folgende Abb.:* Auswahl des Elementyps --> Modul 
 
-![Screenshot Datentyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
+![Screenshot Elementtyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
 
-*Folgende Abb.:* Auswahl des Moduls (hier das Module "DSM-Anzeige")
+*Folgende Abb.:* Auswahl des Moduls (hier das Modul "DSM-Anzeige")
 
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
 
