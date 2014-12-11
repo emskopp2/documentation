@@ -53,8 +53,6 @@ Backend-Module → Inhalte → Artikel
 
 → Auswahl des Moduls (hier das Modul "DMS-Auflistung")
 
+![Screenshot DMS Modulauswahl.png](/manual/de/admin/modules/screenshot_select_modul.png)
+
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
-
-![screenshot_select_modul.png](/manual/de/admin/modules/screenshot_select_modul.png)
-
-
