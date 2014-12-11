@@ -2,7 +2,7 @@
 
 Hier erhalten Sie Informationen über die Module.
 
-Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter -> Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt.
+Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter → Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt.
 
 
 ![Screenshot Module.png](/manual/de/admin/modules/screenshot_modules.png)
@@ -27,26 +27,31 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 ## Einbindung der Module in die Website
 Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfolgen.
 
-Bakend-Module --> Inhalte --> Artikel 
+Backend-Module → Inhalte → Artikel 
 
 ![Screenshot Werkzeug Artikel.png](/manual/de/admin/modules/screenshot_select_tool_article.png)
 
- -> Artikel auswählen 
+ → Artikel auswählen 
  
  ![Screenshot Artikel auswählen.png](/manual/de/admin/modules/screenshot_select_article.png)
 
 
---> Neues Element
+→ Neues Element
 
 ![Screenshot Neues Element erstellen.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
 
+→ Element an gewünschte Stelle einfügen
+
+![screenshot_select_modul_position.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
 
 
 *Folgende Abb.:* Auswahl des Elementyps --> Modul 
 
+
 ![Screenshot Elementtyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
 
-*Folgende Abb.:* Auswahl des Moduls (hier das Modul "DSM-Anzeige")
+
+*Folgende Abb.:* Auswahl des Moduls (hier das Modul "DMS-Auflistung")
 
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
 
