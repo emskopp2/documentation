@@ -7,14 +7,14 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 
 ![screenshot_modules.png](/manual/de/admin/modules/screenshot_modules.png)
 
-## Erstes Modul: Für die Auflistung der Dokumente: 
+## Erstes Modul: Für die Auflistung der Dokumente: anlegen
 * **Titel des Moduls:** DMS-Auflistung 
 * **Modultyp:** DMS-Auflistung 
 * **DMS-Template:** mod_dms_listing
 
 ![Screenshot Auflistungsmodul](screenshot_module_listing.png)
 
-## Zweites Modul: Für die Verwaltung der Dokumente: 
+## Zweites Modul: Für die Verwaltung der Dokumente anlegen
 * **Titel des Moduls:** DMS-Verwaltung 
 * **Modultyp:** DMS-Verwaltung 
 * **DMS-Template:** mod_dms_management
@@ -26,10 +26,13 @@ Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfol
 
 Backend --> Artikelansicht -> Artikel auswählen --> Neues Element --> 
 
+
 **Folgende Abb.:** Auswahl des Datentyps --> Modul 
+
 ![Screenshot Datentyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
 
 **Folgende Abb.:** Auswahl des Moduls (hier "DSM-Auflistung")
+
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
 ![Screenshot DMS Modulauswahl](/manual/de/admin/modules/screenshot_select_modul.png)
 
