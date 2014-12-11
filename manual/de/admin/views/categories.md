@@ -8,17 +8,21 @@ Im Modul DMS → Kategorien
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
-auf „Neue Kategorie“ anlegen
+→ "Neue Kategorie“ anlegen
 
 ![Screenshot Neue Kategorie anlegen](screenshot_categories_new_category.png)
 
-* Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen.
+
+→ Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen:
 
 **Folgende Abb.:** Anlage der allerersten Kategorie
 ![Screenshot Kategorie einfügen](screenshot_categories_insert_first.png)
 
-**Folgende Abb.:** Anlage der einer belibigen weiteren Kategorie auf gleicher Ebene
+**Folgende Abb.:** Anlage einer beliebigen weiteren Kategorie auf gleicher Ebene
 ![Screenshot Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
+
+**Folgende Abb.:** Anlage einer weiteren Kategorie als Unterebene
+![screenshot_categories_insert_second_level.png](/manual/de/admin/views/screenshot_categories_insert_second_level.png)
 
 
 
