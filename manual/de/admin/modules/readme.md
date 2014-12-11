@@ -2,19 +2,20 @@
 
 Hier erhalten Sie Informationen über die Module.
 
+Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter -> Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt.
+
 ## Neue Module anlegen 
-Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter -> Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt. 
 
 ![screenshot_modules.png](/manual/de/admin/modules/screenshot_modules.png)
 
-## Erstes Modul: Für die Anzeige der Dokumente: anlegen
+### Erstes Modul: Für die Anzeige der Dokumente
 * **Titel des Moduls:** DMS-Anzeige 
 * **Modultyp:** DMS-Anzeige
 * **DMS-Template:** mod_dms_listing
 
 ![Screenshot Auflistungsmodul](screenshot_module_listing.png)
 
-## Zweites Modul: Für die Verwaltung der Dokumente anlegen
+### Zweites Modul: Für die Verwaltung der Dokumente
 * **Titel des Moduls:** DMS-Verwaltung 
 * **Modultyp:** DMS-Verwaltung 
 * **DMS-Template:** mod_dms_management
@@ -24,7 +25,7 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 ## Einbindung der Module in die Website
 Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfolgen.
 
-Unter Inhalte --> Artikel 
+Bakend-Module --> Inhalte --> Artikel 
 
 ![Screenshot Werkzeug Artikel.png](/manual/de/admin/modules/screenshot_select_tool_article.png)
 
@@ -32,17 +33,20 @@ Unter Inhalte --> Artikel
  
  ![screenshot_select_article.png](/manual/de/admin/modules/screenshot_select_article.png)
 
+
 --> Neues Element
+
 ![screenshot_create_new_elementtyp.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
 
 
 
-**Folgende Abb.:** Auswahl des Datentyps --> Modul 
+*Folgende Abb.:* Auswahl des Datentyps --> Modul 
 
 ![Screenshot Datentyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
 
-**Folgende Abb.:** Auswahl des Moduls (hier "DSM-Anzeige")
+*Folgende Abb.:* Auswahl des Moduls (hier das Module "DSM-Anzeige")
 
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
+
 ![Screenshot DMS Modulauswahl](/manual/de/admin/modules/screenshot_select_modul.png)
 
