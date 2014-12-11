@@ -42,16 +42,16 @@ Backend-Module → Inhalte → Artikel
 
 → Element an gewünschte Stelle einfügen
 
-![screenshot_select_modul_position.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
+![Screenshot Modulposition auswählen.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
 
 
-*Folgende Abb.:* Auswahl des Elementyps --> Modul 
+→ Auswahl des Elementyps → *Modul* 
 
 
 ![Screenshot Elementtyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
 
 
-*Folgende Abb.:* Auswahl des Moduls (hier das Modul "DMS-Auflistung")
+→ Auswahl des Moduls (hier das Modul "DMS-Auflistung")
 
 Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
 
