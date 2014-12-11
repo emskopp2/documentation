@@ -17,7 +17,7 @@ Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen:
 * Kategorien
 * Zugriffsrechte
 * Dokumente 
-* (und Dateityp-Sets) 
+* (und Dateityp-Sets) *ist ein extra addon, muss separat installiert werden*
  
 zur Verfügung.
 
