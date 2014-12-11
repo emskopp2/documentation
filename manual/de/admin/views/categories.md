@@ -22,7 +22,7 @@ Im Modul DMS → Kategorien
 ![Screenshot Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
 
 **Folgende Abb.:** Anlage einer weiteren Kategorie als Unterebene
-![screenshot_categories_insert_second_level.png](/manual/de/admin/views/screenshot_categories_insert_second_level.png)
+![Screenshot Kategorie einfügen als Unterebene](/manual/de/admin/views/screenshot_categories_insert_second_level.png)
 
 
 
@@ -31,7 +31,7 @@ Im Modul DMS → Kategorien
 
 ### Name und Beschreibung
 
-* **Name:** Kategorienamen eintragen (Pflichtfeld)
+* **Name:** Kategoriename eintragen (Pflichtfeld)
 * **Beschreibung:** Beschreibung der Kategorie angeben (Angabe ist optional)
 
 
@@ -41,16 +41,18 @@ Im Modul DMS → Kategorien
 
 ![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
-* **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kateorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebefalls möglich.
+* **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kateorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebenfalls möglich.
 
-**Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet ist. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
+**Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
 ![Screenshot Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
 
-* **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch
-von den Oberkategorie(n) geerbt werden sollen.
+* **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch von den Oberkategorie(n) geerbt werden sollen.
 
-**Beispiel**: Sie haben eine Kategorie "Obst" und legen erlaubte Dateitypen fest. Dann erstellen sie eine neue Unterkategorie von "Obst" z.B. "Kernobst". Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Oberkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter. Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
+**Beispiel**: Sie haben eine Kategorie "Obst" und legen für diese erlaubte Dateitypen fest. Dann erstellen sie für "Obst" eine neue Unterkategorie z.B. "Kernobst". 
+Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Oberkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter. 
+Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
+
 
 #### Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl.
 
@@ -72,7 +74,7 @@ von den Oberkategorie(n) geerbt werden sollen.
 
 ### Sonstige Einstellungen
 
-* **Experten-Einstellungen:** Stylesheets (CSS) Falls gewünscht kann hier eine ID und / oder Klasse(n) eintragen werden
+* **Experten-Einstellungen:** Stylesheets (CSS) - Falls gewünscht kann hier eine ID und / oder Klasse(n) eintragen werden
 * **Kategorie veröffentlichen:** Checkbox aktiv = Kategorie wird im Frontend angezeigt
 * **Anzeigen ab** und **Anzeigen bis:** Von welchem Tag an soll die Kategorie angezeigt werden? Und bis zu welchem Tag soll die Kategorie angezeigt werden.
 Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
@@ -85,9 +87,9 @@ Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
 ## Bearbeitung einer Kategorie
 
-In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (Siehe oben: *Nun erfolgen die Einstellungen für die Kategorie.*)
+In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (**Siehe oben:** *Nun erfolgen die Einstellungen für die Kategorie.*)
 
-![Screenschot Kategorie bearbeiten](screenshot_categories_edit.png)
+![Screenshot Kategorie bearbeiten](screenshot_categories_edit.png)
 
 
 
