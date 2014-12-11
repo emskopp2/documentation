@@ -28,9 +28,12 @@ Unter Inhalte --> Artikel
 
 ![Screenshot Werkzeug Artikel.png](/manual/de/admin/modules/screenshot_select_tool_article.png)
 
- -> Artikel auswählen --> Neues Element
+ -> Artikel auswählen 
  
  ![screenshot_select_article.png](/manual/de/admin/modules/screenshot_select_article.png)
+
+--> Neues Element
+![screenshot_create_new_elementtyp.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
 
 
 
