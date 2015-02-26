@@ -17,7 +17,6 @@ Mitglieder stehen im Frontend, die entsprechenden Rechte vorausgesetzt, verschie
 - Dokument(e) auf "Veröffentlichen / Nicht veröffentlichen" setzen
 - Dokument(e) Bearbeiten (Anpassung des Dokumentnamen, der Angabe von Schlüsselworten)
 
---- and so on --
 
 ## Administratorhandbuch
 
