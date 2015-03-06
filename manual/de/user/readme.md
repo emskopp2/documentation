@@ -17,12 +17,18 @@ Die Schaltfläche „Zurücksetzen“ löscht den Suchfilter wieder.
 ![screenshot_frontend_dms_anzeige.png](/manual/de/user/screenshot_frontend_dms_listing.png)
 
 
+## Dokumente einblenden / ausblenden
+
+
 
 
 
 ## Verwaltungsansicht der Dokumente im Frontend (DMS-Verwaltung)
 
-![screenshot_Auswahl_019.png](/manual/de/user/screenshot_Auswahl_019.png)
+![screenshot_frontend_dms_management.png](/manual/de/user/screenshot_frontend_dms_management.png)
+
+
+## 
 
 
 
