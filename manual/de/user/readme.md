@@ -2,7 +2,7 @@
 
 Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
-## Anzeige der Dokumente im Frontend (DMS-Anzeige)
+## Auflistung der Dokumente im Frontend (DMS-Anzeige)
 
 Die Auflistung der Dokumente ist in zwei Bereiche aufgeteilt. Auf der linken Seite sind die Kategorien in Form einer Baumstruktur zu sehen. Rechts wird die Anzahl der in der jeweiligen Kategorie enthaltenden Dokumente angezeigt.
 Befinden sich Dokumente in einer Kategorie, wird neben der Anzahl eine Checkbox angezeigt. Bei Aktivierung der Checkbox werden die Dokumente der entsprechenden Kategorie aufgelistet.
@@ -20,7 +20,7 @@ Die Schaltfläche „Zurücksetzen“ löscht den Suchfilter wieder.
 
 
 
-## Verwaltung der Dokumente im Frontend (DMS-Verwaltung)
+## Verwaltungsansicht der Dokumente im Frontend (DMS-Verwaltung)
 
 ![screenshot_frontend_dms_verwaltung.png](/manual/de/user/screenshot_frontend_dms_management.png)
 
