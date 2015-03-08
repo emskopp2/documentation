@@ -14,7 +14,6 @@ Es kann nach Dokumenten gesucht werden. Dafür werden die zwei Suchoptionen „E
 Die Schaltfläche „Zurücksetzen“ löscht den Suchfilter wieder.
 
 
-![screenshot_frontend_dms_anzeige.png](/manual/de/user/screenshot_frontend_dms_listing.png)
 
 
 ## Dokumente einblenden / ausblenden
@@ -25,7 +24,7 @@ Die Schaltfläche „Zurücksetzen“ löscht den Suchfilter wieder.
 
 ## Verwaltungsansicht der Dokumente im Frontend (DMS-Verwaltung)
 
-![screenshot_frontend_dms_management.png](/manual/de/user/screenshot_frontend_dms_management.png)
+
 
 
 ## 
