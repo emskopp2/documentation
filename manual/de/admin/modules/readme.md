@@ -40,7 +40,7 @@ Backend-Module → Inhalte → Artikel
 
 ![Screenshot Neues Element erstellen.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
 
-→ Element an gewünschte Stelle einfügen
+→ Element an gewünschte Stelle mittels Einfügesymbol einfügen
 
 ![Screenshot Modulposition auswählen.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
 
