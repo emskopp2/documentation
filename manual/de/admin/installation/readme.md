@@ -20,7 +20,7 @@ Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen:
 * (und Dateityp-Sets) *ist ein extra addon, muss separat installiert werden*
  
 zur Verfügung.
-![screenshot_dms_backend_tools.png](/manual/de/admin/installation/screenshot_dms_backend_tools.png)
+![Screenshot ContaoDMS Backend Werkzeuge](/manual/de/admin/installation/screenshot_dms_backend_tools.png)
 
 
 ## Installation per Composer
