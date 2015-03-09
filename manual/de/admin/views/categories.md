@@ -62,17 +62,25 @@ Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dat
 
 
 
-### Veröffentlichung von Dokumenten und Zugriffsrechte
+## Veröffentlichung von Dokumenten
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
-* **Grundsätzliches Leserecht:** Alle Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie. Sie müssen dazu nicht angemeldet sein.
+
+### Grundsätzliches Leserecht  
+Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
+* **Leserecht für alle Mitglieder:** Alle Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie. Sie müssen dazu nicht angemeldet sein.
 * **Leserecht für angemeldete Mitglieder:**  Nur angemeldete Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie.
 * **Spezielle Leserechte für einzelne Mitgliedergruppen:** Es werden für diese Kategorie spezielle Leserechte für einzelne Mitgliedergruppen vergeben (im Bereich Zugriffsrechte).
 * **Vererbung der Leserechte durch Oberkategorie(n):** Es werden für diese Kategorie die Leserechte der Oberkategorie(n) verwendet.
 
+### Grundsätzliche Verwaltungsrechte  
+Geben Sie die grundsätzlichen Verwaltungsrechte für Dokumente dieser Kategorie an.  
+* **Alle Verwaltungsrechte für angemeldete Mitglieder**
+* **Spezielle Verwaltungsrechte für einzelne Mitgliedergruppen**
+* **Vererbung der Verwaltungsrechte durch Oberkategorie(n)**
 
 
-### Sonstige Einstellungen
+## Sonstige Einstellungen
 
 * **Experten-Einstellungen:** Stylesheets (CSS) - Falls gewünscht kann hier eine ID und / oder Klasse(n) eintragen werden
 * **Kategorie veröffentlichen:** Checkbox aktiv = Kategorie wird im Frontend angezeigt
