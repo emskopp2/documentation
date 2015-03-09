@@ -11,7 +11,8 @@ Github: https://github.com/ContaoDMS/bundle-all
 Packagist: https://packagist.org/packages/contao-dms/bundle-all
 
 ## Dateityp-Sets erstellen
-Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden. Die Sets stehen bei der Neuanlage von Kategorien zur Verfügung und können leicht ausgewählt werden.
+Dateitypen-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.  
+Die Sets stehen bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
