@@ -2,15 +2,26 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
 
-An dieser Stelle soll nochmal detailiert auf die Zugriffsrechte eingegangen werden.
+Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitglieder(gruppen) für das Frontend ein.
 
-Die Rechte sind in zwei Gruppen aufgeteilt:
+## Neues Zugriffsrecht erstellen
 
-**1. Grundsätzliches Leserecht** (für die in der Kategorie abgelegten Dokumente)
-**2. Grundsätzliche Verwaltungsrechte** (für die in der Kategorie abgelegten Dokumente)
+1. Klicken Sie auf **Neues Zugriffsrecht**
+2. Wählen Sie die Kategorie aus für das Sie das Zugriffsrecht definieren möchten
+3. Wählen Sie die Mitgliedergruppe deren Rechte für diese Kategorie festgelegt werden soll
+4. Setzen Sie im nächten Abschitt *Rechte* die gewünschten Rechte
 
-Wenn sie in der Kategorieübersicht mit dem Mauszeiger über die Symbole rechts neben einer Kategorie fahren, wird ihnen die aktuelle Rechteeinstellung angezeigt.
+**Diese wären:**  
+*Dokumente lesen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.
 
-![Screenshot Anzeige der Leserechte](screenshot_categories_list_fading_access_rights_read.png)
+*Dokumente uploaden:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in diese Kategorie hochladen dürfen.
 
-![Screenshot Anzeige der Verwaltungsrechte](screenshot_categories_list_fading_access_rights_manage.png)
+*Dokumente löschen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie löschen dürfen.
+
+*Dokumente bearbeiten:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie bearbeiten dürfen.
+
+*Dokumente veröffentlichen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
+
+**Aktivierung:** Setzen Sie das Zugriffsrecht auf *aktiv* (direkt aktiviert) oder *inaktiv* (kein Häkchen)
+
+Optionen **Aktivieren ab** und **Anzeigen bis**: Sie können den Tag festlegen wann das Zugriffsrecht aktiviert werden soll und bei Eingabe eines Tages im Feld **Anzeigen bis** die Dauer der Aktivierung.
