@@ -9,7 +9,7 @@ Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitgliede
 1. Klicken Sie auf **Neues Zugriffsrecht**
 2. Wählen Sie die Kategorie aus für das Sie das Zugriffsrecht definieren möchten
 3. Wählen Sie die Mitgliedergruppe deren Rechte für diese Kategorie festgelegt werden soll
-4. Setzen Sie im nächten Abschitt *Rechte* die gewünschten Rechte
+4. Setzen Sie im nächten Abschnitt *Rechte* die gewünschten Rechte
 
 **Diese wären:**  
 *Dokumente lesen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.
