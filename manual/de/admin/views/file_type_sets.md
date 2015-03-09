@@ -2,7 +2,9 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
-*ist ein extra addon, muss separat installiert werden*
+*ist ein extra addon, muss separat installiert werden*  
+Github: https://github.com/ContaoDMS/dms-FileTypeSets  
+Packagist: https://packagist.org/packages/contao-dms/file-type-sets
 
 ## Dateityp-Sets erstellen
 Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich. Die Sets stehen dann bei der Neuanlage von Kategorien zur Verfügung und können leicht ausgewählt werden.
