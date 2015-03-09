@@ -10,13 +10,13 @@ Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datat
 Github: https://github.com/ContaoDMS/bundle-all  
 Packagist: https://packagist.org/packages/contao-dms/bundle-all
 
-## Dateityp-Sets erstellen
-Dateitypen-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.  
+## Was sind Dateityp-Sets?
+Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.  
 Die Sets stehen bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
-
+## Dateityp-Sets erstellen
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
