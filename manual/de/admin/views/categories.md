@@ -12,6 +12,7 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
     * Mehrere Datensätze bearbeiten
 * Verschieben einer Kategorie
 * Löschen einer Kategorie
+
 ---
 
 ## Anlegen einer neuen Kategorie
