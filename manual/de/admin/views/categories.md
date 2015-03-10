@@ -120,6 +120,7 @@ Wählen sie die zu bearbeitenden Felder aus und klicken auf *Weiter*:
 Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
 
 **Speichern nicht vergessen**
+
 ---
 
 ## Verschieben einer Kategorie
