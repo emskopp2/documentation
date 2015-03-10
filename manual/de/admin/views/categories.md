@@ -107,14 +107,14 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 ### Mehrere Datensätze bearbeiten
 Sie können auch über die Funktion *Mehrere bearbeiten* mehrere Datensätze auswählen um Einstellungen vorzunehmen. Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
 
-![screenshot_multitask.png](/manual/de/admin/views/screenshot_multitask.png)
+![Screenshot Mehrere Datensätze bearbeiten](/manual/de/admin/views/screenshot_multitask.png)
 
 Wählen sie die zu bearbeitenden Kategorien und klicken unten auf *Bearbeiten*:
 
-![screenshot_multitask_selectionpng.png](/manual/de/admin/views/screenshot_multitask_selectionpng.png)
+![Screenshot ausgewählte Datensätze](/manual/de/admin/views/screenshot_multitask_selectionpng.png)
 
 Wählen sie die zu bearbeitenden Felder aus und klicken auf *Weiter*:
-![screenshot_select_existing_fields.png](/manual/de/admin/views/screenshot_select_existing_fields.png)
+![Screenshot zu bearbeitende Felder auswählen.png](/manual/de/admin/views/screenshot_select_existing_fields.png)
 
 Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
 
