@@ -2,6 +2,11 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
+## Inhalt
+* Was sind Dateityp-Sets?
+* Dateityp-Sets erstellen
+* Verarbeitung der Dateityp Sets
+
 **Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden  
 Github: https://github.com/ContaoDMS/dms-FileTypeSets  
 Packagist: https://packagist.org/packages/contao-dms/file-type-sets
@@ -10,13 +15,13 @@ Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datat
 Github: https://github.com/ContaoDMS/bundle-all  
 Packagist: https://packagist.org/packages/contao-dms/bundle-all
 
-## Was sind Dateityp-Sets?
+### Was sind Dateityp-Sets?
 Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.  
 Die Sets stehen bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
-## Dateityp-Sets erstellen
+### Dateityp-Sets erstellen
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
@@ -33,7 +38,7 @@ Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 ![Screenshot Dateityp-Sets konfigurieren](screenshot_file_type_sets_settings.png)
 
-Jetzt hat man ein Dateityp-Set vom Typ doc und docx angelegt.
+Jetzt hat man ein Dateityp-Set vom Typ **doc,docx** angelegt.
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
@@ -41,7 +46,7 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 
 
 
-## Verarbeitung der Dateityp Sets
+### Verarbeitung der Dateityp Sets
 
 * Vererbung
 * Unifikation
