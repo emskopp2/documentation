@@ -2,29 +2,45 @@
 
 Hier erhalten Sie Informationen über die Initialisierung.
 
-## Mitglieder und Mitgliedergruppen anlegen
+## Inhalt
+* Mitglieder und Mitgliedergruppen anlegen
+* Dateityp-Sets erstellen
 
-Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt, sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
+
+### Mitglieder und Mitgliedergruppen anlegen
+
+Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt (also Kategorien anlegt, Zugriffsrechte zuordnet usw.), sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
 
 Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen der Kategorien die Arbeitsschritte effizienter. 
 
-![Screenshot Benutzerverwaltung.png](/manual/de/admin/initialization/screenshot_user_management.png)
+![Screenshot Benutzerverwaltung](/manual/de/admin/initialization/screenshot_user_management.png)
 
 
 ### Dateityp-Sets erstellen
-Dateitypen-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
+Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens ein erlaubten Dateityp enthalten.
+Die Sets stehen dann bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
-Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
+![Screenshot Werkzeug Dateityp-Sets](/manual/de/admin/initialization/screenshot_datatype-set.png)
 
-Name: Aussagekräftigen Namen vergeben (z.B. PDF Dokumente)
-Beschreibung: optionale Angabe einer Beschreibung
-Erlaubte Dateitypen: pdf (Gross oder Kleinschreibung spielt keine Rolle)
-Dateityp-Set veröffentlichen: Checkbox aktivieren
+Im Menü unter DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
-Speichern nicht vergessen ;-)
+![Screenshot Neues Dateityp-Set anlegen](/manual/de/admin/initialization/screenshot_add_new_datatyp_set.png)
 
-Jetzt hat man ein Dateityp-Set vom Typ pdf angelegt.
+* **Name:** Aussagekräftigen Namen vergeben (z.B. Word Dokumente)
+* **Beschreibung:** optionale Angabe einer Beschreibung
+* **Erlaubte Dateitypen:** doc,docx (Gross oder Kleinschreibung spielt keine Rolle)  
+Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese durch Komma getrennt eingetragen. Z.B. doc, docx oder jpg, gif, tif 
+* **Dateityp-Set veröffentlichen:** Checkbox aktivieren
+
+![Screenshot Dateityp-Sets konfigurieren](/manual/de/admin/initialization/screenshot_datatyp_set_settings.png)
+
+
+**Speichern** nicht vergessen
+
+Jetzt hat man ein Dateityp-Set vom Typ *doc,docx* angelegt.
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
-Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. doc, docx oder jpg, gif, tif 
+![Screenshot Dateityp-Sets Liste](/manual/de/admin/initialization/screenshot_file_type_sets_list.png)
+
+
