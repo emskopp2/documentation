@@ -47,5 +47,5 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 
 ## Verarbeitung der Dateityp Sets
 
-Weitere Informationen zum Thema **Dateityp-Sets**, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
+Wie sie **Dateityp-Sets** weiterverarbeiten, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
 
