@@ -3,18 +3,28 @@
 Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 ## Inhalt
-* Auflistung der Dokumente im Frontend (DMS-Auflistung)
-* Dokumente einer Kategorie anzeigen oder ausblenden
-* Alle Dokumente anzeigen oder ausblenden
-* Suchfunktion
-* Verwaltungsansicht im Frontend (DMS-Verwaltung)
+* Auflistung der Dokumente im Frontend **(DMS-Auflistung)**
+    * Dokumente einer Kategorie anzeigen oder ausblenden
+    * Alle Dokumente anzeigen oder ausblenden
+    * Suchfunktion
+* Verwaltungsansicht im Frontend **(DMS-Verwaltung)**
+	* Dokumente hochladen
+* Hinweismeldungen
 
 ---
 
-## Auflistung der Dokumente im Frontend (DMS-Anzeige)
+# Auflistung der Dokumente im Frontend (DMS-Auflistung)
 
-Die Auflistung der Dokumente ist in zwei Bereiche aufgeteilt. Auf der linken Seite sind die Kategorien in Form einer Baumstruktur zu sehen. Rechts wird die Anzahl der in der jeweiligen Kategorie enthaltenden Dokumente angezeigt.
-Befinden sich Dokumente in einer Kategorie, wird neben der Anzahl eine Checkbox angezeigt. Bei Aktivierung der Checkbox werden die Dokumente der entsprechenden Kategorie aufgelistet.
+**Gliederung der DMS-Auflistung:**
+
+* Suchfunktion  
+
+**Dann folgt die eigenliche Auflistung der Dokumente (Unterteilung von links nach rechts):**
+* Die **Kategorien** als Baumstruktur. 
+* Dann die **Anzahl (Summe)** der in der jeweiligen Kategorie enthaltenden Dokumente.
+* **Auswahl:** Sobald sich Dokumente in einer Kategorie befinden (und das Mitglied das Recht hat ;-) Dokumente zu lesen), wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
+
+* Buttons **Alle Dokumente anzeigen** oder **Alle Dokumente ausblenden**
 
 ![Screenshot Auflistung der Dokumente](/manual/de/user/screenshot_frontend_dms_listing.png)
 
@@ -29,7 +39,7 @@ Die in einer Kategorie enthaltenen Dokumente lassen sich mit der Checkbox ein-, 
 
 ## Alle Dokumente anzeigen oder ausblenden
 
-Sie können mit Hilfe der Buttons am Ende der Dokumentenliste auch alle Dokumente ein-, bzw- ausblenden
+Sie können mit Hilfe der Buttons am Ende der Dokumentenliste auch alle Dokumente ein-, bzw. ausblenden
 
 ![Screenshot Alle Dokumente ein oder ausblenden](/manual/de/user/screenshot_frontend_dms_listing_view_all_or_hide_all_documents.png)
 
@@ -41,7 +51,7 @@ Es kann nach Dokumenten gesucht werden. Dafür werden die zwei Suchoptionen **Ex
 
 Die Schaltfläche **Zurücksetzen** löscht den Suchfilter wieder.
 
-Als Suchergebnis erhalten bleiben die Auswahlfelder der Kategorien eingeblendet, die Dokumente mit dem Suchbegriff enthalten. Alle anderen werden ausgeblendet.
+Als Suchergebnis behalten sie die Auswahlfelder der Kategorien eingeblendet, die Dokumente mit dem Suchbegriff enthalten. Alle anderen werden ausgeblendet.
 
 ![Screenshot Suchergebnis](/manual/de/user/screenshot_frontend_dms_listing_searching_documents.png)
 
@@ -50,12 +60,11 @@ Als Suchergebnis erhalten bleiben die Auswahlfelder der Kategorien eingeblendet,
 ![Gefundene Dokumente anzeigen](/manual/de/user/screenshot_frontend_dms_listing_searching_documents_view_documents.png)
 
 ---
-
-## Verwaltungsansicht der Dokumente im Frontend (DMS-Verwaltung)
+# Verwaltungsansicht im Frontend (DMS-Verwaltung)
 
 ![Screenshot Verwaltungsansicht](/manual/de/user/screenshot_frontend_dms_management.png)
 
-
+---
 
 ## Dokumente hochladen
 Nachfolgend sind die Schritte beschrieben wie sie Dokumente hochladen.
@@ -70,11 +79,31 @@ Dann weiter auf **Durchsuchen**:
 Wählen sie das hochzuladene Dokument und bestätigen sie mit **Öffnen**:
 ![Screenshot Dokument lokal auswählen](/manual/de/user/screenshot_frontend_dms_management_search_upload_document_select.png)
 
-Klicken nun auf **Hochladen**:
+Klicken sie nun auf **Hochladen**:
 ![Screenshot Dokument hochladen](/manual/de/user/screenshot_frontend_dms_management_upload.png)
 
-Bestimmen sie nun die Dokumenteigenschaften
+Bestimmen sie die **Dokumenteigenschaften**:
 ![Screenshot Dokumenteigenschaften bestimmen](/manual/de/user/screenshot_frontend_dms_management_upload_document_description.png)
+
+---
+
+## Hinweismeldungen
+Nachfolgend sind Hinweismeldungen aufgeführt, die Ihnen beim Arbeiten mit dem ContaoDMS begegnen können:
+
+* Die nachfolgende Meldung erhalten sie, wenn ein Dateityp hochgeladen wird der für diese Kategorie nicht freigegeben ist. 
+
+![Screenshot Meldung Nicht erlaubter Dateityp](/manual/de/user/screenshot_frontend_dms_management_message_forbidden_datatyp.png)
+
+* Die folgende Meldung erhalten sie beim Upload, wenn das System festgestellt, dass es noch mindestens ein Dokument mit gleichem Namen in einer anderen Kategorie gibt. 
+![Screenshot Dokument mit gleichen Namen in anderer Kategorie schon vorhanden](/manual/de/user/screenshot_frontend_dms_management_several_document_versions.png)
+
+
+
+
+
+
+
+
 
 
 
