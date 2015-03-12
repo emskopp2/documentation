@@ -15,6 +15,7 @@ Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das 
 
 ![Screenshot Benutzerverwaltung](/manual/de/admin/initialization/screenshot_user_management.png)
 
+---
 
 ### Dateityp-Sets erstellen
 Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens ein erlaubten Dateityp enthalten.
@@ -42,5 +43,7 @@ Jetzt hat man ein Dateityp-Set vom Typ *doc,docx* angelegt.
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
 ![Screenshot Dateityp-Sets Liste](/manual/de/admin/initialization/screenshot_file_type_sets_list.png)
+
+Weitere Informationen zum Thema **Dateityp-Sets**, z.B. über die Vererbung, erhalten sie im Kapitel [Weiterlesen ...](views)
 
 
