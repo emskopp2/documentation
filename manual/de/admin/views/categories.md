@@ -46,10 +46,9 @@ Im Modul DMS → Kategorien
 * **Name:** Kategoriename eintragen (Pflichtfeld)
 * **Beschreibung:** Beschreibung der Kategorie angeben (Angabe ist optional)
 
+![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
 ### Erlaubte Dateitypen
-
-![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
 * **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebenfalls möglich.
 
