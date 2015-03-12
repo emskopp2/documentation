@@ -77,7 +77,7 @@ Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dat
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
 
-# Grundsätzliche Rechte
+# Grundsätzliche Rechteeinstellungen
 
 #### Grundsätzliches Leserecht  
 Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
