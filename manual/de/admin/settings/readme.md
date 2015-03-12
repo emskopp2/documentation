@@ -2,7 +2,7 @@
 
 Hier erhalten Sie Informationen über die Grundeinstellungen.
 
-Nach der Installation der ContaoDMS Erweiterung finden sie in der Contao Systemverwaltung → unter *Einstellungen* die Grundeinstellungen für das Dokumenten  Management System.
+Nach der Installation der ContaoDMS Erweiterung finden sie in der **Contao Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das Dokumenten Management System.
 
 ![Screenshot globale Contao Einstellungen](/manual/de/admin/settings/screenshot_global_contao_settings.png)
 
@@ -12,7 +12,7 @@ Nach der Installation der ContaoDMS Erweiterung finden sie in der Contao Systemv
 ## Hier können sie folgende Anpassungen vornehmen:
 
 ### Basisverzeichnis: 
-Wo sollen die Dokumente abgelegt werden? Standard und empfohlen ist: `tl_files/dms`
+Wo sollen die Dokumente abgelegt werden? Standard und empfohlen ist (Contao 3.x): `files/dms`
 
 ### Maximale Upload Größe: 
 Wie groß dürfen die Dateien sein die hochgeladen werden? 
