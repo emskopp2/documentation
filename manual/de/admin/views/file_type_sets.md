@@ -16,8 +16,8 @@ Github: https://github.com/ContaoDMS/bundle-all
 Packagist: https://packagist.org/packages/contao-dms/bundle-all
 
 ### Was sind Dateityp-Sets?
-Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.  
-Die Sets stehen bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
+Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens ein erlaubten Dateityp enthalten.
+Die Sets stehen dann bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
