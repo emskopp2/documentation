@@ -7,6 +7,7 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 * Dokumente einer Kategorie anzeigen oder ausblenden
 * Alle Dokumente anzeigen oder ausblenden
 * Suchfunktion
+* Verwaltungsansicht im Frontend (DMS-Verwaltung)
 
 ---
 
@@ -56,7 +57,26 @@ Als Suchergebnis erhalten bleiben die Auswahlfelder der Kategorien eingeblendet,
 
 
 
-## Dokumente 
+## Dokumente hochladen
+Nachfolgend sind die Schritte beschrieben wie sie Dokumente hochladen.
+
+Klicken sie in der Verwaltungsansicht auf **Hochladen**:
+
+![Screenshot Dokument hochladen](/manual/de/user/screenshot_frontend_dms_management_document_upload.png)
+
+Dann weiter auf **Durchsuchen**:
+![Screenshot Dokument Suchen](/manual/de/user/screenshot_frontend_dms_management_search_upload_document.png)
+
+Wählen sie das hochzuladene Dokument und bestätigen sie mit **Öffnen**:
+![Screenshot Dokument lokal auswählen](/manual/de/user/screenshot_frontend_dms_management_search_upload_document_select.png)
+
+Klicken nun auf **Hochladen**:
+![Screenshot Dokument hochladen](/manual/de/user/screenshot_frontend_dms_management_upload.png)
+
+Bestimmen sie nun die Dokumenteigenschaften
+![Screenshot Dokumenteigenschaften bestimmen](/manual/de/user/screenshot_frontend_dms_management_upload_document_description.png)
+
+
 
 
 
