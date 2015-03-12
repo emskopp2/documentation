@@ -44,6 +44,6 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 
 ![Screenshot Dateityp-Sets Liste](/manual/de/admin/initialization/screenshot_file_type_sets_list.png)
 
-Weitere Informationen zum Thema **Dateityp-Sets**, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen**
+Weitere Informationen zum Thema **Dateityp-Sets**, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
 
 
