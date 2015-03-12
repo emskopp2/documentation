@@ -72,10 +72,11 @@ Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dat
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
 
-### Grundsätzliche Rechte
+# Grundsätzliche Rechte
 
 #### Grundsätzliches Leserecht  
 Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
+
 * **Leserecht für alle Mitglieder:** Alle Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie. Sie müssen dazu nicht angemeldet sein.
 * **Leserecht für angemeldete Mitglieder:**  Nur angemeldete Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie.
 * **Spezielle Leserechte für einzelne Mitgliedergruppen:** Es werden für diese Kategorie spezielle Leserechte für einzelne Mitgliedergruppen vergeben (im Bereich Zugriffsrechte).
