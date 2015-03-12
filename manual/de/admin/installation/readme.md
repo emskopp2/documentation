@@ -2,12 +2,12 @@
 
 Hier erhalten sie Informationen über die Installation.
 
-## Inhalt
+### Inhalt
 * Installation per Erweiterungsverwaltung
 * Installation per Composer
 * Serverkonfiguration
 
-### Installation per Erweiterungskatalog
+## Installation per Erweiterungskatalog
 
 Die Erweiterung [DokManSystem] kann in der Contao Erweiterungsverwaltung im Backend installiert werden.
 
@@ -26,13 +26,16 @@ zur Verfügung.
 
 ![Screenshot ContaoDMS Backend Werkzeuge](/manual/de/admin/installation/screenshot_dms_backend_tools.png)
 
+---
 
-### Installation per Composer
+## Installation per Composer
 
 Für die Installation per Composer sind alle Pakete unter https://packagist.org/packages/contao-dms/ zu finden. Für die Suche im Contao Backend reicht es `contao-dms/` einzugeben. Dann werden alle zur Verfügung stehen Pakte angezeigt.
 Das Paket https://packagist.org/packages/contao-dms/bundle-all enthält das ContaoDMS sowie auch das Dateityp-Sets Add-On.
 
-### Serverkonfiguration
+---
+
+## Serverkonfiguration
 
 Unter Umständen muss man eine eigene `php.ini` ins Web-ROOT der Installation legen um z.B. Arbeitsspeicher Limits oder Ausführungszeiten zu definieren. Sind diese zur gering kann es vorkommen, dass größere Dateien nicht hochgeladen werden können.
 
