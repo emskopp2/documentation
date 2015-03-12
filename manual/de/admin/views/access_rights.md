@@ -12,15 +12,16 @@ Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitgliede
 4. Setzen Sie im nächten Abschnitt *Rechte* die gewünschten Rechte
 
 **Diese wären:**  
-*Dokumente lesen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.
+* **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.   
+**Achtung!** Möchten sie, dass Mitglieder Dokumente einer Kategorie NICHT lesen sollen, muss für die Kategorie im Abschnitt **Rechte** unter **Grundsätzliches Leserecht** "Spezielle Leserechte für einzelne Mitgliedergruppen" gesetzt sein.
 
-*Dokumente uploaden:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in diese Kategorie hochladen dürfen.
+* **Dokumente uploaden:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in diese Kategorie hochladen dürfen.
 
-*Dokumente löschen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie löschen dürfen.
+* **Dokumente löschen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie löschen dürfen.
 
-*Dokumente bearbeiten:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie bearbeiten dürfen.
+* **Dokumente bearbeiten:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie bearbeiten dürfen.
 
-*Dokumente veröffentlichen:* Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
+* **Dokumente veröffentlichen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
 
 **Aktivierung:** Setzen Sie das Zugriffsrecht auf *aktiv* (direkt aktiviert) oder *inaktiv* (kein Häkchen)
 
