@@ -6,7 +6,9 @@ Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 * Anlegen einer neuen Kategorie
 * Kategorieeinstellungen
     * Veröffentlichung von Dokumenten
-    * Grundsätzliche Rechte
+    * Grundsätzliche Rechteeinstellungen
+    * Erlaubte Dateitypen
+    * Vererbung von erlaubten Dateitypen
     * Sonstige Einstellungen
 * Bearbeitung einer Kategorie
     * Mehrere Datensätze bearbeiten
@@ -55,6 +57,8 @@ Im Modul DMS → Kategorien
 
 ![Screenshot Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
 
+## Vererbung von erlaubten Dateitypen
+
 * **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch von den Oberkategorie(n) geerbt werden sollen.
 
 **Beispiel**: Sie haben eine Kategorie "Obst" und legen für diese erlaubte Dateitypen fest. Dann erstellen sie für "Obst" eine neue Unterkategorie z.B. "Kernobst". 
@@ -62,12 +66,14 @@ Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlau
 Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
 
 
-** Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl.**
+**Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl:**
 
 * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
 
 ![Screenshot Dateityp-Sets benutzen](screenshot_categories_config_file_type_sets_2.png)
+
 ---
+
 ## Veröffentlichung von Dokumenten
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
