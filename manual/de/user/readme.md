@@ -17,7 +17,11 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 **Gliederung der DMS-Auflistung:**
 
+---
+
 * Suchfunktion  
+
+---
 
 <table>
 	<tr>
@@ -32,7 +36,12 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
         </td>
 </table>    
 
+---
+
 * Buttons **Alle Dokumente anzeigen** oder **Alle Dokumente ausblenden**
+
+---
+**Und jetzt noch mal als Screenshot:**
 
 ![Screenshot Auflistung der Dokumente](/manual/de/user/screenshot_frontend_dms_listing.png)
 
