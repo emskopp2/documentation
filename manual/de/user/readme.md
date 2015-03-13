@@ -30,12 +30,16 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
     <th>Auswahl</th>
  </tr>
  <tr>
-   	<td>Die **Kategorien** als Baumstruktur.</td>
-    <td>Dann die **Anzahl (Summe)** der in der jeweiligen Kategorie enthaltenden Dokumente.</td>
-    <td>**Auswahl:** Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Recht hat Dokumente zu lesen, wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
+   	<td>Die Kategorien als Baumstruktur.</td>
+    <td>Dann die Anzahl der in der jeweiligen Kategorie enthaltenden Dokumente.</td>
+    <td>Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Recht hat Dokumente zu lesen, wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
      </td>
  </tr>     
 </table>    
+
+---
+
+* Anzahl gefundener Dokumente
 
 ---
 
