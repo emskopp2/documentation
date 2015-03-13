@@ -19,10 +19,18 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 * Suchfunktion  
 
-**Dann folgt die eigenliche Auflistung der Dokumente (Unterteilung von links nach rechts):**
-* Die **Kategorien** als Baumstruktur. 
-* Dann die **Anzahl (Summe)** der in der jeweiligen Kategorie enthaltenden Dokumente.
-* **Auswahl:** Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Recht hat Dokumente zu lesen, wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
+<table>
+	<tr>
+    	<th>Kategorien</th>
+        <th>Anzahl</th>
+        <th>Auswahl</th>
+    </tr>
+    <tr>
+    	<td>Die **Kategorien** als Baumstruktur.</td>
+        <td>Dann die **Anzahl (Summe)** der in der jeweiligen Kategorie enthaltenden Dokumente.</td>
+        	<td>**Auswahl:** Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Recht hat Dokumente zu lesen, wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
+        </td>
+</table>    
 
 * Buttons **Alle Dokumente anzeigen** oder **Alle Dokumente ausblenden**
 
