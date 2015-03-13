@@ -31,8 +31,8 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
  </tr>
  <tr>
    	<td>Die Kategorien als Baumstruktur.</td>
-    <td>Dann die Anzahl der in der jeweiligen Kategorie enthaltenden Dokumente.</td>
-    <td>Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Recht hat Dokumente zu lesen, wird eine Checkbox angezeigt die bei setzen des Häkchens die Dokumente der Kategorie anzeigt.
+    <td>Die Anzahl der in der jeweiligen Kategorie enthaltenden (veröffentlichten) Dokumente.</td>
+    <td>Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Leserecht hat, wird eine Checkbox angezeigt die bei Ativierung die Dokumente der Kategorie anzeigt.
      </td>
  </tr>     
 </table>    
