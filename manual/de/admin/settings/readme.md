@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Grundeinstellungen
 
 Hier erhalten Sie Informationen über die Grundeinstellungen.
@@ -20,3 +21,8 @@ Diese Größe darf die PHP Einstellung für upload_max_filesize nicht überschre
 
 ### Dokumente standardmäßig veröffentlichen:
 Ist diese Option aktiviert wird die Checkbox zum Veröffentlichen im Verwaltungsmodul (Frontend) immer angekreuzt.
+
+
+----------
+
+[Seitenanfang](#top)
