@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Initialisierung
 
 Hier erhalten Sie Informationen über die Initialisierung.
@@ -21,13 +22,14 @@ Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das 
 
 ----------
 
+[Seitenanfang](#top)
+
 <a name="initialization_2"></a>
 ## Dateityp-Sets erstellen
 Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens ein erlaubten Dateityp enthalten.
 Die Sets stehen dann bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
 ![Screenshot Werkzeug Dateityp-Sets](/manual/de/admin/initialization/screenshot_datatype-set.png)
-
 
 
 1. Im Menü unter DMS
@@ -56,3 +58,6 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 Informationen wie sie **Dateityp-Sets** weiterverarbeiten, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
 
 
+----------
+
+[Seitenanfang](#top)
