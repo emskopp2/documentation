@@ -1,33 +1,48 @@
-# Module
+# Frontendmodule
 
-Hier erhalten Sie Informationen über die Module.
+Hier erhalten Sie Informationen über die Frontendmodule.
 
-Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter → Layout → Themes und dann in der Modulbearbeitung des entsprechenden Themes anlegt.
+### Inhalt
+1. [Anlegen der Frontendmodule](modules/#modules_1)
+2. [Einbindung der Module in die Website](modules/#modules_2)
+
+
+----------
+
+
+Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter:
+
+→ **Layout** → **Themes** und dann in der **Modulbearbeitung** des Themes anlegt.
 
 
 ![Screenshot Module.png](/manual/de/admin/modules/screenshot_modules.png)
 
+<a name="modules_1"></a>
+## Anlegen der Frontendmodule
 
-## Die Module "DMS-Auflistung" und "DMS-Verwaltung" anlegen 
-
-### Erstes Modul: DMS-Auflistung
+### 1. DMS-Auflistung
 * **Titel des Moduls:** DMS-Auflistung 
 * **Modultyp:** DMS-Auflistung
 * **DMS-Template:** mod_dms_listing
 
 ![Screenshot Einstellungen Modul DMS-Auflistung](screenshot_module_listing.png)
 
-### Zweites Modul: DMS-Verwaltung
+### 2. DMS-Verwaltung
 * **Titel des Moduls:** DMS-Verwaltung 
 * **Modultyp:** DMS-Verwaltung 
 * **DMS-Template:** mod_dms_management
 
 ![Screenshot Einstellungen Modul DMS-Verwaltung](screenshot_module_management.png)
 
-## Einbindung der Module in die Website
-Die Einbindung der beiden DMS-Module kann an beliebiger Stelle der Website erfolgen.
 
-Backend-Module → Inhalte → Artikel 
+----------
+
+<a name="modules_2"></a>
+## Einbindung der Module in die Website
+
+Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebunden. Nachfolgend ist die Einbindung des Frontendmoduls **DMS-Auflistung** beschrieben. Das Modul **DMS-Verwaltung** wird auf die gleiche Weise eingebunden.
+
+→ Inhalte → Artikel 
 
 ![Screenshot Werkzeug Artikel.png](/manual/de/admin/modules/screenshot_select_tool_article.png)
 
@@ -55,4 +70,4 @@ Backend-Module → Inhalte → Artikel
 
 ![Screenshot DMS Modulauswahl.png](/manual/de/admin/modules/screenshot_select_modul.png)
 
-Das Modul "DMS-Verwaltung" wird auf die gleiche Weise eingebunden
+
