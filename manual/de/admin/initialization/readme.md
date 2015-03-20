@@ -3,8 +3,8 @@
 Hier erhalten Sie Informationen über die Initialisierung.
 
 ### Inhalt
-* [Mitglieder und Mitgliedergruppen anlegen](#initialization_1)
-* [Dateityp-Sets erstellen](#initialization_2)
+1. [Mitglieder und Mitgliedergruppen anlegen](#initialization_1)
+2. [Dateityp-Sets erstellen](#initialization_2)
 
 
 ----------
