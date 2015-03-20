@@ -16,7 +16,7 @@ Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitgliede
 
 * **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.  
    
-***Achtung!*** Möchten sie, dass Mitglieder Dokumente einer Kategorie NICHT lesen sollen, muss für diese Kategorie im Abschnitt [Grundsätzliche Lese-, und Verwaltungsrechte](categories/#categories_2_5) unter **Grundsätzliches Leserecht** "*Spezielle Leserechte für einzelne Mitgliedergruppen*" gesetzt sein.
+***Achtung!*** Möchten sie, dass Mitglieder Dokumente einer Kategorie NICHT lesen sollen, muss für diese Kategorie im Abschnitt [Grundsätzliche Lese-, und Verwaltungsrechte](categories.md/#categories_2_5) unter **Grundsätzliches Leserecht** "*Spezielle Leserechte für einzelne Mitgliedergruppen*" gesetzt sein.
 
 * **Dokumente uploaden:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in diese Kategorie hochladen dürfen.
 
