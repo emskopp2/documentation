@@ -3,7 +3,7 @@
 
 Hier erhalten Sie Informationen über die Grundeinstellungen.
 
-Nach der Installation der ContaoDMS Erweiterung finden sie in der **Contao Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das Dokumenten Management System.
+Nach der Installation der ContaoDMS Erweiterung finden sie in der **Contao Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das ContaoDMS.
 
 ![Screenshot globale Contao Einstellungen](/manual/de/admin/settings/screenshot_global_contao_settings.png)
 
