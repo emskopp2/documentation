@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Installation
 
 Hier erhalten sie Informationen über die Installation.
@@ -30,6 +31,7 @@ zur Verfügung.
 
 ![Screenshot ContaoDMS Backend Werkzeuge](/manual/de/admin/installation/screenshot_dms_backend_tools.png)
 
+[Seitenanfang](#top)
 
 ----------
 
@@ -39,6 +41,7 @@ zur Verfügung.
 Für die Installation per Composer sind alle Pakete unter https://packagist.org/packages/contao-dms/ zu finden. Für die Suche im Contao Backend reicht es `contao-dms/` einzugeben. Dann werden alle zur Verfügung stehen Pakte angezeigt.
 Das Paket https://packagist.org/packages/contao-dms/bundle-all enthält das ContaoDMS sowie auch das Dateityp-Sets Add-On.
 
+[Seitenanfang](#top)
 
 ----------
 
@@ -56,3 +59,5 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
     max_execution_time = 50000
     post_max_size = 40M
 
+
+[Seitenanfang](#top)
