@@ -22,7 +22,6 @@ Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das 
 
 ----------
 
-[Seitenanfang](#top)
 
 <a name="initialization_2"></a>
 ## Dateityp-Sets erstellen
