@@ -3,8 +3,8 @@
 Hier erhalten Sie Informationen über die Frontendmodule.
 
 ### Inhalt
-1. [Anlegen der Frontendmodule](modules/#modules_1)
-2. [Einbindung der Module in die Website](modules/#modules_2)
+1. [Anlegen der Frontendmodule](#modules_1)
+2. [Einbindung der Module in die Website](#modules_2)
 
 
 ----------
