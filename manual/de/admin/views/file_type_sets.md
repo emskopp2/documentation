@@ -1,27 +1,43 @@
+<a name="top"></a>
 # Dateityp-Sets
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
-## Inhalt
-* Was sind Dateityp-Sets?
-* Dateityp-Sets erstellen
-* Verarbeitung der Dateityp Sets
+### Inhalt
+1. [Bezugsquellen](#filetyp_sets_1)
+2. [Was sind Dateityp-Sets?](#filetyp_sets_2)
+3. [Dateityp-Sets erstellen](#filetyp_sets_3)
+4. [Verarbeitung der Dateityp Sets](#filetyp_sets_4)
 
-**Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden  
-Github: https://github.com/ContaoDMS/dms-FileTypeSets  
-Packagist: https://packagist.org/packages/contao-dms/file-type-sets
 
-Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datatyp-Sets** enthalten:  
-Github: https://github.com/ContaoDMS/bundle-all  
-Packagist: https://packagist.org/packages/contao-dms/bundle-all
+----------
 
-### Was sind Dateityp-Sets?
+<a name="filetyp_sets_1"></a>
+## 1. Bezugsquellen
+**Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden. Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datatyp-Sets** dann schon enthalten:  
+
+#### Quelle Add-On:
+**Github:** https://github.com/ContaoDMS/dms-FileTypeSets  
+**Packagist:** https://packagist.org/packages/contao-dms/file-type-sets
+
+#### Quelle Contao-dms/bundle-all:
+
+**Github:** https://github.com/ContaoDMS/bundle-all  
+**Packagist:** https://packagist.org/packages/contao-dms/bundle-all
+
+----------
+
+<a name="filetyp_sets_2"></a>
+## 2. Was sind Dateityp-Sets?
 Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens einen erlaubten Dateityp enthalten.
 Die Sets stehen dann bei Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
-### Dateityp-Sets erstellen
+----------
+
+<a name="filetyp_sets_3"></a>
+## 3. Dateityp-Sets erstellen
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
@@ -44,8 +60,13 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 
 ![Screenshot Dateityp-Sets Liste](screenshot_file_type_sets_list.png)
 
+----------
 
-## Verarbeitung der Dateityp Sets
+<a name="filetyp_sets_4"></a>
+## 4. Verarbeitung der Dateityp-Sets
 
 Informationen wie sie **Dateityp-Sets** weiterverarbeiten, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
 
+----------
+
+[Seitenanfang](#top)
