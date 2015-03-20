@@ -85,15 +85,13 @@ Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dat
 
 ----------
 
-[Seitenanfang](#top)
-
 <a name="categories_2_4"></a>
-## Veröffentlichung von Dokumenten
+### 2.4 Veröffentlichung von Dokumenten
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
 
 <a name="categories_2_5"></a>
-## Grundsätzliche Lese-, und Verwaltungsrechte
+## 2.5 Grundsätzliche Lese-, und Verwaltungsrechte
 
 ### Grundsätzliches Leserecht  
 Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
@@ -115,7 +113,7 @@ Geben Sie die grundsätzlichen Verwaltungsrechte für Dokumente dieser Kategorie
 
 
 <a name="categories_2_6"></a>
-### Sonstige Einstellungen
+### 2.6 Sonstige Einstellungen
 
 * **Experten-Einstellungen:** Stylesheets (CSS) - Falls gewünscht kann hier eine ID und / oder Klasse(n) eintragen werden
 * **Kategorie veröffentlichen:** Checkbox aktiv = Kategorie wird im Frontend angezeigt
