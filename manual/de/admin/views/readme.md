@@ -31,10 +31,7 @@ Erklärung der Ansicht für Zugriffsrechte.
 Erklärung der Ansicht für Dokumente.
 
 #### Inhalt
-1. [Plaintext](#)
-2. [Plaintext](#)
-3. [Plaintext](#)
-4. [Plaintext](#)
+-- folgt ---
 
 [Weiterlesen ...](documents.md)
 
