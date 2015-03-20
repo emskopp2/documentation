@@ -58,6 +58,7 @@ Im Modul DMS → Kategorien
 
 ![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
+<a name="categories_2_2"></a>
 ### 2.2 Erlaubte Dateitypen
 
 * **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebenfalls möglich.
