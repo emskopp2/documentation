@@ -14,15 +14,15 @@ Erklärung der Initialisierung.
 
 [Weiterlesen ...](initialization)
 
-## Module
+## Frontendmodule
 
-Erklärung der Module.
+Erklärung der Frontendmodule.
 
 [Weiterlesen ...](modules)
 
-## Einstellungen
+## Grundeinstellungen
 
-Erklärung der Einstellungen.
+Erklärung der Grundeinstellungen.
 
 [Weiterlesen ...](settings)
 
