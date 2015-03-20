@@ -4,21 +4,30 @@ Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
 
 ## Installation
 
-Erklärung der Installation.
 
-[Weiterlesen ...](installation)
+### Inhalt
+1. [Installation per Erweiterungsverwaltung](installation/#installation_1)
+2. [Installation per Composer](installation/#installation_2)
+3. [Serverkonfiguration](installation/#installation_3)
+
+
 
 ## Initialisierung
 
-Erklärung der Initialisierung.
+### Inhalt
 
-[Weiterlesen ...](initialization)
+1. [Mitglieder und Mitgliedergruppen anlegen](initialization/#initialization_1)
+2. [Dateityp-Sets erstellen](initialization/#initialization_2)
+
+
 
 ## Frontendmodule
 
-Erklärung der Frontendmodule.
 
-[Weiterlesen ...](modules)
+### Inhalt
+1. [Anlegen der Frontendmodule](modules/#modules_1)
+2. [Einbindung der Module in die Website](modules/#modules_2)
+
 
 ## Grundeinstellungen
 
@@ -34,6 +43,11 @@ Erklärung der Templates.
 
 ## Ansichten
 
-Erklärung der Ansichten.
+Hier erhalten Sie Informationen über die Ansichten:
+
+* Kategorien
+* Zugriffsrechte
+* Dokumente
+* Dateityp-Sets
 
 [Weiterlesen ...](views)
