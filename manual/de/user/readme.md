@@ -8,8 +8,9 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
     * Alle Dokumente anzeigen oder ausblenden
     * Suchfunktion
 * Verwaltungsansicht im Frontend **(DMS-Auflistung)**
-	* Dokumente hochladen
-* Hinweismeldungen (Meldungen die einem bei der Arbeit mit dem ContaoDMS begegnen können ;-) )
+	* Dokumente hochladen 
+    * Hinweismeldungen (Meldungen die einem bei der Arbeit mit dem ContaoDMS begegnen können ;-) )
+    
 ---
 
 # Auflistung der Dokumente im Frontend (DMS-Auflistung)
