@@ -7,10 +7,9 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
     * Dokumente einer Kategorie anzeigen oder ausblenden
     * Alle Dokumente anzeigen oder ausblenden
     * Suchfunktion
-* Verwaltungsansicht im Frontend **(DMS-Verwaltung)**
+* Verwaltungsansicht im Frontend **(DMS-Auflistung)**
 	* Dokumente hochladen
-* Hinweismeldungen
-
+* Hinweismeldungen (Meldungen die einem bei der Arbeit mit dem ContaoDMS begegnen können ;-) )
 ---
 
 # Auflistung der Dokumente im Frontend (DMS-Auflistung)
@@ -73,7 +72,9 @@ Es kann nach Dokumenten gesucht werden. Dafür werden die zwei Suchoptionen **Ex
 
 Die Schaltfläche **Zurücksetzen** löscht den Suchfilter wieder.
 
-Als Suchergebnis behalten sie die Auswahlfelder der Kategorien eingeblendet, die Dokumente mit dem Suchbegriff enthalten. Alle anderen werden ausgeblendet.
+Als Suchergebnis bleiben die Auswahlfelder der Kategorien eingeblendet, die Dokumente mit dem Suchbegriff enthalten. Alle anderen werden ausgeblendet. 
+
+In der folgenden Abb. wurde bspw. nach "Boskopp" gesucht. Die Kategorie "Äpfel" enhält ein Dokument mit diesem Suchbegriff und das Auswahlfeld wird eingeblendet.
 
 ![Screenshot Suchergebnis](/manual/de/user/screenshot_frontend_dms_listing_searching_documents.png)
 
@@ -118,16 +119,3 @@ Nachfolgend sind Hinweismeldungen aufgeführt, die Ihnen beim Arbeiten mit dem C
 
 * Die folgende Meldung erhalten sie beim Upload, wenn das System festgestellt, dass es noch mindestens ein Dokument mit gleichem Namen in einer anderen Kategorie gibt. 
 ![Screenshot Dokument mit gleichen Namen in anderer Kategorie schon vorhanden](/manual/de/user/screenshot_frontend_dms_management_several_document_versions.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
