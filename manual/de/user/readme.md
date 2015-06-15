@@ -84,6 +84,7 @@ In der folgenden Abb. wurde bspw. nach "Boskopp" gesucht. Die Kategorie "Äpfel"
 
 ---
 # Verwaltungsansicht im Frontend (DMS-Verwaltung)
+Über die Verwaltungsansicht laden sie Dokumente hoch. Über die Funktion "Verwalten" stehen die Werkzeuge Veröffentlichen oder ausblenden, löschen und Bearbeiten der Dokumenteigenschaften zur Verfügung.
 
 ![Screenshot Verwaltungsansicht](/manual/de/user/screenshot_frontend_dms_management.png)
 
