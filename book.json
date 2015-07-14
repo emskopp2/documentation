@@ -1,0 +1,28 @@
+{
+  "gitbook": "2.x.x",
+  "title": "Manual for Contao DMS",
+  "plugins": [
+      "richquotes",
+      "edit-link",
+      "anchors",
+      "disqus",
+      "piwik"
+  ],
+  "links": {
+    "sidebar": {
+      "Contao DMS Homepage": "https://github.com/ContaoDMS/dms"
+    }
+  },
+  "pdf": {
+    "toc": false
+  },
+  "pluginsConfig": {
+      "edit-link": {
+          "base": "hhttps://github.com/ContaoDMS/documentation/tree/master/manual",
+          "label": {
+              "en": "Edit This Page",
+              "de": "Seite bearbeiten"
+          }
+      }
+  }
+}
