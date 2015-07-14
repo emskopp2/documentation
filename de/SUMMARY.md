@@ -1,5 +1,5 @@
 # Inhalt
 
-* [Administratorhandbuch](admin)
-* [Entwicklerhandbuch](developer)
-* [Benutzerhandbuch](user)
+* [Administratorhandbuch](admin/)
+* [Entwicklerhandbuch](developer/)
+* [Benutzerhandbuch](user/)
