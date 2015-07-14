@@ -6,8 +6,7 @@
   },
   "links": {
     "sidebar": {
-      "Contao DMS Homepage": "https://github.com/ContaoDMS/dms"
-      "Contao DMS Manual": "http://cliffparnitzky.gitbooks.io/contaodms"
+      "Contao DMS - Homepage": "https://github.com/ContaoDMS/dms"
     }
   },
   "pdf": {
