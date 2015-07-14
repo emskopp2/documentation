@@ -4,10 +4,6 @@
   "structure": {
     "readme": "LANGS.md"
   },
-  "plugins": [
-    "richquotes",
-    "edit-link"
-  ],
   "links": {
     "sidebar": {
       "Contao DMS Homepage": "https://github.com/ContaoDMS/dms"
@@ -15,14 +11,5 @@
   },
   "pdf": {
     "toc": false
-  },
-  "pluginsConfig": {
-      "edit-link": {
-          "base": "hhttps://github.com/ContaoDMS/documentation/tree/master/manual",
-          "label": {
-              "en": "Edit This Page",
-              "de": "Seite bearbeiten"
-          }
-      }
   }
 }
