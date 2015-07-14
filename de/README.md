@@ -1,4 +1,4 @@
-# Deutsches Handbuch ![DE](../de.png) 
+# Deutsches Handbuch ![DE](de.png) 
 
 Dies ist das Handbuch für das [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
