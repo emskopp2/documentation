@@ -1,5 +1,7 @@
 # ContaoDMS - Documentation
 
+<img align="right" width="200" height="200" src="cover_small.jpg">
+
 Some helping files for documenting the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 In case there are issues, please use the [tracker](https://github.com/ContaoDMS/documentation/issues).
