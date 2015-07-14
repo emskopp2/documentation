@@ -2,7 +2,7 @@
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
   "structure": {
-    "readme": "README.md"
+    "readme": "INTRO.md"
   },
   "links": {
     "sidebar": {

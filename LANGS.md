@@ -1,3 +1,3 @@
 
-* [English](manual/en/)
-* [Deutsch](manual/de/)
+* [English](en/)
+* [Deutsch](de/)

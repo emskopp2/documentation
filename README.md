@@ -1,17 +1,18 @@
-ContaoDMS - Documentation
-=========================
+# ContaoDMS - Documentation
 
 Some helping files for documenting the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 In case there are issues, please use the [tracker](https://github.com/ContaoDMS/documentation/issues).
 
+## Deutsches Handbuch
 
-Files
-------
+![DE](de.png) Das deutsche Handbuch gibt es [hier](de).
 
-### Manual
+## English manual
 
-- To get more information about the DMS, [read the manual](https://github.com/ContaoDMS/documentation/blob/master/manual).
+![EN](en.png) The english manual is available [here](en).
+
+## Files
 
 ### Old manual
 
