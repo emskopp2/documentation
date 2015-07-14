@@ -1,12 +1,13 @@
 {
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
+  "structure": {
+    "readme": "LANGS.md"
+   }
   "plugins": [
-      "richquotes",
-      "edit-link",
-      "anchors",
-      "disqus",
-      "piwik"
+    "richquotes",
+    "edit-link",
+    "anchors"
   ],
   "links": {
     "sidebar": {
