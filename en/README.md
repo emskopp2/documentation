@@ -1,4 +1,4 @@
-# English manual ![EN](../en.png)
+# English manual ![EN](en.png)
 
 This is the manual for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
