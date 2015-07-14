@@ -4,9 +4,7 @@
   "plugins": [
       "richquotes",
       "edit-link",
-      "anchors",
-      "disqus",
-      "piwik"
+      "anchors"
   ],
   "links": {
     "sidebar": {
@@ -25,13 +23,6 @@
               "de": "Seite bearbeiten",
               "fr": "Modifier cette page"
           }
-      },
-      "disqus": {
-          "shortName": "contaodocs"
-      },
-      "piwik": {
-          "URL": "association.contao.org/piwik/",
-          "siteId": 3
       }
   }
 }
