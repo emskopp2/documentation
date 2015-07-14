@@ -1,5 +1,10 @@
-# Inhalt
-
-* [Admin manual](admin)
-* [Developer manual](developer)
-* [User manual](user)
+* [Admin manual](admin/README.md)
+  * [Installation](admin/installation/README.md)
+  * [Initialization](admin/initialization/README.md)
+  * [Modules](admin/modules/README.md)
+  * [Settings](admin/settings/README.md)
+  * [Templates](admin/templates/README.md)
+  * [Views](admin/views/README.md)
+* [Developer manual](developer/README.md)
+  * [Hooks](developer/hooks/README.md)
+* [User manual](user/README.md)
