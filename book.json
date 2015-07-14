@@ -1,17 +1,17 @@
 {
   "gitbook": "2.x.x",
-  "title": "Manual for Contao DMS",
-  "structure": {
-    "readme": "LANGS.md"
-   }
+  "title": "Manual for Contao 3.4",
   "plugins": [
-    "richquotes",
-    "edit-link",
-    "anchors"
+      "richquotes",
+      "edit-link",
+      "anchors",
+      "disqus",
+      "piwik"
   ],
   "links": {
     "sidebar": {
-      "Contao DMS Homepage": "https://github.com/ContaoDMS/dms"
+      "Contao Homepage": "https://contao.org",
+      "Contao Documentation": "https://docs.contao.org"
     }
   },
   "pdf": {
@@ -19,11 +19,19 @@
   },
   "pluginsConfig": {
       "edit-link": {
-          "base": "hhttps://github.com/ContaoDMS/documentation/tree/master/manual",
+          "base": "https://github.com/contao/docs/edit/3.2/manual",
           "label": {
               "en": "Edit This Page",
-              "de": "Seite bearbeiten"
+              "de": "Seite bearbeiten",
+              "fr": "Modifier cette page"
           }
+      },
+      "disqus": {
+          "shortName": "contaodocs"
+      },
+      "piwik": {
+          "URL": "association.contao.org/piwik/",
+          "siteId": 3
       }
   }
 }
