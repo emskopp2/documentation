@@ -6,8 +6,7 @@
   },
   "plugins": [
     "richquotes",
-    "edit-link",
-    "anchors"
+    "edit-link"
   ],
   "links": {
     "sidebar": {
