@@ -6,11 +6,11 @@ In case there are issues, please use the [tracker](https://github.com/ContaoDMS/
 
 ## Deutsches Handbuch
 
-![DE](de.png) Das deutsche Handbuch gibt es [hier](de).
+![DE](de/de.png) Das deutsche Handbuch gibt es [hier](de).
 
 ## English manual
 
-![EN](en.png) The english manual is available [here](en).
+![EN](en/en.png) The english manual is available [here](en).
 
 ## Files
 
