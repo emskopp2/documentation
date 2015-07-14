@@ -1,6 +1,9 @@
 {
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
+  "structure": {
+    "readme": "INTRO.md"
+  },
   "links": {
     "sidebar": {
       "Contao DMS Homepage": "https://github.com/ContaoDMS/dms"
