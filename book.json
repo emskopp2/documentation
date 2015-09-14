@@ -1,12 +1,15 @@
 {
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
+  "plugins": [
+      "anchors"
+  ],
   "links": {
     "sidebar": {
       "Contao DMS - Homepage": "https://github.com/ContaoDMS/dms"
     }
   },
   "pdf": {
-    "toc": false
+    "toc": true
   }
 }
