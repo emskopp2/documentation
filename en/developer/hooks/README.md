@@ -6,7 +6,7 @@ The following hooks could be used.
 
 Modify objects loaded by `DmsLoader`.
 
-[Read more ...](dmsModifyLoadedHooks)
+[Read more ...](dmsModifyLoadedHooks.html)
 
 ### dmsModifyLoadedCategory
 
