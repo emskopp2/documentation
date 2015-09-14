@@ -9,4 +9,8 @@
   * [Views](admin/views/README.md)
 * [Developer manual](developer/README.md)
   * [Hooks](developer/hooks/README.md)
+    * ["dmsModifyLoaded..."-Hooks](dmsModifyLoadedHooks.md)
+        * ["dmsModifyLoadedCategory"-Hook](dmsModifyLoadedHooks.md#dmsmodifyloadedcategory)
+        * ["dmsModifyLoadedAccessRight"-Hook](dmsModifyLoadedHooks.md#dmsmodifyloadedaccessright)
+        * ["dmsModifyLoadedDocument"-Hook](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
 * [User manual](user/README.md)
