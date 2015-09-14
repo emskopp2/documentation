@@ -12,10 +12,12 @@ Get information how to administrate the DMS.
 
 Get information how to extend the DMS.
 
-[Read more ...](developer)
+[Read more ...](developer/README.md)
 
 ## User manual
 
 Get information how to use the DMS.
 
 [Read more ...](user)
+
+{% include "SUMMARY.md" %}

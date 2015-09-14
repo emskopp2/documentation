@@ -1,3 +1,5 @@
+## Table of contents
+
 * [Admin manual](admin/README.md)
   * [Installation](admin/installation/README.md)
   * [Initialization](admin/initialization/README.md)
