@@ -6,4 +6,4 @@ Get information how to extend the DMS.
 
 Hooks which could be used to modify objects or do custom work.
 
-[Read more ...](hooks)
+[Read more ...](hooks/README.md)

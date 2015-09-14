@@ -6,7 +6,7 @@ This is the manual for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 Get information how to administrate the DMS.
 
-[Read more ...](admin)
+[Read more ...](admin/README.md)
 
 ## Developer manual
 
@@ -18,6 +18,4 @@ Get information how to extend the DMS.
 
 Get information how to use the DMS.
 
-[Read more ...](user)
-
-{% include "SUMMARY.md" %}
+[Read more ...](user/README.md)
