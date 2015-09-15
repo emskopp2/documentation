@@ -13,6 +13,6 @@
     * [File type sets](admin/views/file_type_sets.md)
 * [Developer manual](developer/README.md)
   * [Hooks](developer/hooks/README.md)
-    * ["dmsModifyLoaded..."-Hooks](developer/hooks/dmsModifyLoadedHooks.md)
-    * ["dmsPostDocument..."-Hooks](developer/hooks/dmsPostDocument.md)
+    * [dmsModifyLoaded... - Hooks](developer/hooks/dmsModifyLoadedHooks.md)
+    * [dmsPostDocument... - Hooks](developer/hooks/dmsPostDocument.md)
 * [User manual](user/README.md)

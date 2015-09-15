@@ -2,7 +2,7 @@
 
 The following hooks could be used.
 
-## "dmsModifyLoaded..."-Hooks
+## dmsModifyLoaded... - Hooks
 
 Modify objects loaded by `DmsLoader`.
 
@@ -26,7 +26,7 @@ Modify documents loaded by `DmsLoader`.
 
 [Read more ...](dmsModifyLoadedHooks.md#dmsmodifyloadeddocument)
 
-## "dmsPostDocument..."-Hooks
+## dmsPostDocument... - Hooks
 
 Execute custom actions after special operations with documents have completed.
 

@@ -2,8 +2,8 @@
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
   "plugins": [
-      "anchors",
-      "toc"
+    "anchors",
+    "toc"
   ],
   "links": {
     "sidebar": {

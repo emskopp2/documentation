@@ -1,6 +1,10 @@
-# "dmsPostDocument..."-Hooks
+# dmsPostDocument... - Hooks
 
 The following hooks could be used to execute custom actions after special operations with documents have completed.
+
+**Content**
+<!-- toc -->
+
 
 ## dmsPostDocumentDownload
 
@@ -26,17 +30,21 @@ class MyDmsPostDocumentExecutionClass
 }
 ```
 
+
 ### dmsPostDocumentUpload
 
 *ToDo*
+
 
 ### dmsPostDocumentEditing
 
 *ToDo*
 
+
 ### dmsPostDocumentDeletion
 
 *ToDo*
+
 
 ### dmsPostDocumentPublishing
 

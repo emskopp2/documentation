@@ -1,6 +1,10 @@
-# "dmsModifyLoaded..."-Hooks
+# dmsModifyLoaded... - Hooks
 
 The following hooks could be used for modifying the objects loaded by `DmsLoader`.
+
+**Content**
+<!-- toc -->
+
 
 ## dmsModifyLoadedCategory
 
@@ -28,6 +32,7 @@ class MyDmsModificationClass
 }
 ```
 
+
 ## dmsModifyLoadedAccessRight
 
 The "dmsModifyLoadedAccessRight" hook is triggered for modifying the access rights loaded by `DmsLoader`. So the properties could be modified.
@@ -53,6 +58,7 @@ class MyDmsModificationClass
 	}
 }
 ```
+
 
 ## dmsModifyLoadedDocument
 
