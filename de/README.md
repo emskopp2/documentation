@@ -13,8 +13,6 @@ Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Set
 
 Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer (aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer installiert werden). 
 
----
-
 ## Administratorhandbuch
 
 Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
