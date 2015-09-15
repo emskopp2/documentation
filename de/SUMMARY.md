@@ -11,5 +11,6 @@
     * [Dateityp-Sets](admin/views/file_type_sets.md)
 * [Entwicklerhandbuch](developer/README.md)
   * [Hooks](developer/hooks/README.md)
-    * ["dmsModifyLoaded..."-Hooks](developer/hooks/dmsModifyLoadedHooks.md)
+    * [dmsModifyLoaded... - Hooks](developer/hooks/dmsModifyLoadedHooks.md)
+    * [dmsPostDocument... - Hooks](developer/hooks/dmsPostDocument.md)
 * [Benutzerhandbuch](user/README.md)
