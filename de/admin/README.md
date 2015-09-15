@@ -33,13 +33,13 @@ Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
 
 Erklärung der Grundeinstellungen.
 
-[Weiterlesen ...](settings)
+[Weiterlesen ...](settings/README.md)
 
 ## Templates
 
 Erklärung der Templates.
 
-[Weiterlesen ...](templates)
+[Weiterlesen ...](templates/README.md)
 
 ## Ansichten
 
@@ -50,4 +50,4 @@ Hier erhalten Sie Informationen über die Ansichten:
 * Dokumente
 * Dateityp-Sets
 
-[Weiterlesen ...](views)
+[Weiterlesen ...](views/README.md)

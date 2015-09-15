@@ -19,16 +19,16 @@ Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungs
 
 Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
 
-[Weiterlesen ...](admin)
+[Weiterlesen ...](admin/README.md)
 
 ## Entwicklerhandbuch
 
 Hier erhalten Sie Informationen, wie Sie das DMS erweitern.
 
-[Weiterlesen ...](developer)
+[Weiterlesen ...](developer/README.md)
 
 ## Benutzerhandbuch
 
 Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
-[Weiterlesen ...](user)
+[Weiterlesen ...](user/README.md)

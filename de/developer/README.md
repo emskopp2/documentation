@@ -6,4 +6,4 @@ Hier erhalten Sie Informationen, wie Sie das DMS erweitern.
 
 Hooks, die verwendet werden könnten, um Objekte zu ändern oder benutzerdefinierte Aktionen durchzuführen.
 
-[Weiterlesen ...](hooks)
+[Weiterlesen ...](hooks/README.md)
