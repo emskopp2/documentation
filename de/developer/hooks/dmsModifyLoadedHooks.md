@@ -1,10 +1,14 @@
-# "dmsModifyLoaded..."-Hooks
+# "dmsModifyLoaded..." - Hooks
 
 Die folgenden Hooks können verwendet werden um Objekte zu ändern die vom `DmsLoader` geladen wurden.
 
-## dmsModifyLoadedCategory
+**Inhalt**
+<!-- toc -->
 
-Der "dmsModifyLoadedCategory"-Hook wird zum Ändern von Kategorien nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+
+## "dmsModifyLoadedCategory" - Hook
+
+Der "dmsModifyLoadedCategory" - Hook wird zum Ändern von Kategorien nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
 Er übergibt `$category` (vorhandenee geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
 Er erwartet die geänderte Kategorie als Rückgabewert.
 
@@ -28,9 +32,10 @@ class MyDmsModificationClass
 }
 ```
 
-## dmsModifyLoadedAccessRight
 
-Der "dmsModifyLoadedAccessRight"-Hook wird zum Ändern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+## "dmsModifyLoadedAccessRight" - Hook
+
+Der "dmsModifyLoadedAccessRight" - Hook wird zum Ändern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
 Er übergibt `$accessRight` (vorhandenee geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
 Er erwartet das geänderte Zugriffsrecht als Rückgabewert.
 
@@ -54,9 +59,10 @@ class MyDmsModificationClass
 }
 ```
 
-## dmsModifyLoadedDocument
 
-Der "dmsModifyLoadedDocument"-Hook wird zum Ändern von Dokumenten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
+## "dmsModifyLoadedDocument" - Hook
+
+Der "dmsModifyLoadedDocument" - Hook wird zum Ändern von Dokumenten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
 Er übergibt `$document` (vorhandenee geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
 Er erwartet das geänderte Dokument als Rückgabewert.
 
