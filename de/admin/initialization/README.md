@@ -2,14 +2,10 @@
 
 Hier erhalten Sie Informationen über die Initialisierung.
 
-### Inhalt
-1. [Mitglieder und Mitgliedergruppen anlegen](#initialization_1)
-2. [Dateityp-Sets erstellen](#initialization_2)
+**Inhalt**
+<!-- toc -->
 
 
-----------
-
-<a name="initialization_1"></a>
 ## Mitglieder und Mitgliedergruppen anlegen
 
 Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt (also Kategorien anlegt, Zugriffsrechte zuordnet usw.), sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
@@ -19,10 +15,6 @@ Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das 
 ![Screenshot Benutzerverwaltung](/manual/de/admin/initialization/screenshot_user_management.png)
 
 
-----------
-
-
-<a name="initialization_2"></a>
 ## Dateityp-Sets erstellen
 Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens ein erlaubten Dateityp enthalten.
 Die Sets stehen dann bei der Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets erleichtern die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
