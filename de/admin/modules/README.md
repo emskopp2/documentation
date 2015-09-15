@@ -1,16 +1,11 @@
-# Frontendmodule
+# Module
 
 Hier erhalten Sie Informationen über die Frontendmodule.
 
-### Inhalt
-1. [Anlegen der Frontendmodule](/modules_1)
-2. [Einbindung der Module in die Website](#modules_2)
+**Inhalt**
+<!-- toc -->
 
 
-----------
-
-
-<a name="modules_1"></a>
 ## Anlegen der Frontendmodule
 
 Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter:
@@ -36,9 +31,6 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 ![Screenshot Einstellungen Modul DMS-Verwaltung](screenshot_module_management.png)
 
 
-----------
-
-<a name="modules_2"></a>
 ## Einbindung der Module in die Website
 
 Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebunden. Nachfolgend ist die Einbindung des Frontendmoduls **DMS-Auflistung** beschrieben. Das Modul **DMS-Verwaltung** wird auf die gleiche Weise eingebunden.
