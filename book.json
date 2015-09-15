@@ -4,7 +4,8 @@
   "plugins": [
     "anchor-navigation",
     "anchors",
-    "toc"
+    "toc",
+    "todo"
   ],
   "links": {
     "sidebar": {
