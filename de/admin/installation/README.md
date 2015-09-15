@@ -2,7 +2,7 @@
 
 Hier erhalten sie Informationen über die Installation.
 
-### Inhalt
+**Inhalt**
 <!-- toc -->
 
 

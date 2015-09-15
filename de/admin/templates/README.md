@@ -1,7 +1,9 @@
-<a name="top"></a>
 # Templates
 
 Hier erhalten Sie Informationen über die Templates.
+
+**Inhalt**
+<!-- toc -->
 
 
 ### mod_dms_listing.* ###
@@ -10,11 +12,13 @@ Dieses Template wird vom Auflistungsmodul verwendet. Es bildet die Kategoriestru
 
 Kopieren sie dieses Template (behalten sie den Präfix `mod_dms_listing_` für den Namen), verändern sie es und wählen sie das geänderte Template im Auflistungsmodul.
 
+
 ### mod_dms_management.* ###
 
 Dieses Template wird vom Verwaltungsmodul verwendet. Es bildet die Kategoriestruktur als Baum ab und zeigt die Buttons zum Hochladen und Verwalten für jede Kategorie.
 
 Kopieren sie dieses Template (behalten sie den Präfix `mod_dms_management_` für den Namen), verändern sie es und wählen sie das geänderte Template im Verwaltungsmodul.
+
 
 ### mod_dms_mgmt_access_denied.* ###
 
@@ -63,9 +67,3 @@ Dieses Template ist derzeit nicht kopierbar (siehe [ContaoDMS/dms#29](https://gi
 Dieses Template wird vom Verwaltungsmodul verwendet um das Ergebnis nach der Bearbeitung eines Dokuments anzuzeigen.
 
 Dieses Template ist derzeit nicht kopierbar (siehe [ContaoDMS/dms#29](https://github.com/ContaoDMS/dms/issues/29)).
-
-
-
-----------
-
-[Seitenanfang](#top)

@@ -1,4 +1,3 @@
-<a name="top"></a>
 # Zugriffsrechte
 
 Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
@@ -27,9 +26,3 @@ Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitgliede
 * **Dokumente veröffentlichen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
 
 **Aktivierung:** Setzen Sie das Zugriffsrecht auf *aktiv* (direkt aktiviert) oder *inaktiv* (kein Häkchen)
-
-Optionen **Aktivieren ab** und **Anzeigen bis**: Sie können den Tag festlegen wann das Zugriffsrecht aktiviert werden soll und bei Eingabe eines Tages im Feld **Anzeigen bis** die Dauer der Aktivierung.
-
-----------
-
-[Seitenanfang](#top)

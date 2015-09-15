@@ -1,4 +1,3 @@
-<a name="top"></a>
 # Initialisierung
 
 Hier erhalten Sie Informationen über die Initialisierung.
@@ -55,8 +54,3 @@ Auf diese Weise können beliebig viele Sets angelegt werden.
 ![Screenshot Dateityp-Sets Liste](/manual/de/admin/initialization/screenshot_file_type_sets_list.png)
 
 Informationen wie sie **Dateityp-Sets** weiterverarbeiten, z.B. über die Vererbung, erhalten sie im Kapitel [Kategorien](/manual/de/admin/views/categories.md) im Abschnitt **Kategorieeinstellungen** --> Erlaubte Dateitypen
-
-
-----------
-
-[Seitenanfang](#top)

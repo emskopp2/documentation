@@ -1,4 +1,3 @@
-<a name="top"></a>
 # Kategorien
 
 Hier erhalten Sie Informationen über die Ansicht für Kategorien.
@@ -44,8 +43,6 @@ Im Modul DMS → Kategorien
 ![Screenshot Kategorie einfügen als Unterebene](/manual/de/admin/views/screenshot_categories_insert_second_level.png)
 
 ----------
-
-[Seitenanfang](#top)
 
 <a name="categories_2"></a>
 ## 2. Kategorieeinstellungen
@@ -127,8 +124,6 @@ Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
 ----------
 
-[Seitenanfang](#top)
-
 <a name="categories_3"></a>
 ## 3. Bearbeitung einer Kategorie
 
@@ -176,8 +171,3 @@ Kategorien lassen sich einfach über die Symbole *Verschieben* und *Einfügen* a
 Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich **kein** Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.
 
 ![Screenshot Kategorie löschen](screenshot_categories_delete.png)
-
-
-----------
-
-[Seitenanfang](#top)

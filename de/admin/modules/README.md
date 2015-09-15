@@ -1,4 +1,3 @@
-<a name="top"></a>
 # Frontendmodule
 
 Hier erhalten Sie Informationen über die Frontendmodule.
@@ -39,8 +38,6 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 
 ----------
 
-[Seitenanfang](#top)
-
 <a name="modules_2"></a>
 ## Einbindung der Module in die Website
 
@@ -73,8 +70,3 @@ Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebun
 → Auswahl des Moduls (hier das Modul "DMS-Auflistung")
 
 ![Screenshot DMS Modulauswahl.png](/manual/de/admin/modules/screenshot_select_modul.png)
-
-
-----------
-
-[Seitenanfang](#top)

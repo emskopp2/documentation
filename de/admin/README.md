@@ -4,13 +4,9 @@ Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
 
 ## Installation
 
-
-#### Inhalt
-1. [Installation per Erweiterungsverwaltung](installation/#installation_1)
-2. [Installation per Composer](installation/#installation_2)
-3. [Serverkonfiguration](installation/#installation_3)
-
-
+1. [Installation per Erweiterungsverwaltung](installation/README.md#installation-per-erweiterungskatalog)
+2. [Installation per Composer](installation/README.md#installation-per-composer)
+3. [Serverkonfiguration](installation/README.md#serverkonfiguration)
 
 ## Initialisierung
 
