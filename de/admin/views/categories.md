@@ -102,7 +102,7 @@ Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
 ## Bearbeitung einer Kategorie
 
-In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (**Siehe oben:** [2. Kategorieeinstellungen](#categories_2))
+In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (**Siehe oben:** [Kategorieeinstellungen](#kategorieeinstellungen))
 
 ![Screenshot Kategorie bearbeiten](screenshot_categories_edit.png)
 
