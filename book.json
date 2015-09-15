@@ -2,6 +2,7 @@
   "gitbook": "2.x.x",
   "title": "Manual for Contao DMS",
   "plugins": [
+    "anchor-navigation",
     "anchors",
     "toc"
   ],
