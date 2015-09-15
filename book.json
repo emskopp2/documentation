@@ -4,6 +4,7 @@
   "plugins": [
     "anchor-navigation",
     "anchors",
+    "richquotes",
     "toc",
     "todo"
   ],
@@ -11,6 +12,11 @@
     "sidebar": {
       "Contao DMS - Homepage": "https://github.com/ContaoDMS/dms"
     }
+  },
+  "pluginsConfig": {
+    "richquotes": {
+      "todos" : true
+      }
   },
   "pdf": {
     "toc": true
