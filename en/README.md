@@ -1,6 +1,6 @@
-# English manual ![EN](en.png)
+# Contao DMS manual ![EN](en.png)
 
-This is the manual for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
+This is the official manual for the [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 ## Admin manual
 

@@ -1,6 +1,6 @@
-# Deutsches Handbuch ![DE](de.png) 
+# Contao DMS Handbuch ![DE](de.png)
 
-Dies ist das Handbuch für das [[Contao DMS]](https://github.com/ContaoDMS/dms).
+Dies ist das offizielle Handbuch für das [[Contao DMS]](https://github.com/ContaoDMS/dms).
 
 ## Was ist das Contao DMS (DokManSystem)?
 
