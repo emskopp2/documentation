@@ -4,13 +4,15 @@ Some helping files for documenting the [[Contao DMS]](https://github.com/ContaoD
 
 In case there are issues, please use the [tracker](https://github.com/ContaoDMS/documentation/issues).
 
-## Deutsches Handbuch
 
-![DE](de/de.png) Das deutsche Handbuch gibt es [hier](de).
+## Documentation
 
-## English manual
+[Read the manual](https://cliffparnitzky.gitbooks.io/contaodms)
 
-![EN](en/en.png) The english manual is available [here](en).
+![DE](de/de.png) [Deutsches Handbuch](https://cliffparnitzky.gitbooks.io/contaodms/content/de/index.html)
+
+![EN](en/en.png) [English manual](https://cliffparnitzky.gitbooks.io/contaodms/content/en/index.html)
+
 
 ## Files
 
