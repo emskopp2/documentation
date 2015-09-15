@@ -16,7 +16,7 @@
   "pluginsConfig": {
     "richquotes": {
       "todos" : true
-      }
+    }
   },
   "pdf": {
     "toc": true
