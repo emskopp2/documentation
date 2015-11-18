@@ -23,7 +23,7 @@ Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen:
  
 zur Verfügung.
 
-![Screenshot ContaoDMS Backend Werkzeuge](/manual/de/admin/installation/screenshot_dms_backend_tools.png)
+![Screenshot ContaoDMS Backend Werkzeuge](screenshot_dms_backend_tools.png)
 
 
 ## Installation per Composer
