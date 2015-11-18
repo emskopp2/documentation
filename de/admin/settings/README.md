@@ -4,9 +4,9 @@ Hier erhalten Sie Informationen über die Grundeinstellungen.
 
 Nach der Installation der ContaoDMS Erweiterung finden sie in der **Contao Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das ContaoDMS.
 
-![Screenshot globale Contao Einstellungen](/manual/de/admin/settings/screenshot_global_contao_settings.png)
+![Screenshot globale Contao Einstellungen](screenshot_global_contao_settings.png)
 
-![Screenshot Bereich globale DMS Einstellungen](/manual/de/admin/settings/screenshot_global_dms_settings.png)
+![Screenshot Bereich globale DMS Einstellungen](screenshot_global_dms_settings.png)
 
 
 ## Hier können sie folgende Anpassungen vornehmen:
