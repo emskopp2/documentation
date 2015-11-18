@@ -26,7 +26,7 @@ Im Modul DMS → Kategorien
 ![Screenshot Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
 
 **Folgende Abb.:** Anlage einer weiteren Kategorie als Unterebene
-![Screenshot Kategorie einfügen als Unterebene](/manual/de/admin/views/screenshot_categories_insert_second_level.png)
+![Screenshot Kategorie einfügen als Unterebene](screenshot_categories_insert_second_level.png)
 
 
 ## Kategorieeinstellungen
@@ -110,14 +110,14 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 ### Mehrere Datensätze bearbeiten
 Sie können auch über die Funktion *Mehrere bearbeiten* mehrere Datensätze auswählen um Einstellungen vorzunehmen. Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
 
-![Screenshot Mehrere Datensätze bearbeiten](/manual/de/admin/views/screenshot_multitask.png)
+![Screenshot Mehrere Datensätze bearbeiten](screenshot_multitask.png)
 
 Wählen sie die zu bearbeitenden Kategorien und klicken unten auf *Bearbeiten*:
 
-![Screenshot ausgewählte Datensätze](/manual/de/admin/views/screenshot_multitask_selectionpng.png)
+![Screenshot ausgewählte Datensätze](screenshot_multitask_selectionpng.png)
 
 Wählen sie die zu bearbeitenden Felder aus und klicken auf *Weiter*:
-![Screenshot zu bearbeitende Felder auswählen.png](/manual/de/admin/views/screenshot_select_existing_fields.png)
+![Screenshot zu bearbeitende Felder auswählen.png](screenshot_select_existing_fields.png)
 
 Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
 
