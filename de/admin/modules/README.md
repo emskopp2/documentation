@@ -13,7 +13,7 @@ Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Modu
 → **Layout** → **Themes** und dann in der **Modulbearbeitung** des Themes anlegt.
 
 
-![Screenshot Module.png](/manual/de/admin/modules/screenshot_modules.png)
+![Screenshot Module.png](screenshot_modules.png)
 
 
 ### 1. DMS-Auflistung
@@ -37,28 +37,28 @@ Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebun
 
 → Inhalte → Artikel 
 
-![Screenshot Werkzeug Artikel.png](/manual/de/admin/modules/screenshot_select_tool_article.png)
+![Screenshot Werkzeug Artikel.png](screenshot_select_tool_article.png)
 
  → Artikel auswählen 
  
- ![Screenshot Artikel auswählen.png](/manual/de/admin/modules/screenshot_select_article.png)
+ ![Screenshot Artikel auswählen.png](screenshot_select_article.png)
 
 
 → Neues Element
 
-![Screenshot Neues Element erstellen.png](/manual/de/admin/modules/screenshot_create_new_elementtyp.png)
+![Screenshot Neues Element erstellen.png](screenshot_create_new_elementtyp.png)
 
 → Element an gewünschte Stelle mittels Einfügesymbol einfügen
 
-![Screenshot Modulposition auswählen.png](/manual/de/admin/modules/screenshot_select_modul_position.png)
+![Screenshot Modulposition auswählen.png](screenshot_select_modul_position.png)
 
 
 → Auswahl des Elementtyps → *Modul* 
 
 
-![Screenshot Elementtyp Auswahl Modul](/manual/de/admin/modules/screenshot_select_datatyp_modul.png)
+![Screenshot Elementtyp Auswahl Modul](screenshot_select_datatyp_modul.png)
 
 
 → Auswahl des Moduls (hier das Modul "DMS-Auflistung")
 
-![Screenshot DMS Modulauswahl.png](/manual/de/admin/modules/screenshot_select_modul.png)
+![Screenshot DMS Modulauswahl.png](screenshot_select_modul.png)
