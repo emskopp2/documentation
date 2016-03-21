@@ -63,7 +63,7 @@ Die in einer Kategorie enthaltenen Dokumente lassen sich mit der Checkbox ein-, 
 
 Sie können mit Hilfe der Buttons am Ende der Dokumentenliste auch alle Dokumente ein-, bzw. ausblenden
 
-![Screenshot Alle Dokumente ein oder ausblenden](/manual/de/user/screenshot_frontend_dms_listing_view_all_or_hide_all_documents.png)
+![Screenshot Alle Dokumente ein oder ausblenden](screenshot_frontend_dms_listing_view_all_or_hide_all_documents.png)
 
 ---
 
@@ -77,17 +77,17 @@ Als Suchergebnis bleiben die Auswahlfelder der Kategorien eingeblendet, die Doku
 
 In der folgenden Abb. wurde bspw. nach "Boskopp" gesucht. Die Kategorie "Äpfel" enhält ein Dokument mit diesem Suchbegriff und das Auswahlfeld wird eingeblendet.
 
-![Screenshot Suchergebnis](/manual/de/user/screenshot_frontend_dms_listing_searching_documents.png)
+![Screenshot Suchergebnis](screenshot_frontend_dms_listing_searching_documents.png)
 
 ---
 
-![Gefundene Dokumente anzeigen](/manual/de/user/screenshot_frontend_dms_listing_searching_documents_view_documents.png)
+![Gefundene Dokumente anzeigen](screenshot_frontend_dms_listing_searching_documents_view_documents.png)
 
 ---
 # Verwaltungsansicht im Frontend (DMS-Verwaltung)
 Über die Verwaltungsansicht laden sie Dokumente hoch. Über die Funktion "Verwalten" stehen die Werkzeuge Veröffentlichen oder ausblenden, löschen und Bearbeiten der Dokumenteigenschaften zur Verfügung.
 
-![Screenshot Verwaltungsansicht](/manual/de/user/screenshot_frontend_dms_management.png)
+![Screenshot Verwaltungsansicht](screenshot_frontend_dms_management.png)
 
 ---
 
@@ -96,19 +96,19 @@ Nachfolgend sind die Schritte beschrieben wie sie Dokumente hochladen.
 
 Klicken sie in der Verwaltungsansicht auf **Hochladen**:
 
-![Screenshot Dokument hochladen](/manual/de/user/screenshot_frontend_dms_management_document_upload.png)
+![Screenshot Dokument hochladen](screenshot_frontend_dms_management_document_upload.png)
 
 Dann weiter auf **Durchsuchen**:
-![Screenshot Dokument Suchen](/manual/de/user/screenshot_frontend_dms_management_search_upload_document.png)
+![Screenshot Dokument Suchen](screenshot_frontend_dms_management_search_upload_document.png)
 
 Wählen sie das hochzuladene Dokument und bestätigen sie mit **Öffnen**:
 ![Screenshot Dokument lokal auswählen](/manual/de/user/screenshot_frontend_dms_management_search_upload_document_select.png)
 
 Klicken sie nun auf **Hochladen**:
-![Screenshot Dokument hochladen](/manual/de/user/screenshot_frontend_dms_management_upload.png)
+![Screenshot Dokument hochladen](screenshot_frontend_dms_management_upload.png)
 
 Bestimmen sie die **Dokumenteigenschaften**:
-![Screenshot Dokumenteigenschaften bestimmen](/manual/de/user/screenshot_frontend_dms_management_upload_document_description.png)
+![Screenshot Dokumenteigenschaften bestimmen](screenshot_frontend_dms_management_upload_document_description.png)
 
 ---
 
@@ -117,7 +117,7 @@ Nachfolgend sind Hinweismeldungen aufgeführt, die Ihnen beim Arbeiten mit dem C
 
 * Die nachfolgende Meldung erhalten sie, wenn ein Dateityp hochgeladen wird der für diese Kategorie nicht freigegeben ist. 
 
-![Screenshot Meldung Nicht erlaubter Dateityp](/manual/de/user/screenshot_frontend_dms_management_message_forbidden_datatyp.png)
+![Screenshot Meldung Nicht erlaubter Dateityp](screenshot_frontend_dms_management_message_forbidden_datatyp.png)
 
 * Die folgende Meldung erhalten sie beim Upload, wenn das System festgestellt, dass es noch mindestens ein Dokument mit gleichem Namen in einer anderen Kategorie gibt. 
-![Screenshot Dokument mit gleichen Namen in anderer Kategorie schon vorhanden](/manual/de/user/screenshot_frontend_dms_management_several_document_versions.png)
+![Screenshot Dokument mit gleichen Namen in anderer Kategorie schon vorhanden](screenshot_frontend_dms_management_several_document_versions.png)
