@@ -48,7 +48,7 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 ---
 **Und jetzt noch mal als Screenshot:**
 
-![Screenshot Auflistung der Dokumente](/manual/de/user/screenshot_frontend_dms_listing.png)
+![Screenshot Auflistung der Dokumente](screenshot_frontend_dms_listing.png)
 
 ---
 
@@ -56,7 +56,7 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 Die in einer Kategorie enthaltenen Dokumente lassen sich mit der Checkbox ein-, und ausblenden. 
 
-![Screenshot Dokumente einer Kategorie anzeigen](/manual/de/user/screenshot_frontend_dms_listing_view_documents_in_selected_category.png)
+![Screenshot Dokumente einer Kategorie anzeigen](screenshot_frontend_dms_listing_view_documents_in_selected_category.png)
 
 
 ## Alle Dokumente anzeigen oder ausblenden
