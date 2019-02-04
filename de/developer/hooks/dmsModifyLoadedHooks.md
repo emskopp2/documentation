@@ -9,7 +9,7 @@ Die folgenden Hooks können verwendet werden um Objekte zu ändern die vom `DmsL
 ## "dmsModifyLoadedCategory" - Hook
 
 Der "dmsModifyLoadedCategory" - Hook wird zum Ändern von Kategorien nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$category` (vorhandenee geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
+Er übergibt `$category` (vorhandenes geladenes Objekt) und `$dbResultCategory` (das Datenbank-Ergebnis).
 Er erwartet die geänderte Kategorie als Rückgabewert.
 
 *(seit Version 2.2.0)*
@@ -24,7 +24,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][] = array('MyDmsModificationClas
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedCategory(Category $category, Database_Result $dbResultCategory)
+	public function myDmsModifyLoadedCategory(\ContaoDMS\Category $category, $dbResultCategory)
 	{
 		// do custom modification here
 		return $category;
@@ -36,7 +36,7 @@ class MyDmsModificationClass
 ## "dmsModifyLoadedAccessRight" - Hook
 
 Der "dmsModifyLoadedAccessRight" - Hook wird zum Ändern von Zugriffsrechten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$accessRight` (vorhandenee geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
+Er übergibt `$accessRight` (vorhandenes geladenes Objekt) und `$dbResultAccessRight` (das Datenbank-Ergebnis).
 Er erwartet das geänderte Zugriffsrecht als Rückgabewert.
 
 *(seit Version 2.2.0)*
@@ -51,7 +51,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][] = array('MyDmsModificationC
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedAccessRight(AccessRight $accessRight, Database_Result $dbResultAccessRight)
+	public function myDmsModifyLoadedAccessRight(\ContaoDMS\AccessRight $accessRight, $dbResultAccessRight)
 	{
 		// do custom modification here
 		return $accessRight;
@@ -63,7 +63,7 @@ class MyDmsModificationClass
 ## "dmsModifyLoadedDocument" - Hook
 
 Der "dmsModifyLoadedDocument" - Hook wird zum Ändern von Dokumenten nach dem Laden durch den `DmsLoader` ausgeführt. So können die Eigenschaften verändert werden.
-Er übergibt `$document` (vorhandenee geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
+Er übergibt `$document` (vorhandenes geladenes Objekt) und `$dbResultDocument` (das Datenbank-Ergebnis).
 Er erwartet das geänderte Dokument als Rückgabewert.
 
 *(seit Version 2.2.0)*
@@ -78,7 +78,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][] = array('MyDmsModificationClas
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedDocument(Document $document, Database_Result $dbResultDocument)
+	public function myDmsModifyLoadedDocument(\ContaoDMS\Document $document, $dbResultDocument)
 	{
 		// do custom modification here
 		return $document;

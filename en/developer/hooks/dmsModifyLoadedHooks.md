@@ -24,7 +24,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedCategory'][] = array('MyDmsModificationClas
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedCategory(Category $category, Database_Result $dbResultCategory)
+	public function myDmsModifyLoadedCategory(\ContaoDMS\Category $category, $dbResultCategory)
 	{
 		// do custom modification here
 		return $category;
@@ -51,7 +51,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedAccessRight'][] = array('MyDmsModificationC
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedAccessRight(AccessRight $accessRight, Database_Result $dbResultAccessRight)
+	public function myDmsModifyLoadedAccessRight(\ContaoDMS\AccessRight $accessRight, $dbResultAccessRight)
 	{
 		// do custom modification here
 		return $accessRight;
@@ -78,7 +78,7 @@ $GLOBALS['TL_HOOKS']['dmsModifyLoadedDocument'][] = array('MyDmsModificationClas
 
 class MyDmsModificationClass
 {
-	public function myDmsModifyLoadedDocument(Document $document, Database_Result $dbResultDocument)
+	public function myDmsModifyLoadedDocument(\ContaoDMS\Document $document, $dbResultDocument)
 	{
 		// do custom modification here
 		return $document;

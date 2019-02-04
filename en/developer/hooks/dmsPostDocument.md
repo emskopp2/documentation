@@ -23,7 +23,7 @@ $GLOBALS['TL_HOOKS']['dmsPostDocumentDownload'][] = array('MyDmsPostDocumentExec
 
 class MyDmsPostDocumentExecutionClass
 {
-	public function myDmsPostDocumentDownload($strFile, Document $document)
+	public function myDmsPostDocumentDownload($strFile, \ContaoDMS\Document $document)
 	{
 		// do custom actions here
 	}
