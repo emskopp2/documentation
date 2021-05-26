@@ -1,16 +1,18 @@
 # Module
 
-Hier erhalten Sie Informationen über die Frontendmodule.
+Hier erhalten Sie Informationen über die Frontend-Module.
 
-**Inhalt**
 <!-- toc -->
 
 
-## Anlegen der Frontendmodule
+## Anlegen der Frontend-Module
 
-Die Anzeige des DokManSystems im Frontend erfolgt durch **Einbindung zweier Module** die man im Backend unter:
+Es müssen zwei neue Frontend-Module erzeugt werden.
 
-→ **Layout** → **Themes** und dann in der **Modulbearbeitung** des Themes anlegt.
+1. Eines für die **Auflistung**
+2. Eines für die **Verwaltung**
+
+Unter **Layout** → **Themes** -> Frontend-Module.
 
 
 ![Screenshot Module.png](screenshot_modules.png)
