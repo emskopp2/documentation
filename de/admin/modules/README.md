@@ -4,8 +4,8 @@ Hier erhalten Sie Informationen über die Frontend-Module.
 
 **Seiteninhalt:**
 
-1. [Anlegen der Frontend-Module](modules/README.md#anlegen-der-frontend-module)
-2. [Modul ContaoDMS Auflistung](modules/README.md#dms-auflistung)
+1. [Anlegen der Frontend-Module](#anlegen-der-frontend-module)
+2. [Modul ContaoDMS Auflistung](#dms-auflistung)
 
 
 ## Anlegen der Frontend-Module
