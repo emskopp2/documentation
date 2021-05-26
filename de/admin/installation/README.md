@@ -56,10 +56,10 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 7. mit **Hinzufügen** das Paket zur Installation bereitstellen
 8. anschließend auf **Pakete**
 9. nun auf **Änderungen anwenden**
-10. Pakete werden aktualisert
+10. Pakete werden aktualisiert
 11. weiter zu **Datenbank aktualisieren**
-12. Weiterleitung zum Contao Intalltool
+12. Weiterleitung zum Contao Installtool
 13. Login
-14. hier Datenbank aktualisieren
+14. nun die Datenbank aktualisieren
 15. anschließend zum Backend (Login)
 16. Im Backend sind nun die ContaoDMS Werkzeuge zu sehen
