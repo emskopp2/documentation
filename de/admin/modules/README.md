@@ -35,7 +35,9 @@ Unter **Layout** → **Themes** → Frontend-Module.
 
 ## Einbindung der Module in die Website
 
-Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebunden. Nachfolgend ist die Einbindung des Frontendmoduls **DMS-Auflistung** beschrieben. Das Modul **DMS-Verwaltung** wird auf die gleiche Weise eingebunden.
+  * Die Module können als Inhaltselemente an beliebiger Stelle der Website eingebunden werden. 
+  * Nachfolgend ist die Einbindung des Frontendmoduls **DMS-Auflistung** beschrieben. 
+  * Das Modul **DMS-Verwaltung** wird auf die gleiche Weise eingebunden.
 
 → Inhalte → Artikel 
 
