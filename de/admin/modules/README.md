@@ -12,7 +12,7 @@ Es müssen zwei neue Frontend-Module erzeugt werden.
 1. Eines für die **Auflistung**
 2. Eines für die **Verwaltung**
 
-Unter **Layout** → **Themes** -> Frontend-Module.
+Unter **Layout** → **Themes** → Frontend-Module.
 
 
 ![Screenshot Module.png](screenshot_modules.png)
