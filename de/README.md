@@ -11,7 +11,7 @@ Für die Anzeige und die Verwaltung der Dokumente im Frontend werden zwei Module
 Für eine übersichtliche Ablage der Dokumente lassen sich beliebige Kategorien anlegen. Sowohl die Kategorien als auch die Dokumente selbst können mit sehr genau greifenden Zugriffsrechten bzw. Leserechten versehen werden.
 Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Sets zugeordet werden. Diese geben an, welche Dateitypen in welche Kategorie hochgeladen werden dürfen.
 
-Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer (aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer installiert werden). 
+Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer (aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer oder Contao-Manager installiert werden). 
 
 ## Administratorhandbuch
 
