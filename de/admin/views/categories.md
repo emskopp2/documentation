@@ -2,8 +2,18 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Kategorien.
 
-**Inhalt**
+**Seiteninhalt**
 <!-- toc -->
+1. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
+2. [Kategorieeinstellungen](#kategorieeinstellungen)
+3. [Erlaubte Dateitypen](#erlaubte-dateitypen)
+4. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
+5. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
+6. [Grundsätzliche Lese und Verwaltungsrechte](#grundsätzliche-lese-und-verwaltungsrechte)
+7. [Bearbeitung einer Kategorie](#bearbeitung-einer-kategorie)
+8. [Mehrere Datensätze bearbeiten](#mehrere-datensätze-bearbeiten)
+9. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
+10. [Löschen einer Kategorie](#löschen-einer-kategorie)
 
 
 ## Anlegen einer neuen Kategorie
@@ -30,7 +40,6 @@ Im Modul DMS → Kategorien
 
 
 ## Kategorieeinstellungen
-
 
 ### Name und Beschreibung
 
@@ -70,7 +79,7 @@ Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dat
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
 
 
-## Grundsätzliche Lese-, und Verwaltungsrechte
+## Grundsätzliche Lese und Verwaltungsrechte
 
 ### Grundsätzliches Leserecht  
 Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
@@ -108,6 +117,7 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 
 
 ### Mehrere Datensätze bearbeiten
+
 Sie können auch über die Funktion *Mehrere bearbeiten* mehrere Datensätze auswählen um Einstellungen vorzunehmen. Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
 
 ![Screenshot Mehrere Datensätze bearbeiten](screenshot_multitask.png)
@@ -122,7 +132,6 @@ Wählen sie die zu bearbeitenden Felder aus und klicken auf *Weiter*:
 Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
 
 **Speichern nicht vergessen**
-
 
 ## Verschieben einer Kategorie
 
