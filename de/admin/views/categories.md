@@ -3,17 +3,18 @@
 **Seiteninhalt**
 <!-- toc -->
 1. [Beschreibung Kategorien im ContaoDMS](#beschreibung-kategorien-im-contaodms)
-2. [Verschachtelung von Kategorien](#verschachtelung-von-kategorien)
-3. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
-4. [Kategorieeinstellungen](#kategorieeinstellungen)
-5. [Erlaubte Dateitypen](#erlaubte-dateitypen)
-6. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
-7. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
-8. [Grundsätzliche Lese und Verwaltungsrechte](#grundsätzliche-lese-und-verwaltungsrechte)
-9. [Bearbeitung einer Kategorie](#bearbeitung-einer-kategorie)
-10. [Mehrere Datensätze bearbeiten](#mehrere-datensätze-bearbeiten)
-11. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
-12. [Löschen einer Kategorie](#löschen-einer-kategorie)
+2. [Kategorietiefe](#kategorietiefe)
+3. [Kategoriebielder](#kategoriebilder)
+4. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
+5. [Kategorieeinstellungen](#kategorieeinstellungen)
+6. [Erlaubte Dateitypen](#erlaubte-dateitypen)
+7. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
+8. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
+9. [Grundsätzliche Lese und Verwaltungsrechte](#grundsätzliche-lese-und-verwaltungsrechte)
+10. [Bearbeitung einer Kategorie](#bearbeitung-einer-kategorie)
+11. [Mehrere Datensätze bearbeiten](#mehrere-datensätze-bearbeiten)
+12. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
+13. [Löschen einer Kategorie](#löschen-einer-kategorie)
 
 
 ## Beschreibung Kategorien im ContaoDMS
@@ -26,15 +27,22 @@
 * Jede Kategorie benötigt einen aussagefähigen **Namen** und eine möglichst ausführliche aber nicht zu lange **Beschreibung**
 * Der Name und die Beschreibung werden später im Frontend angezeigt
 
-## Verschachtelung von Kategorien
+## Kategorietiefe
 
 * Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich für jeden Anwendungszweck ausreichen.
 
-    **Hauptkategorie**
-    ------ **1.** Unterkategorie
-    -------- **2.** Unterkategorie
-    --------- **3.** Unterkategorie
-    ---------- **4.** Unterkategorie
+<pre>
+  Hauptkategorie
+   --> 1. Unterkategorie
+    ---> 2. Unterkategorie
+     ----> 3. Unterkategorie
+      -----> 4. Unterkategorie
+</pre>
+
+## Kategoriebilder
+
+* Jeder Kategorie kann genau ein Bild zugewiesen werden (z.B. als Vorschaubild)
+* Diese Bild muss in der Contao-Dateiverwaltung hochgeladen werden
 
 ## Anlegen einer neuen Kategorie
 
