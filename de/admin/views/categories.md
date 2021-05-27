@@ -1,20 +1,40 @@
 # Kategorien
 
-Hier erhalten Sie Informationen über die Ansicht für Kategorien.
-
 **Seiteninhalt**
 <!-- toc -->
-1. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
-2. [Kategorieeinstellungen](#kategorieeinstellungen)
-3. [Erlaubte Dateitypen](#erlaubte-dateitypen)
-4. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
-5. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
-6. [Grundsätzliche Lese und Verwaltungsrechte](#grundsätzliche-lese-und-verwaltungsrechte)
-7. [Bearbeitung einer Kategorie](#bearbeitung-einer-kategorie)
-8. [Mehrere Datensätze bearbeiten](#mehrere-datensätze-bearbeiten)
-9. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
-10. [Löschen einer Kategorie](#löschen-einer-kategorie)
+1. [Beschreibung Kategorien im ContaoDMS](#beschreibung-kategorien-im-contaodms)
+2. [Verschachtelung von Kategorien](#verschachtelung-von-kategorien)
+3. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
+4. [Kategorieeinstellungen](#kategorieeinstellungen)
+5. [Erlaubte Dateitypen](#erlaubte-dateitypen)
+6. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
+7. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
+8. [Grundsätzliche Lese und Verwaltungsrechte](#grundsätzliche-lese-und-verwaltungsrechte)
+9. [Bearbeitung einer Kategorie](#bearbeitung-einer-kategorie)
+10. [Mehrere Datensätze bearbeiten](#mehrere-datensätze-bearbeiten)
+11. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
+12. [Löschen einer Kategorie](#löschen-einer-kategorie)
 
+
+## Beschreibung Kategorien im ContaoDMS
+
+* Kategorien sind die Orte in welchen die Dokumente später aufbewahrt werden.
+* Jedes Dokument wird genau einer Kategorie zugeordnet. Daher ist es wichtig, sich im Vorfeld eine sinnvolle Struktur zu überlegen.
+* Eine weitere wichtige Überlegung sollte sein, welche Dokumente die einzelnen Mitglieder später zu sehen bekommen sollen.
+* Grundsätzlich ist zu entscheiden ob Dokumente von allen Nutzern der Website (auch nicht angemeldeten), nur von angemeldeten Mitgliedern, oder nur von Mitgliedern spezieller Mitgliedsgruppen gelesen werden dürfen.
+* Es besteht also ein Zusammenspiel von **Kategorien** und **Zugriffsrechten**
+* Jede Kategorie benötigt einen aussagefähigen **Namen** und eine möglichst ausführliche aber nicht zu lange **Beschreibung**
+* Der Name und die Beschreibung werden später im Frontend angezeigt
+
+## Verschachtelung von Kategorien
+
+* Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich für jeden Anwendungszweck ausreichen.
+
+    **Hauptkategorie**
+    ------ **1.** Unterkategorie
+    -------- **2.** Unterkategorie
+    --------- **3.** Unterkategorie
+    ---------- **4.** Unterkategorie
 
 ## Anlegen einer neuen Kategorie
 
