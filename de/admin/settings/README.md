@@ -8,7 +8,7 @@ Nach der Installation der ContaoDMS Pakets finden sie in der Contao **Systemverw
 
 ### Hier können folgende Anpassungen vorgenommen werden:
 
-#### Basisverzeichnis:
+#### Basisverzeichnis
 
 **Wo sollen die Dokumente abgelegt werden?**  
 Voreinstellung und empfohlen ist (Contao 3.x und 4.x): `files/dms`
