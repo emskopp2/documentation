@@ -1,36 +1,35 @@
 # Administratorhandbuch
 
-Hier erhalten Sie Informationen, wie Sie das DMS administrieren.
+Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
 
 ## Installation
 
-1. [Installation per Erweiterungsverwaltung](installation/README.md#installation-per-erweiterungskatalog)
-2. [Installation per Composer](installation/README.md#installation-per-composer)
-3. [Serverkonfiguration](installation/README.md#serverkonfiguration)
-4. [Installation per Contao-Manager](installation/README.md#installation-per-contao-manager)
+1. [Installation per Composer](installation/README.md#installation-per-composer)
+2. [Serverkonfiguration](installation/README.md#serverkonfiguration)
+3. [Installation per Contao-Manager (Contao 4.x)](installation/README.md#installation-per-contao-manager)
+4. [Installation per Erweiterungsverwaltung(Contao 3.x)](installation/README.md#installation-per-erweiterungskatalog)
 
-## Initialisierung
+## Grundeinstellungen und Mitgliedergruppen
 
-#### Inhalt
-
-1. [Mitglieder und Mitgliedergruppen anlegen](initialization/#initialization_1)
-2. [Dateityp-Sets erstellen](initialization/#initialization_2)
-
-
+* [Allgemeine Grundeinstellungen](settings/README.md)
+* [Mitglieder und Mitgliedergruppen anlegen](initialization/README.md#mitglieder-und-mitgliederdruppen-anlegen)
 
 ## Frontendmodule
 
+Hier erhalten Sie Informationen wie Sie die Frontendmodule für das ContaoDMS anlegen und einbinden
 
-#### Inhalt
-1. [Anlegen der Frontendmodule](modules/#modules_1)
+1. [Anlegen der Frontendmodule Auflistung und Verwaltung](modules/#modules_1)
 2. [Einbindung der Module in die Website](modules/#modules_2)
 
 
-## Grundeinstellungen
+## Initialisierung
 
-Erklärung der Grundeinstellungen.
+Hier erhalten Sie Informationen wie Sie das ContaoDMS initialisieren
 
-[Weiterlesen ...](settings/README.md)
+* [Kategorien anlegen](views/categories.md)
+* [Zugriffsrechte anlegen](views/access_rights.md)
+* [Dokumente](views/documents.md)
+* [Dateityp-Sets erstellen](views/file_type_sets.md)
 
 ## Templates
 
@@ -38,13 +37,4 @@ Erklärung der Templates.
 
 [Weiterlesen ...](templates/README.md)
 
-## Ansichten
 
-Hier erhalten Sie Informationen über die Ansichten:
-
-* Kategorien
-* Zugriffsrechte
-* Dokumente
-* Dateityp-Sets
-
-[Weiterlesen ...](views/README.md)
