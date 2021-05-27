@@ -29,4 +29,4 @@ Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt (also Kategor
 
 Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen der Kategorien die Arbeitsschritte effizienter. 
 
-![Screenshot Benutzerverwaltung](de/admin/initialization/screenshot_user_management.png)
+![Screenshot Benutzerverwaltung](2-contao-user-management.png)
