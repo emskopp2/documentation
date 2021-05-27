@@ -12,7 +12,7 @@ Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
 ## Grundeinstellungen und Mitgliedergruppen
 
 * [Allgemeine Grundeinstellungen](settings/README.md)
-* [Mitglieder und Mitgliedergruppen anlegen](initialization/README.md#mitglieder-und-mitgliederdruppen-anlegen)
+* [Mitgliedergruppen und Mitglieder anlegen](settings/README.md#mitgliedgruppen-und-mitglieder-anlegen)
 
 ## Frontendmodule
 
