@@ -1,7 +1,5 @@
 # Grundeinstellungen
 
-Hier erhalten Sie Informationen über die Grundeinstellungen.
-
 Nach der Installation der ContaoDMS Pakets finden sie in der **Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das ContaoDMS.
 
 ![grundeinstellungen ContaoDMS](1-grundeinstellungen.png)
