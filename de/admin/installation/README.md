@@ -55,7 +55,7 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 2. Login Contao-Manager 
 3. nach Durchlauf der Systemüberprüfung weiter zum **Contao-Manager**
 4. In der Suche nach **Contao DMS** suchen.
-5. 5. Es werden alle zur Verfügung stehenden Pakete angezeigt:
+5. Es werden alle zur Verfügung stehenden Pakete angezeigt:
 
 ![ContaoDMS Pakete suchen](5-paket-hinzufuegen.png)
 
@@ -74,7 +74,6 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 ![Pakete werden aktualisiert](8-pakete-werden-aktualisiert.png)
 
 11. weiter zu **Datenbank aktualisieren**:
-
 
 ![Weiter zu Datenbank aktualisieren](9-zu-db-aktualisieren.png)
 
