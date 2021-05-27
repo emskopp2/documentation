@@ -54,16 +54,37 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 1. Contao-Manager aufrufen (z.B. meine-Domain.de/contao-manager.phar.php)
 2. Login Contao-Manager 
 3. nach Durchlauf der Systemüberprüfung weiter zum **Contao-Manager**
-4. In der Suche nach **Contao DMS** suchen
-5. Es werden alle zur Verfügung stehenden Pakete angezeigt.
+4. In der Suche nach **Contao DMS** suchen.
+5. 5. Es werden alle zur Verfügung stehenden Pakete angezeigt:
+
+![ContaoDMS Pakete suchen](5-paket-hinzufuegen.png)
+
 6. Das Paket **ContaoDMS Bundle all** enthält das ContaoDMS sowie auch das Dateityp-Sets Add-On.
 7. mit **Hinzufügen** das Paket zur Installation bereitstellen
-8. anschließend auf **Pakete**
-9. nun auf **Änderungen anwenden**
-10. Pakete werden aktualisiert
-11. weiter zu **Datenbank aktualisieren**
+8. anschließend auf **Pakete**:
+
+![Pakete suchen](6-pakete-aufrufen.png)
+
+9. nun auf **Änderungen anwenden**:
+
+![Änderungen anwenden](7-aenderungen-anwenden.png)
+
+10. Pakete werden aktualisiert:
+
+![Pakete werden aktualisiert](8-pakete-werden-aktualisiert.png)
+
+11. weiter zu **Datenbank aktualisieren**:
+
+
+![Weiter zu Datenbank aktualisieren](9-zu-db-aktualisieren.png)
+
 12. Weiterleitung zum Contao Installtool
-13. Login
-14. nun die Datenbank aktualisieren
-15. anschließend zum Backend (Login)
-16. Im Backend sind nun die ContaoDMS Werkzeuge zu sehen
+12. Login
+13. nun die Datenbank aktualisieren:
+
+![Datenbank im Installtool aktualisieren](11-db-aktualisieren.png)
+
+14. anschließend zum Backend (Login)
+15. Im Backend sind nun die ContaoDMS Werkzeuge zu sehen:
+
+![ContaoDMS im BAckend](12-dms-rubriken-im-backend.png)
