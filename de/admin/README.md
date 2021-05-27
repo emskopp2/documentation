@@ -9,10 +9,12 @@ Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
 * [Installation per Contao-Manager (Contao 4.x)](installation/README.md#installation-per-contao-manager)
 * [Installation per Erweiterungsverwaltung(Contao 3.x)](installation/README.md#installation-per-erweiterungskatalog)
 
-## Grundeinstellungen und Mitgliedergruppen
+
+## Grundeinstellungen und Mitgliedergruppen anlegen
 
 * [Allgemeine Grundeinstellungen](settings/README.md#grundeinstellungen)
-* [Mitgliedsgruppen und Mitglieder anlegen](settings/README.md#mitgliedsgruppen-und-mitglieder-anlegen)
+* [Mitgliedergruppen und Mitglieder anlegen](settings/README.md#mitgliedergruppen-und-mitglieder-anlegen)
+
 
 ## Frontendmodule
 
@@ -30,6 +32,7 @@ Hier erhalten Sie Informationen wie Sie das ContaoDMS initialisieren
 * [Zugriffsrechte verwalten](views/access_rights.md)
 * [Dokumente](views/documents.md)
 * [Dateityp-Sets verwalten](views/file_type_sets.md)
+
 
 ## Templates
 
