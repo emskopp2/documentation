@@ -5,7 +5,6 @@ Hier erhalten Sie Informationen über die Initialisierung.
 **Seiteninhalt**
 <!-- toc -->
 1. [Mitglieder und Mitgliedergruppen anlegen](#mitglieder-und-mitgliederdruppen-anlegen)
-2. [Dateityp-Sets erstellen](#dateityp-sets-erstellen)
 
 
 ## Mitglieder und Mitgliedergruppen anlegen
