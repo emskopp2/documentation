@@ -1,8 +1,6 @@
 # Zugriffsrechte
 
-Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
-
-Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitglieder(gruppen) für das Frontend ein.
+* Mit dem Werkzeug **Zugriffsrechte** stellen Sie Zugriffsberechtigungen für Mitgliedergruppen und / oder Mitglieder die sie in der Contao Benutzerverwaltung anlegen für das Frontend ein.
 
 **Seiteninhalt**
 <!-- toc -->
