@@ -4,6 +4,11 @@ Hier erhalten Sie Informationen über die Ansicht für Zugriffsrechte.
 
 Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitglieder(gruppen) für das Frontend ein.
 
+**Seiteninhalt**
+<!-- toc -->
+1. [ Neues Zugriffsrecht erstellen](#neues-zugriffsrecht-erstellen)
+2. [Mögliche Zugriffsrechte](#mögliche-zugriffsrechte)
+
 ## Neues Zugriffsrecht erstellen
 
 1. Klicken Sie auf **Neues Zugriffsrecht**
@@ -11,7 +16,7 @@ Mit dem Werkzeug Zugriffsrechte stellen Sie Zugriffsberechtigungen der Mitgliede
 3. Wählen Sie die Mitgliedergruppe deren Rechte für diese Kategorie festgelegt werden soll
 4. Setzen Sie im nächten Abschnitt *Rechte* die gewünschten Rechte
 
-### Diese wären: ###
+## Mögliche Zugriffsrechte ##
 
 * **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.  
    
