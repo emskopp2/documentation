@@ -3,7 +3,7 @@
 Hier erhalten Sie Informationen über die Frontend-Module.
 
 **Seiteninhalt:**
-
+<!--toc-->
 1. [Anlegen der Frontend-Module](#anlegen-der-frontend-module)
 2. [Modul ContaoDMS Auflistung](#contaodms-auflistung)
 3. [Modul ContaoDMS Verwaltungung](#contaodms-verwaltung)
