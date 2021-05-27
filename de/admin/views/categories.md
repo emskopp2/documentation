@@ -29,7 +29,7 @@
 
 ## Kategorietiefe
 
-* Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich für jeden Anwendungszweck ausreichen.
+Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich für jeden Anwendungszweck ausreichen.
 
 <pre>
   Hauptkategorie
