@@ -2,9 +2,13 @@
 
 Hier erhalten sie Informationen über die Installation.
 
-**Inhalt**
+**Seiteninhalt**
 <!-- toc -->
 
+1. [Installation per Erweiterungskatalog](#installation-per-erweiterungsverwaltung)
+2. [Installation per Composer](#installation-per-composer)
+3. [Serverkonfiguration](#serverkonfiguration)
+4. [Installation per Contao-Manager](#installation-per-contao-manager)
 
 ## Installation per Erweiterungskatalog
 
