@@ -2,8 +2,10 @@
 
 Hier erhalten Sie Informationen über die Initialisierung.
 
-**Inhalt**
+**Seiteninhalt**
 <!-- toc -->
+1. [Mitglieder und Mitgliedergruppen anlegen](#mitglieder-und-mietgliederdruppen-anlegen)
+2. [Dateityp-Sets erstellen](#dateityp-sets-erstellen)
 
 
 ## Mitglieder und Mitgliedergruppen anlegen
@@ -35,7 +37,6 @@ Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese durch Komma 
 * **Dateityp-Set veröffentlichen:** Checkbox aktivieren
 
 ![Screenshot Dateityp-Sets konfigurieren](screenshot_datatyp_set_settings.png)
-
 
 **Speichern** nicht vergessen
 
