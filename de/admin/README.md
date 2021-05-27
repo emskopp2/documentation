@@ -18,15 +18,15 @@ Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
 
 ## Frontendmodule
 
-Hier erhalten Sie Informationen wie Sie die Frontendmodule für das ContaoDMS anlegen und einbinden
+Es müssen **zwei neue Frontend-Module** für die Aufistung und Verwaltung im Frontend erstellt werden.
 
-* [Anlegen der Frontendmodule Auflistung und Verwaltung](modules/#modules_1)
+* [Anlegen der Frontendmodule](modules/#modules_1)
 * [Einbindung der Module in die Website](modules/#modules_2)
 
 
 ## Initialisierung
 
-Hier erhalten Sie Informationen wie Sie das ContaoDMS initialisieren
+Das ContaoDMS aufbauen
 
 * [Kategorien anlegen und verwalten](views/categories.md)
 * [Zugriffsrechte vergeben und verwalten](views/access_rights.md)
