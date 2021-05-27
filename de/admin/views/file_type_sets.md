@@ -2,11 +2,15 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
-**Inhalt**
+**Seiteninhalt**
 <!-- toc -->
-
+1. [Bezugsquelle](#bezugsquellen)
+2. [Was sind Dateityp-Sets](#was-sind-dateityp-sets)
+3. [Dateityp-Sets erstellen](#dateityp-sets-erstellen)
+4. [Verarbeitung der Dateityp-Sets](#verarbeitung-der-dateityp-sets)
 
 ## Bezugsquellen
+
 **Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden. Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datatyp-Sets** dann schon enthalten:  
 
 ### Quelle Add-On:
@@ -19,14 +23,18 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 **Packagist:** https://packagist.org/packages/contao-dms/bundle-all
 
 
-## Was sind Dateityp-Sets?
-Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen. Ein Set muss mindestens einen erlaubten Dateityp enthalten.
-Die Sets stehen dann bei Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden. Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
+## Was sind Dateityp-Sets
+
+* Dateityp-Sets enthalten erlaubte Dateitypen die in eine Kategorie abgelegt werden dürfen.
+* Ein Set muss mindestens einen erlaubten Dateityp enthalten.
+* Die Sets stehen dann bei Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
+* Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
 ![Screenshot Backend Menü](../screenshot_backend_menu.png)
 
 
 ## Dateityp-Sets erstellen
+
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
