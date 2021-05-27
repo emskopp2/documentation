@@ -42,7 +42,6 @@ Unter Umständen muss man eine eigene `php.ini` ins Web-ROOT der Installation le
 
 Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 
-
     # increase memory limits and execution time
     upload_max_filesize = 5M
     memory_limit = 512M
@@ -61,15 +60,15 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 
 6. Das Paket **ContaoDMS Bundle all** enthält das ContaoDMS sowie auch das Dateityp-Sets Add-On.
 7. mit **Hinzufügen** das Paket zur Installation bereitstellen
-8. anschließend auf **Pakete**:
+8. anschließend im Menü den Punkt **Pakete** wählen:
 
 ![Pakete suchen](6-pakete-aufrufen.png)
 
-9. nun auf **Änderungen anwenden**:
+9. und jetzt auf **Änderungen anwenden**:
 
 ![Änderungen anwenden](7-aenderungen-anwenden.png)
 
-10. Pakete werden aktualisiert:
+10. Die Pakete werden aktualisiert:
 
 ![Pakete werden aktualisiert](8-pakete-werden-aktualisiert.png)
 
