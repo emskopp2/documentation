@@ -28,10 +28,10 @@ Hier erhalten Sie Informationen wie Sie die Frontendmodule für das ContaoDMS an
 
 Hier erhalten Sie Informationen wie Sie das ContaoDMS initialisieren
 
-* [Kategorien verwalten](views/categories.md)
-* [Zugriffsrechte verwalten](views/access_rights.md)
+* [Kategorien anlegen und verwalten](views/categories.md)
+* [Zugriffsrechte vergeben und verwalten](views/access_rights.md)
 * [Dokumente](views/documents.md)
-* [Dateityp-Sets verwalten](views/file_type_sets.md)
+* [Dateityp-Sets anlegen und verwalten](views/file_type_sets.md)
 
 
 ## Templates
