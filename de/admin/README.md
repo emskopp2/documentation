@@ -10,7 +10,7 @@ Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
 * [Installation per Erweiterungsverwaltung(Contao 3.x)](installation/README.md#installation-per-erweiterungskatalog)
 
 
-## Grundeinstellungen und Mitgliedergruppen anlegen
+## Grundeinstellungen
 
 * [Allgemeine Grundeinstellungen](settings/README.md#grundeinstellungen)
 * [Mitgliedergruppen und Mitglieder anlegen](settings/README.md#mitgliedergruppen-und-mitglieder-anlegen)
