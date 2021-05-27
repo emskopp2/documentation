@@ -1,4 +1,6 @@
-## Grundeinstellungen
+# Grundeinstellungen
+
+## Allgemeine Grundeinstellungen
 
 Nach der Installation der ContaoDMS Pakets finden sie in der **Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das ContaoDMS.
 
@@ -21,10 +23,10 @@ Diese Größe darf die PHP Einstellung für upload_max_filesize **nicht** übers
 
 Ist diese Option aktiviert wird die Checkbox zum Veröffentlichen im Verwaltungsmodul (Frontend) immer angekreuzt.
 
-## Mitgliedsgruppen und Mitglieder anlegen
+## Mitgliedergruppen und Mitglieder anlegen
 
 Bevor man mit dem eigentlichen Aufbau der Dokumentenablage beginnt (also Kategorien anlegt, Zugriffsrechte zuordnet usw.), sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
 
 Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen der Kategorien die Arbeitsschritte effizienter. 
 
-![Screenshot Benutzerverwaltung](screenshot_user_management.png)
+![Screenshot Benutzerverwaltung](de/admin/initialization/screenshot_user_management.png)
