@@ -94,7 +94,7 @@ Im Modul DMS → Kategorien
 
 * Sie haben eine Hauptkategorie "Obst" und legen für diese erlaubte Dateitypen fest.
 * Dann erstellen sie für "Obst" eine neue Unterkategorie z.B. "Kernobst".
-* Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Oberkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter.
+* Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter.
 * Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
 
 
