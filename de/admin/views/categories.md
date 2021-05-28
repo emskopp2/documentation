@@ -2,7 +2,7 @@
 
 **Seiteninhalt**
 <!-- toc -->
-1. [Beschreibung Kategorien im ContaoDMS](#beschreibung-kategorien-im-contaodms)
+1. [Kategorien im ContaoDMS](#kategorien-im-contaodms)
 2. [Kategorietiefe](#kategorietiefe)
 3. [Kategoriebilder](#kategoriebilder)
 4. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
