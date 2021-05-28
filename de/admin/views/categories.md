@@ -4,7 +4,7 @@
 <!-- toc -->
 1. [Beschreibung Kategorien im ContaoDMS](#beschreibung-kategorien-im-contaodms)
 2. [Kategorietiefe](#kategorietiefe)
-3. [Kategoriebielder](#kategoriebilder)
+3. [Kategoriebilder](#kategoriebilder)
 4. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
 5. [Kategorieeinstellungen](#kategorieeinstellungen)
 6. [Erlaubte Dateitypen](#erlaubte-dateitypen)
@@ -17,7 +17,7 @@
 13. [Löschen einer Kategorie](#löschen-einer-kategorie)
 
 
-## Beschreibung Kategorien im ContaoDMS
+## Kategorien im ContaoDMS
 
 * Kategorien sind die Orte in welchen die Dokumente später aufbewahrt werden.
 * Jedes Dokument wird genau einer Kategorie zugeordnet. Daher ist es wichtig, sich im Vorfeld eine sinnvolle Struktur zu überlegen.
