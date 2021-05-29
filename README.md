@@ -6,9 +6,9 @@ In case there are issues, please use the [tracker](https://github.com/ContaoDMS/
 
 
 ## Documentation
-
+<!---
 [Read the manual](https://cliffparnitzky.gitbooks.io/contaodms)
-
+-->
 ![DE](de/de.png) [Deutsches Handbuch](de/README.md)
 <!---
 https://cliffparnitzky.gitbooks.io/contaodms/content/en/index.html
