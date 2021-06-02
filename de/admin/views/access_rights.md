@@ -2,11 +2,6 @@
 
 * Mit dem Werkzeug **Zugriffsrechte** stellen Sie Zugriffsberechtigungen für Mitgliedergruppen und / oder Mitglieder die sie in der Contao Benutzerverwaltung anlegen für das Frontend ein.
 
-**Seiteninhalt**
-<!-- toc -->
-1. [ Neues Zugriffsrecht erstellen](#neues-zugriffsrecht-erstellen)
-2. [Mögliche Zugriffsrechte](#mögliche-zugriffsrechte)
-
 ## Neues Zugriffsrecht erstellen
 
 1. Klicken Sie auf **Neues Zugriffsrecht**
@@ -14,7 +9,7 @@
 3. Wählen Sie die Mitgliedergruppe deren Rechte für diese Kategorie festgelegt werden soll
 4. Setzen Sie im nächten Abschnitt *Rechte* die gewünschten Rechte
 
-## Mögliche Zugriffsrechte ##
+## Mögliche Zugriffsrechte
 
 * **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.  
    
