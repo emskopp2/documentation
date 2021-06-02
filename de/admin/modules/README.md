@@ -2,14 +2,6 @@
 
 Hier erhalten Sie Informationen über die Frontend-Module.
 
-**Seiteninhalt:**
-<!--toc-->
-1. [Anlegen der Frontend-Module](#anlegen-der-frontend-module)
-2. [Modul ContaoDMS Auflistung](#contaodms-auflistung)
-3. [Modul ContaoDMS Verwaltung](#contaodms-verwaltung)
-4. [Einbindung der Module in die Website](#einbindung-der-module-in-die-website)
-
-
 ## Anlegen der Frontend-Module
 
 Es müssen zwei neue Frontend-Module erzeugt werden.
@@ -23,14 +15,14 @@ Unter **Layout** → **Themes** → Frontend-Module.
 ![Screenshot Module.png](screenshot_modules.png)
 
 
-### ContaoDMS-Auflistung
+### Modul-Auflistung
 * **Titel des Moduls:** DMS-Auflistung 
 * **Modultyp:** DMS-Auflistung
 * **DMS-Template:** mod_dms_listing
 
 ![Screenshot Einstellungen Modul DMS-Auflistung](screenshot_module_listing.png)
 
-### ContaoDMS-Verwaltung
+### Modul-Verwaltung
 * **Titel des Moduls:** DMS-Verwaltung 
 * **Modultyp:** DMS-Verwaltung 
 * **DMS-Template:** mod_dms_management
