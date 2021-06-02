@@ -27,7 +27,7 @@ Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen:
  
 zur Verfügung.
 
-![Screenshot ContaoDMS Backend Werkzeuge](screenshot_dms_backend_tools.png)
+![ContaoDMS Backend Werkzeuge](screenshot_dms_backend_tools.png)
 
 
 ## Installation per Composer
@@ -62,7 +62,7 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 7. mit **Hinzufügen** das Paket zur Installation bereitstellen
 8. anschließend im Menü den Punkt **Pakete** wählen:
 
-![Pakete suchen](6-pakete-aufrufen.png)
+![Pakete aufrufen](6-pakete-aufrufen.png)
 
 9. und jetzt auf **Änderungen anwenden**:
 
@@ -85,4 +85,4 @@ Ein Beispiel für den Inhalt einer solchen `php.ini` Datei sieht wie folgt aus:
 14. anschließend zum Backend (Login)
 15. Im Backend sind nun die ContaoDMS Werkzeuge zu sehen:
 
-![ContaoDMS im BAckend](12-dms-rubriken-im-backend.png)
+![ContaoDMS im Backend](12-dms-rubriken-im-backend.png)
