@@ -1,8 +1,7 @@
 # Administratorhandbuch
 
-Hier erhalten Sie Informationen wie Sie das ContaoDMS administrieren.
+Hier erhalten Sie Informationen wie Sie das **Contao-DMS** administrieren.
 
-**Inhalt:**
 ## Installation
 
 1. [Installation per Composer](installation/README.md#installation-per-composer)
@@ -27,11 +26,11 @@ Es müssen **zwei neue Frontend-Module** für die Auflistung und Verwaltung im F
 
 ## Initialisierung
 
-Das ContaoDMS aufbauen
+Das **Contao-DMS** aufbauen
 
 ### Kategorien
 
-1. [Kategorien im ContaoDMS](views/categories.md#kategorien-im-contaodms)
+1. [Kategorien im Contao DMS](views/categories.md#kategorien-im-contaodms)
 2. [Kategorietiefe](views/categories.md#kategorietiefe)
 3. [Kategoriebilder](views/categories.md#kategoriebilder)
 4. [Anlegen einer neuen Kategorie](views/categories.md#anlegen-einer-neuen-kategorie)
