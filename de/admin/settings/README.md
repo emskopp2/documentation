@@ -4,7 +4,7 @@
 
 Nach der Installation der ContaoDMS Pakets finden sie in der Contao **Systemverwaltung** → unter **Einstellungen** im Abschnitt *Dokumenten Management System* die Grundeinstellungen für das ContaoDMS.
 
-![grundeinstellungen ContaoDMS](1-grundeinstellungen.png)
+![Grundeinstellungen ContaoDMS](1-grundeinstellungen.png)
 
 ### Hier können folgende Anpassungen vorgenommen werden:
 
@@ -28,4 +28,4 @@ Bevor der eigentliche Aufbau der Dokumentenablage beginnt (also Kategorien anleg
 
 Dies kann auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen von Kategorien die Arbeitsschritte effizienter. 
 
-![Screenshot Benutzerverwaltung](2-contao-user-management.png)
+![Benutzerverwaltung](2-contao-user-management.png)
