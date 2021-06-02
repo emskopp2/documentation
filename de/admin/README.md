@@ -47,8 +47,8 @@ Das **Contao-DMS** aufbauen
 
 ### Zugriffsrechte
 
-1. [Neues Zugriffsrecht erstellen](views/file_type_sets.md#neues-zugriffsrecht-erstellen)
-2. [Mögliche Zugriffsrechte](views/file_type_sets.md#mögliche-zugriffsrechte)
+1. [Neues Zugriffsrecht erstellen](views/access_rights.md#neues-zugriffsrecht-erstellen)
+2. [Mögliche Zugriffsrechte](views/access_rights.md#mögliche-zugriffsrechte)
 
 ### Dokumente
 
