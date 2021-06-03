@@ -1,6 +1,7 @@
 # Zugriffsrechte
 
-* Mit dem Werkzeug **Zugriffsrechte** stellen Sie Zugriffsberechtigungen für Mitgliedergruppen und / oder Mitglieder die sie in der Contao Benutzerverwaltung anlegen für das Frontend ein.
+* Mit dem Werkzeug **Zugriffsrechte** stellen Sie Zugriffsberechtigungen für Mitgliedergruppen und / oder Mitglieder ein
+* Mitgliedergruppen und Mitglieder legen sie in der Contao Benutzerverwaltung an
 
 ## Neues Zugriffsrecht erstellen
 
@@ -13,14 +14,11 @@
 
 * **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.  
    
-***Achtung!*** Möchten sie, dass Mitglieder Dokumente einer Kategorie NICHT lesen sollen, muss für diese Kategorie im Abschnitt [Grundsätzliche Lese-, und Verwaltungsrechte](categories.md/#categories_2_5) unter **Grundsätzliches Leserecht** "*Spezielle Leserechte für einzelne Mitgliedergruppen*" gesetzt sein.
+* **Achtung!**</span> Möchten sie, dass Mitglieder Dokumente einer Kategorie NICHT lesen sollen, muss für diese Kategorie im Abschnitt [Grundsätzliche Lese-, und Verwaltungsrechte](categories.md/#grundsätzliche-lese-und-verwaltungsrechte) unter **Grundsätzliches Leserecht** "*Spezielle Leserechte für einzelne Mitgliedergruppen*" gesetzt sein.
 
 * **Dokumente uploaden:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in diese Kategorie hochladen dürfen.
-
 * **Dokumente löschen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie löschen dürfen.
-
 * **Dokumente bearbeiten:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie bearbeiten dürfen.
-
 * **Dokumente veröffentlichen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
 
 **Aktivierung:** Setzen Sie das Zugriffsrecht auf *aktiv* (direkt aktiviert) oder *inaktiv* (kein Häkchen)
