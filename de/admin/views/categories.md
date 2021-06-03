@@ -48,23 +48,23 @@ Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich f
 
 Im Modul DMS → Kategorien
 
-![DMS Backend Menü](../4-dms-backend-tools.png)
+![DMS Backend Menü](4-dms-backend-tools.png)
 
 → "Neue Kategorie“ anlegen
 
-![Screenshot Neue Kategorie anlegen](screenshot_categories_new_category.png)
+![Neue Kategorie anlegen](screenshot_categories_new_category.png)
 
 
 → Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen:
 
 **Folgende Abb.:** Anlage der allerersten Kategorie
-![Screenshot Kategorie einfügen](screenshot_categories_insert_first.png)
+![Kategorie einfügen](screenshot_categories_insert_first.png)
 
 **Folgende Abb.:** Anlage einer beliebigen weiteren Kategorie auf gleicher Ebene
-![Screenshot Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
+![Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
 
 **Folgende Abb.:** Anlage einer weiteren Kategorie als Unterebene
-![Screenshot Kategorie einfügen als Unterebene](screenshot_categories_insert_second_level.png)
+![Kategorie einfügen als Unterebene](screenshot_categories_insert_second_level.png)
 
 
 ## Kategorieeinstellungen
@@ -74,7 +74,7 @@ Im Modul DMS → Kategorien
 * **Name:** Kategoriename eintragen (Pflichtfeld)
 * **Beschreibung:** Beschreibung der Kategorie angeben (Angabe ist optional)
 
-![Screenshot Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
+![Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
 
 
 ### Erlaubte Dateitypen
@@ -83,7 +83,7 @@ Im Modul DMS → Kategorien
 
 * **Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
-![Screenshot Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
+![Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
 
 
 ### Vererbung von erlaubten Dateitypen
