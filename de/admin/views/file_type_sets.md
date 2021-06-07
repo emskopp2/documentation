@@ -2,9 +2,11 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
+![Backend Menü](backend_file_type_sets.png)
+
 **Seiteninhalt**
 <!-- toc -->
-1. [Bezugsquelle](#bezugsquellen)
+1. [Bezugsquellen](#bezugsquellen)
 2. [Was sind Dateityp-Sets](#was-sind-dateityp-sets)
 3. [Dateityp-Sets erstellen](#dateityp-sets-erstellen)
 4. [Verarbeitung der Dateityp-Sets](#verarbeitung-der-dateityp-sets)
@@ -29,8 +31,6 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 * Ein Set muss mindestens einen erlaubten Dateityp enthalten.
 * Die Sets stehen dann bei Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
 * Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
-
-![Backend Menü](backend_file_type_sets.png)
 
 
 ## Dateityp-Sets erstellen
