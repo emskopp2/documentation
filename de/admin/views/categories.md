@@ -27,6 +27,10 @@
 * Jede Kategorie benötigt einen aussagefähigen **Namen** und eine möglichst ausführliche aber nicht zu lange **Beschreibung**
 * Der Name und die Beschreibung werden später im Frontend angezeigt
 
+**So könnte eine Kategorieübersicht im Backend aussehen:**
+
+![Kategorieübersicht](categories_overview.png)
+
 ## Kategorietiefe
 
 Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich für jeden Anwendungszweck ausreichen.
@@ -159,10 +163,6 @@ Geben Sie die grundsätzlichen Verwaltungsrechte für Dokumente dieser Kategorie
 * **Anzeigen ab** und **Anzeigen bis:** Von welchem Tag an soll die Kategorie angezeigt werden? Und bis zu welchem Tag soll die Kategorie angezeigt werden.
 Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
-Folgende Abb.: So könnte eine Kategorieübersicht aussehen
-
-![Kategorieübersicht](categories_overview.png)
-
 
 ## Bearbeitung einer Kategorie
 
@@ -173,35 +173,38 @@ In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Ka
 
 ### Mehrere Datensätze bearbeiten
 
-Sie können auch über die Funktion *Mehrere bearbeiten* mehrere Datensätze auswählen um Einstellungen vorzunehmen. Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
+Sie können auch über die Funktion **Mehrere bearbeiten** mehrere Datensätze auswählen um Einstellungen vorzunehmen. 
 
-![Screenshot Mehrere Datensätze bearbeiten](screenshot_multitask.png)
+Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
 
-Wählen sie die zu bearbeitenden Kategorien und klicken unten auf *Bearbeiten*:
+![Mehrere Datensätze bearbeiten](categories_multitask.png)
 
-![Screenshot ausgewählte Datensätze](screenshot_multitask_selectionpng.png)
+Wählen sie die zu bearbeitenden Kategorien und klicken unten auf **Bearbeiten**:
 
-Wählen sie die zu bearbeitenden Felder aus und klicken auf *Weiter*:
-![Screenshot zu bearbeitende Felder auswählen.png](screenshot_select_existing_fields.png)
+![Ausgewählte Datensätze](categories_multitask_selection.png)
+
+Wählen sie die zu bearbeitenden Felder aus und klicken auf **Weiter**:
+
+![Zu bearbeitende Felder auswählen](categories_select_existing_fields.png)
 
 Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
 
 **Speichern nicht vergessen**
 
-## Verschieben einer Kategorie
+### Verschieben einer Kategorie
 
-Kategorien lassen sich einfach über die Symbole *Verschieben* und *Einfügen* an eine andere Stelle verschieben
+Kategorien lassen sich einfach über die Symbole **Verschieben** und **Einfügen** an eine andere Stelle verschieben:
 
-**Kategorie verschieben:** 
-![Screenshot Kategorie verschieben](screenshot_categories_move.png)
-
-
-**Kategorie einfügen:**
-![Screenshot Kategorie einfügen nach verchieben](screenshot_categories_insert_after_moving.png)
+![Kategorie verschieben](categories_move.png)
 
 
-## Löschen einer Kategorie
+### Kategorie einfügen
 
-Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich **kein** Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.
+![Kategorie einfügen nach verschieben](categories_insert_after_moving.png)
 
-![Screenshot Kategorie löschen](screenshot_categories_delete.png)
+
+### Löschen einer Kategorie
+
+**Note:** Das Löschen einer Kategorie ist nur dann erlaubt, wenn sich **kein** Dokument in dieser Kategorie oder in einer ihrer Unterkategorien befindet.
+
+![Kategorie löschen](categories_delete.png)
