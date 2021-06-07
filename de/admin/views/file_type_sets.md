@@ -33,9 +33,11 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
 ## Dateityp-Sets erstellen
 
-Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
+Im Modul DMS → Dateityp-Sets
 
 ![Backend Menü](backend_file_type_sets.png)
+
+ → dann auf „Neues Dateityp-Set“
 
 ![Neues Dateityp-Sets anlegen](create_new_file_type_sets.png)
 
