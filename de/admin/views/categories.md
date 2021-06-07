@@ -16,13 +16,17 @@
 12. [Verschieben einer Kategorie](#verschieben-einer-kategorie)
 13. [Löschen einer Kategorie](#löschen-einer-kategorie)
 
+---
 
 ## Kategorien im ContaoDMS
 
 * Kategorien sind die Orte in welchen die Dokumente später aufbewahrt werden.
 * Jedes Dokument wird genau einer Kategorie zugeordnet. Daher ist es wichtig, sich im Vorfeld eine sinnvolle Struktur zu überlegen.
 * Eine weitere wichtige Überlegung sollte sein, welche Dokumente die einzelnen Mitglieder später zu sehen bekommen sollen.
-* Grundsätzlich ist zu entscheiden ob Dokumente von allen Nutzern der Website (auch nicht angemeldeten), nur von angemeldeten Mitgliedern, oder nur von Mitgliedern spezieller Mitgliedsgruppen gelesen werden dürfen.
+* Grundsätzlich ist zu entscheiden ob Dokumente von:
+  *  allen Nutzern der Website (auch nicht angemeldeten)
+  *  nur von angemeldeten Mitgliedern
+  *  oder nur von Mitgliedern spezieller Mitgliedergruppen gelesen werden dürfen.
 * Es besteht also ein Zusammenspiel von **Kategorien** und **Zugriffsrechten**
 * Jede Kategorie benötigt einen aussagefähigen **Namen** und eine möglichst ausführliche aber nicht zu lange **Beschreibung**
 * Der Name und die Beschreibung werden später im Frontend angezeigt
@@ -50,17 +54,17 @@ Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich f
 
 ## Anlegen einer neuen Kategorie
 
-Im Modul DMS → Kategorien
+→ im Modul DMS → Kategorien
 
 ![DMS Backend Menü](backend_categories.png)
 
-→ "Neue Kategorie“ anlegen
+→ **Neue Kategorie** anlegen
 
 ![Kategorie einfügen](categories_new_category.png)
 
 → Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen. 
 
-**Note:** Im folgenden Beispiel ist noch keine Kategorie vorhanden. Die erste Kategorie kann nur an einer Stelle eingefügt werden.
+**Note:** Im folgenden Beispiel ist noch keine Kategorie vorhanden. Die erste Kategorie kann also nur an einer Stelle eingefügt werden.
 
 ![Kategorie auf Hauptebene anlegen](categories_insert_first_level.png)
 
@@ -137,7 +141,6 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 
 * **Standardmäßige Veröffentlichung:** Geben Sie an, ob die in diese Kategorie hochgeladenen Dokumente standardmäßig veröffentlicht werden sollen.
 
-
 ## Grundsätzliche Lese und Verwaltungsrechte
 
 ### Grundsätzliches Leserecht  
@@ -166,16 +169,19 @@ Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
 ## Bearbeitung einer Kategorie
 
-In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (**Siehe oben:** [Kategorieeinstellungen](#kategorieeinstellungen))
+Sie haben die Möglichkeit einzelne Kategorien zu bearbeiten oder mehrere Kategorien auszuwählen um gemeinsame Einstellungen vorzunehmen.
+
+* In der Kategorieübersicht klicken Sie auf das **Stiftsymbol** der entsprechenden Kategorie um zu den Einstellungen zu gelangen. 
+* **Siehe oben:** [Kategorieeinstellungen](#kategorieeinstellungen)
 
 ![Kategorie bearbeiten](categories_edit.png)
 
 
 ### Mehrere Datensätze bearbeiten
 
-Sie können auch über die Funktion **Mehrere bearbeiten** mehrere Datensätze auswählen um Einstellungen vorzunehmen. 
+* Über die Funktion **Mehrere bearbeiten** können Sie mehrere Datensätze auswählen um Einstellungen vorzunehmen.
 
-Die Funktion können sie auch für andere Aufgaben nutzen (Kategorien verschieben, löschen usw.) 
+**Tip:** Die Funktion kann auch für andere Aufgaben genutzt werden (Kategorien verschieben, löschen usw.) 
 
 ![Mehrere Datensätze bearbeiten](categories_multitask.png)
 
