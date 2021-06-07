@@ -161,14 +161,14 @@ Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
 Folgende Abb.: So könnte eine Kategorieübersicht aussehen
 
-![Screenshot Kategorieübersicht](screenshot_categories_list.png)
+![Kategorieübersicht](categories_overview.png)
 
 
 ## Bearbeitung einer Kategorie
 
 In der Kategorieübersicht klicken Sie auf das Stiftsymbol der entsprechenden Kategorie um zu den Einstellungen zu gelangen. (**Siehe oben:** [Kategorieeinstellungen](#kategorieeinstellungen))
 
-![Screenshot Kategorie bearbeiten](screenshot_categories_edit.png)
+![Kategorie bearbeiten](categories_edit.png)
 
 
 ### Mehrere Datensätze bearbeiten
