@@ -4,15 +4,25 @@ Hier erhalten Sie Informationen über die Ansichten.
 
 ## Kategorien
 
-Erklärt die Ansicht für Kategorien
+1. [Kategorien im ContaoDMS](categories.md#kategorien-im-contaodms)
+2. [Kategorietiefe](categories.md#kategorietiefe)
+3. [Kategoriebilder](categories.md#kategoriebilder)
+4. [Anlegen einer neuen Kategorie](categories.md#anlegen-einer-neuen-kategorie)
+5. [Kategorieeinstellungen](categories.md#kategorieeinstellungen)
+6. [Erlaubte Dateitypen](categories.md#erlaubte-dateitypen)
+7. [Vererbung von erlaubten Dateitypen](categories.md#vererbung-von-erlaubten-dateitypen)
+8. [Veröffentlichung von Dokumenten](categories.md#veröffentlichung-von-dokumenten)
+9. [Grundsätzliche Lese und Verwaltungsrechte](categories.md#grundsätzliche-lese-und-verwaltungsrechte)
+10. [Bearbeitung einer Kategorie](categories.md#bearbeitung-einer-kategorie)
+11. [Mehrere Datensätze bearbeiten](categories.md#mehrere-datensätze-bearbeiten)
+12. [Verschieben einer Kategorie](categories.md#verschieben-einer-kategorie)
+13. [Löschen einer Kategorie](categories.md#löschen-einer-kategorie)
 
-[Weiterlesen ...](categories.md)
 
 ## Zugriffsrechte
 
-Erklärung der Ansicht für Zugriffsrechte.
-
-[Weiterlesen ...](access_rights.md)
+1. [Neues Zugriffsrecht erstellen](access_rights.md#neues-zugriffsrecht-erstellen)
+2. [Mögliche Zugriffsrechte](access_rights.md#mögliche-zugriffsrechte)
 
 ## Dokumente
 
