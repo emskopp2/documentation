@@ -25,7 +25,6 @@ Exemplarisch wird nachfolgend ein Zugriffsrecht für Kategorie **Buchhaltung** e
 
 ![Konfigurieren sie ihre Einstellungen](access_rights_config_access_right_settings.png)
 
-
 ## Mögliche Zugriffsrechte
 
 * **Dokumente lesen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie lesen dürfen.  
@@ -38,3 +37,14 @@ Exemplarisch wird nachfolgend ein Zugriffsrecht für Kategorie **Buchhaltung** e
 * **Dokumente veröffentlichen:** Geben Sie an ob die Mitglieder der Mitgliedergruppe Dokumente in dieser Kategorie veröffentlichen dürfen.
 
 **Aktivierung:** Setzen Sie das Zugriffsrecht auf *aktiv* (direkt aktiviert) oder *inaktiv* (kein Häkchen)
+
+## Ansicht der Zugriffsrechte im Backend
+
+Im Backend stellt sich nun die Ansicht der Zugriffsrechte wie folgt dar:
+
+![Übersicht der Zugriffsrechte im Backend](access_rights_overview.png)
+
+
+
+
+
