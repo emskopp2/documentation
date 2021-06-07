@@ -54,15 +54,17 @@ Im Modul DMS → Kategorien
 
 ![Kategorie einfügen](categories_new_category.png)
 
-→ Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen:
+→ Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen. 
+
+**Note:** Im folgenden Beispiel ist noch keine Kategorie vorhanden. Die erste Kategorie kann nur an einer Stelle eingefügt werden.
 
 ![Kategorie auf Hauptebene anlegen](categories_insert_first_level.png)
 
-**Folgende Abb.:** Anlage einer weiteren Kategorie "Kontakte" auf gleicher Ebene wie "Buchhaltung"
+**Folgende Abb.:** Anlage einer weiteren Kategorie "Kontakte" auf der Hauptebene (auf gleicher Ebene wie die Kategorie "Buchhaltung")
 
 ![Kategorie einfügen auf gleicher Ebene](categories_insert_same_level.png)
 
-**Folgende Abb.:** Anlage einer weiteren Kategorie "Steuer" als Unterebene von "Buchhaltung"
+**Folgende Abb.:** Anlage einer Kategorie "Steuer" als Unterebene von "Buchhaltung"
 
 ![Kategorie einfügen als Unterebene](categories_insert_second_level.png)
 
