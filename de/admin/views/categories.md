@@ -57,14 +57,13 @@ Im Modul DMS → Kategorien
 
 → Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen:
 
-**Folgende Abb.:** Anlage der allerersten Kategorie
-![Kategorie einfügen](screenshot_categories_insert_first.png)
+![Kategorie einfügen](new-category-insert-first.png)
 
 **Folgende Abb.:** Anlage einer beliebigen weiteren Kategorie auf gleicher Ebene
 ![Kategorie einfügen auf gleicher Ebene](screenshot_categories_insert_same_level.png)
 
 **Folgende Abb.:** Anlage einer weiteren Kategorie als Unterebene
-![Kategorie einfügen als Unterebene](screenshot_categories_insert_second_level.png)
+![Kategorie einfügen als Unterebene](new_category_insert_second_level.png)
 
 
 ## Kategorieeinstellungen
