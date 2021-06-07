@@ -1,24 +1,29 @@
 # Zugriffsrechte
 
 * Mit dem Werkzeug **Zugriffsrechte** stellen Sie Zugriffsberechtigungen für Mitgliedergruppen und / oder Mitglieder ein
-* Mitgliedergruppen und Mitglieder legen sie in der Contao Benutzerverwaltung an
+* Mitgliedergruppen und Mitglieder legen Sie in der Contao Benutzerverwaltung an
 
 ![DMS Backend Menü](access_rights_backend.png)
 
 ## Neues Zugriffsrecht erstellen
 
-Klicken Sie auf **Neues Zugriffsrecht**:
+Exemplarisch wird nachfolgend ein Zugriffsrecht für Kategorie **Buchhaltung** erstellt. Die Mitgliedergruppe **Buchhaltung** erhält den vollen Zugriff. D.h. Mitglieder der Gruppe dürfen Dokumente lesen, Dokumente uploaden, Dokumente löschen, Dokumente bearbeiten und veröffentlichen.
 
-![DMS Backend Menü](access_rights_backend.png)
+* Klicken Sie auf **Neues Zugriffsrecht**:
 
-Wählen Sie die Kategorie aus für das Sie das Zugriffsrecht definieren möchten:
+![Neues Zugriffsrecht](access_rights_create_new.png)
+
+* Wählen Sie die Kategorie aus für das Sie das Zugriffsrecht definieren möchten:
 
 ![Wählen sie die Kategorie](access_rights_select_category.png)
 
 * Wählen Sie die Mitgliedergruppe deren Rechte für diese Kategorie festgelegt werden soll
 * Setzen Sie im nächten Abschnitt **Rechte** die gewünschten Rechte
-* Geben sie an ob das Zugriffsrecht aktiv sein soll
+* Geben Sie an ob das Zugriffsrecht aktiv sein soll
 * Sie können die Zugriffsrechte ab einen bestimmten Tag aktivieren und und enden lassen (deaktivieren)
+* Speichern Sie ihre Einstellungen
+
+![Konfigurieren sie ihre Einstellungen](access_rights_config_access_right_settings.png)
 
 
 ## Mögliche Zugriffsrechte
