@@ -2,8 +2,6 @@
 
 Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
-![Backend Menü](backend_file_type_sets.png)
-
 **Seiteninhalt**
 
 1. [Bezugsquellen](#bezugsquellen)
@@ -37,6 +35,7 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
+![Backend Menü](backend_file_type_sets.png)
 
 ![Neues Dateityp-Sets anlegen](create_new_file_type_sets.png)
 
