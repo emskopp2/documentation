@@ -30,7 +30,7 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 * Die Sets stehen dann bei Neuanlage von Kategorien bzw. Anpassung von bestehenden Kategorien zur Verfügung und können leicht ausgewählt werden.
 * Dateityp-Sets vereinfachen die Zuweisung erlaubter Dateitypen die in eine Kategorie abgelegt werden dürfen erheblich.
 
-![Screenshot Backend Menü](../screenshot_backend_menu.png)
+![Backend Menü](backend_file_type_sets.png)
 
 
 ## Dateityp-Sets erstellen
@@ -38,7 +38,7 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 
-![Screenshot Neues Dateityp-Sets anlegen](screenshot_file_type_sets_new.png)
+![Neues Dateityp-Sets anlegen](create_new_file_type_sets.png)
 
 
 * **Name:** Aussagekräftigen Namen vergeben (z.B. Word Dokumente)
@@ -49,13 +49,13 @@ Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 
 * **Dateityp-Sets veröffentlichen:** Checkbox aktivieren
 
-![Screenshot Dateityp-Sets konfigurieren](screenshot_file_type_sets_settings.png)
+![Dateityp-Sets konfigurieren](file_type_sets_settings.png)
 
 Jetzt hat man ein Dateityp-Set vom Typ **doc,docx** angelegt.
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
 
-![Screenshot Dateityp-Sets Liste](screenshot_file_type_sets_list.png)
+![Dateityp-Sets Liste](file_type_sets_list.png)
 
 
 ## Verarbeitung der Dateityp-Sets
