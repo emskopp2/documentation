@@ -95,7 +95,7 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 ### Erlaubte Dateitypen
 
 **Erlaubte Dateitypen:** 
-* Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder, falls angelegt, durch Auswahl von Dateityp-Sets. 
+* Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder, falls angelegt, durch Auswahl von **Dateityp-Sets**. 
 * Eine Kombination ist ebenfalls möglich.
 
 **Manuell:** 
@@ -110,11 +110,13 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 **Vererbung der erlaubten Dateitypen:** 
 * Geben Sie an, ob die erlaubten Dateitypen auch von den Oberkategorie(n) geerbt werden sollen.
 
+![Dateityp-Sets vererben](categories_inheritance.png)
+
 **Beispiel**:
 
-* Sie haben eine Hauptkategorie "Obst" und legen für diese erlaubte Dateitypen fest.
-* Dann erstellen sie für "Obst" eine neue Unterkategorie z.B. "Kernobst".
-* Wenn sie nun für die Kategorie "Kernobst" das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie "Obst" die erlaubten Dateitypen an die Unterkategorie "Kernobst" weiter.
+* Sie haben eine Hauptkategorie **"Buchhaltung"** und legen für diese die erlaubte Dateitypen doc,docx,pdf fest.
+* Dann erstellen sie für **"Buchhaltung"** eine neue Unterkategorie z.B. **"Steuer"**.
+* Wenn sie nun für die Kategorie **"Steuer"** das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie **"Buchhaltung"** die erlaubten Dateitypen an die Unterkategorie **"Steuer"** weiter. Somit hat die Unterkategorie **"Steuer"** ebenfalls die erlaubten Dateitypen doc,docx,pdf
 * Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
 
 
