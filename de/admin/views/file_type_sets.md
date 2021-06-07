@@ -5,7 +5,7 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 ![Backend Menü](backend_file_type_sets.png)
 
 **Seiteninhalt**
-<!-- toc -->
+
 1. [Bezugsquellen](#bezugsquellen)
 2. [Was sind Dateityp-Sets](#was-sind-dateityp-sets)
 3. [Dateityp-Sets erstellen](#dateityp-sets-erstellen)
