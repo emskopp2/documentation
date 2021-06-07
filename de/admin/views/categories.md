@@ -48,11 +48,11 @@ Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich f
 
 Im Modul DMS → Kategorien
 
-![DMS Backend Menü](4-dms-backend-tools.png)
+![DMS Backend Menü](backend_categories.png)
 
 → "Neue Kategorie“ anlegen
 
-![Neue Kategorie anlegen](screenshot_categories_new_category.png)
+![Neue Kategorie anlegen](new_category.png)
 
 
 → Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen:
