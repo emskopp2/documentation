@@ -99,10 +99,18 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 * Eine Kombination ist ebenfalls möglich.
 
 **Manuell:** 
-* Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. 
+* Geben Sie einen Dateityp oder durch Komma getrennt mehrere Dateitypen an, für die ein Upload gestattet sind. 
 * Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
 ![Dateityp-Sets konfigurieren](categories_config_file_type_sets.png)
+
+
+**Dateityp-Sets verwenden:**
+
+ * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. 
+ * Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
+
+![Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
 
 
 ### Vererbung von erlaubten Dateitypen
@@ -114,18 +122,11 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 
 **Beispiel**:
 
-* Sie haben eine Hauptkategorie **"Buchhaltung"** und legen für diese die erlaubte Dateitypen doc,docx,pdf fest.
+* Sie haben für die Hauptkategorie **"Buchhaltung"** die erlaubte Dateitypen doc,docx,pdf festgelegt.
 * Dann erstellen sie für **"Buchhaltung"** eine neue Unterkategorie z.B. **"Steuer"**.
-* Wenn sie nun für die Kategorie **"Steuer"** das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie **"Buchhaltung"** die erlaubten Dateitypen an die Unterkategorie **"Steuer"** weiter. Somit hat die Unterkategorie **"Steuer"** ebenfalls die erlaubten Dateitypen doc,docx,pdf
+* Wenn sie nun für die Kategorie **"Steuer"** das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie **"Buchhaltung"** die erlaubten Dateitypen an die Unterkategorie **"Steuer"** weiter. 
+* Somit hat die Unterkategorie **"Steuer"** ebenfalls die erlaubten Dateitypen doc,docx,pdf
 * Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
-
-
-**Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl:**
-
- * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. 
- * Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
-
-![Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
 
 
 ### Veröffentlichung von Dokumenten
