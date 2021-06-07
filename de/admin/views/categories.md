@@ -60,20 +60,27 @@ Im Modul DMS → Kategorien
 
 ![Kategorie auf Hauptebene anlegen](categories_insert_first_level.png)
 
-**Folgende Abb.:** Anlage einer weiteren Kategorie "Kontakte" auf der Hauptebene (auf gleicher Ebene wie die Kategorie "Buchhaltung")
+---
+
+Anlage einer weiteren Kategorie **"Kontakte"** auf der Hauptebene also auf gleicher Ebene wie die Kategorie **"Buchhaltung"**:
 
 ![Kategorie einfügen auf gleicher Ebene](categories_insert_same_level.png)
 
+Die Kategorie **"Buchhaltung"** und die Kategorie **"Kontakte"** auf der Hauptebene:
+
 ![Kategorie Buchhaltung und Kontakte auf gleicher Ebene](categories_same_level.png)
 
-**Folgende Abb.:** Anlage einer Kategorie "Steuer" als Unterebene von "Buchhaltung"
+---
+
+Anlage einer Kategorie **"Steuer"** als Unterebene von **"Buchhaltung"**:
 
 ![Kategorie einfügen als Unterebene](categories_insert_second_level.png)
 
-**Folgende Abb.:** Kategorie "Buchhaltung" als Hautpebene und Kategorie "Steuer" als Unterebene
+Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Unterebene:
 
 ![Kategorien auf zwei Ebenen](categories_two_levels.png)
 
+---
 
 ## Kategorieeinstellungen
 
@@ -87,16 +94,21 @@ Im Modul DMS → Kategorien
 
 ### Erlaubte Dateitypen
 
-* **Erlaubte Dateitypen:** Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder durch Auswahl von Dateityp-Sets. Eine Kombination ist ebenfalls möglich.
+**Erlaubte Dateitypen:** 
+* Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder, falls angelegt, durch Auswahl von Dateityp-Sets. 
+* Eine Kombination ist ebenfalls möglich.
 
-* **Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
+**Manuell:** 
+* Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. 
+* Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
 ![Dateityp-Sets konfigurieren](categories_config_file_type_sets.png)
 
 
 ### Vererbung von erlaubten Dateitypen
 
-* **Vererbung der erlaubten Dateitypen:** Geben Sie an, ob die erlaubten Dateitypen auch von den Oberkategorie(n) geerbt werden sollen.
+**Vererbung der erlaubten Dateitypen:** 
+* Geben Sie an, ob die erlaubten Dateitypen auch von den Oberkategorie(n) geerbt werden sollen.
 
 **Beispiel**:
 
@@ -108,9 +120,10 @@ Im Modul DMS → Kategorien
 
 **Wurden Dateityp-Sets angelegt stehen diese ebenfalls zur Auswahl:**
 
-* **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
+ * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. 
+ * Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
 
-![Screenshot Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
+![Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
 
 
 ### Veröffentlichung von Dokumenten
