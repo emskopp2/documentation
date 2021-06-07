@@ -1,7 +1,7 @@
 # Kategorien
 
 **Seiteninhalt**
-<!-- toc -->
+
 1. [Kategorien im ContaoDMS](#kategorien-im-contaodms)
 2. [Kategorietiefe](#kategorietiefe)
 3. [Kategoriebilder](#kategoriebilder)
