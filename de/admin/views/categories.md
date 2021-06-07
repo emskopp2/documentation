@@ -82,7 +82,7 @@ Im Modul DMS → Kategorien
 * **Name:** Kategoriename eintragen (Pflichtfeld)
 * **Beschreibung:** Beschreibung der Kategorie angeben (Angabe ist optional)
 
-![Kategorie Name und Beschreibung eingeben](screenshot_categories_config_name_and_description.png)
+![Kategorie Name und Beschreibung eingeben](categories_config_name_and_description.png)
 
 
 ### Erlaubte Dateitypen
@@ -91,7 +91,7 @@ Im Modul DMS → Kategorien
 
 * **Manuell:** Geben Sie durch Komma getrennt die Dateitypen an, für die ein Upload gestattet sind. Die Liste wird beim Speichern automatisch sortiert und alle Dateitypen werden in Kleinbuchstaben konvertiert.
 
-![Dateityp-Sets konfigurieren](screenshot_categories_config_file_type_sets.png)
+![Dateityp-Sets konfigurieren](categories_config_file_type_sets.png)
 
 
 ### Vererbung von erlaubten Dateitypen
@@ -110,7 +110,7 @@ Im Modul DMS → Kategorien
 
 * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
 
-![Screenshot Dateityp-Sets benutzen](screenshot_categories_config_file_type_sets_2.png)
+![Screenshot Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
 
 
 ### Veröffentlichung von Dokumenten
