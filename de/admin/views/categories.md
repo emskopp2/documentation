@@ -144,6 +144,7 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 ## Grundsätzliche Lese und Verwaltungsrechte
 
 ### Grundsätzliches Leserecht  
+
 Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.  
 
 * **Leserecht für alle Mitglieder:** Alle Mitglieder haben uneingeschränktes Leserecht in dieser Kategorie. Sie müssen dazu nicht angemeldet sein.
@@ -151,7 +152,8 @@ Geben Sie das grundsätzliche Leserecht für Dokumente dieser Kategorie an.
 * **Spezielle Leserechte für einzelne Mitgliedergruppen:** Es werden für diese Kategorie spezielle Leserechte für einzelne Mitgliedergruppen vergeben (im Bereich Zugriffsrechte).
 * **Vererbung der Leserechte durch Oberkategorie(n):** Es werden für diese Kategorie die Leserechte der Oberkategorie(n) verwendet.
 
-### Grundsätzliche Verwaltungsrechte  
+### Grundsätzliche Verwaltungsrechte
+
 Geben Sie die grundsätzlichen Verwaltungsrechte für Dokumente dieser Kategorie an.  
 
 * **Alle Verwaltungsrechte für angemeldete Mitglieder**
@@ -193,9 +195,9 @@ Wählen sie die zu bearbeitenden Felder aus und klicken auf **Weiter**:
 
 ![Zu bearbeitende Felder auswählen](categories_select_existing_fields.png)
 
-Nun können sie die Einstellungen der gewählen Kategorien vornehmen.
+Nun können sie die Einstellungen der gewählten Kategorien vornehmen.
 
-**Speichern nicht vergessen**
+---
 
 ### Verschieben einer Kategorie
 
@@ -203,11 +205,13 @@ Kategorien lassen sich einfach über die Symbole **Verschieben** und **Einfügen
 
 ![Kategorie verschieben](categories_move.png)
 
+---
 
 ### Kategorie einfügen
 
 ![Kategorie einfügen nach verschieben](categories_insert_after_moving.png)
 
+---
 
 ### Löschen einer Kategorie
 
