@@ -45,7 +45,7 @@ Im Modul DMS → Dateityp-Sets → dann auf „Neues Dateityp-Set“
 * **Beschreibung:** optionale Angabe einer Beschreibung
 * **Erlaubte Dateitypen:** doc, docx (Gross oder Kleinschreibung spielt keine Rolle)
 
-*Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. pdf, zip oder jpg, gif, tif*
+**Tip: Sollen mehrere Dateitypen in einem Set enthalten sein, werden diese im Feld „Erlaubte Dateitypen“ durch Komma getrennt eingetragen. Z.B. pdf, zip oder jpg, gif, tif**
 
 * **Dateityp-Sets veröffentlichen:** Checkbox aktivieren
 
