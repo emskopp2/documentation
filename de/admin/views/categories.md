@@ -64,6 +64,8 @@ Im Modul DMS → Kategorien
 
 ![Kategorie einfügen auf gleicher Ebene](categories_insert_same_level.png)
 
+![Kategorie Buchhaltung und Kontakte auf gleicher Ebene](categories_same_level.png)
+
 **Folgende Abb.:** Anlage einer Kategorie "Steuer" als Unterebene von "Buchhaltung"
 
 ![Kategorie einfügen als Unterebene](categories_insert_second_level.png)
