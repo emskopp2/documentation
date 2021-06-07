@@ -11,7 +11,8 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
 ## Bezugsquellen
 
-**Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden. Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datatyp-Sets** dann schon enthalten:  
+* **Datatyp-Sets** ist ein extra Add-On des ContaoDMS und muss separat installiert werden. 
+* Sie können ContaoDMS auch als Bundle installieren. Darin ist das Add-On **Datatyp-Sets** dann schon enthalten 
 
 ### Quelle Add-On:
 **Github:** https://github.com/ContaoDMS/dms-FileTypeSets  
@@ -33,14 +34,13 @@ Hier erhalten Sie Informationen über die Ansicht für Dateityp-Sets.
 
 ## Dateityp-Sets erstellen
 
-Im Modul DMS → Dateityp-Sets
+→ im Modul DMS → Dateityp-Sets
 
 ![Backend Menü](backend_file_type_sets.png)
 
  → dann auf „Neues Dateityp-Set“
 
 ![Neues Dateityp-Sets anlegen](create_new_file_type_sets.png)
-
 
 * **Name:** Aussagekräftigen Namen vergeben (z.B. Word Dokumente)
 * **Beschreibung:** optionale Angabe einer Beschreibung
@@ -52,9 +52,11 @@ Im Modul DMS → Dateityp-Sets
 
 ![Dateityp-Sets konfigurieren](file_type_sets_settings.png)
 
-Jetzt hat man ein Dateityp-Set vom Typ **doc,docx** angelegt.
+Jetzt hat man ein Dateityp-Set vom Typ **doc,docx** angelegt. 
 
 Auf diese Weise können beliebig viele Sets angelegt werden.
+
+**Note:** Sie brauchen  *.doc und *.docx oder *.xls und *xlsx Dateitypen nicht in ein Dateityp-Set packen, sondern können natürlich auch je ein Set erstellen. So kann man dafür sorgen, das z.B. in eine bestimmte Kategorie nur Dateien vom Typ *.docx (*.xlsx) und in einer anderen Kategorie nur *.doc (*.xls) abgelegt werden dürfen.
 
 ![Dateityp-Sets Liste](file_type_sets_list.png)
 
