@@ -29,3 +29,7 @@ Ist diese Option aktiviert wird die Checkbox zum Veröffentlichen im Verwaltungs
 * Sobald Sie aber Kategorien anlegen und dort Zugriffsrechte vergeben möchten sind vorhandene Mitgliedergruppen (und Mitglieder) für eine effizente Arbeit vorteilhaft.
 
 ![Benutzerverwaltung](2-contao-user-management.png)
+
+**Weitere Informationen zum Thema Mitglieder und Mitgliedergruppen in Contao finden Sie unter:**
+
+http://www.contao-handbuch.de/mitgliedergruppe-anlegen.html
