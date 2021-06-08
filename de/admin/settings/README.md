@@ -24,8 +24,8 @@ Ist diese Option aktiviert wird die Checkbox zum Veröffentlichen im Verwaltungs
 
 ## Mitgliedergruppen und Mitglieder anlegen
 
-Bevor der eigentliche Aufbau der Dokumentenablage beginnt (also Kategorien anlegt, Zugriffsrechte zuordnet werden usw.), sollten sie im Vorfeld über die Benutzerverwaltung von Contao Mitglieder und Mitgliedergruppen anlegen
-
-Dies kann auch zu einem späteren Zeitpunkt erfolgen. Allerdings macht das Vorhandensein von Mitgliedergruppen spätestens beim Anlegen von Kategorien die Arbeitsschritte effizienter. 
+* Sie sollten nun Mitgliedergruppen und Mitglieder über die Contao Benutzerverwaltung anlegen.
+* Dies kann zwar auch zu einem späteren Zeitpunkt erfolgen.
+* Sobald Sie aber Kategorien anlegen und dort Zugriffsrechte vergeben möchten sind vorhandene Mitgliedergruppen (und Mitglieder) für eine effizente Arbeit vorteilhaft.
 
 ![Benutzerverwaltung](2-contao-user-management.png)
