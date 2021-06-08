@@ -7,7 +7,10 @@
 
 ## Neues Zugriffsrecht erstellen
 
-Exemplarisch wird nachfolgend ein Zugriffsrecht für Kategorie **Buchhaltung** erstellt. Die Mitgliedergruppe **Buchhaltung** erhält den vollen Zugriff. D.h. Mitglieder der Gruppe dürfen Dokumente lesen, Dokumente uploaden, Dokumente löschen, Dokumente bearbeiten und veröffentlichen.
+* Exemplarisch wird nachfolgend ein Zugriffsrecht für die Kategorie **Buchhaltung** erstellt. 
+* Die Mitgliedergruppe **Buchhaltung** erhält den vollen Zugriff. 
+* D.h. Mitglieder dieser Gruppe dürfen:
+  * Dokumente lesen, uploaden, löschen, bearbeiten und veröffentlichen.
 
 * Klicken Sie auf **Neues Zugriffsrecht**:
 
