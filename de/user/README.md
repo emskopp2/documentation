@@ -2,53 +2,23 @@
 
 Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
-## Inhalt
-* Auflistung der Dokumente im Frontend **(DMS-Auflistung)**
-    * Dokumente einer Kategorie anzeigen oder ausblenden
-    * Alle Dokumente anzeigen oder ausblenden
-    * Suchfunktion
-* Verwaltungsansicht im Frontend **(DMS-Auflistung)**
-	* Dokumente hochladen 
-    * Hinweismeldungen (Meldungen die einem bei der Arbeit mit dem ContaoDMS begegnen können ;-) )
-    
+1. [Auflistung der Dokumente im Frontend](#auflistung-der-dokumente-im-frontend)
+2. [Gliederung der DMS-Auflistung](#gliederung-der-dms-auflistung)
+3. [Dokumente einer Kategorie anzeigen oder ausblenden](#dokumente-einer-kategorie-anzeigen-oder-ausblenden)
+4. [Alle Dokumente anzeigen oder ausblenden](#alle-dukumente-anzeigen-oder-ausblenden)
+5. [Suchfunktion](#suchfunktion)
+6. [Verwaltungsansicht im Frontend](#verwaltungsansicht-im-frontend)
+7. [Dokumente hochladen](#dokumente-hochladen)
+8. [Hinweismeldungen](#hinweismeldungen)
+
+   
 ---
 
-# Auflistung der Dokumente im Frontend (DMS-Auflistung)
+## Auflistung der Dokumente im Frontend
 
-**Gliederung der DMS-Auflistung:**
+### Gliederung der DMS-Auflistung
 
----
-
-* Suchfunktion  
-
----
-
-<table>
- <tr>
-   	<th>Kategorien</th>
-    <th>Anzahl</th>
-    <th>Auswahl</th>
- </tr>
- <tr>
-   	<td>Die Kategorien als Baumstruktur.</td>
-    <td>Die Anzahl der in der jeweiligen Kategorie enthaltenden (veröffentlichten) Dokumente.</td>
-    <td>Sobald sich Dokumente in einer Kategorie befinden und das Mitglied das Leserecht hat, wird eine Checkbox angezeigt die bei Ativierung die Dokumente der Kategorie anzeigt.
-     </td>
- </tr>     
-</table>    
-
----
-
-* Anzahl gefundener Dokumente
-
----
-
-* Buttons **Alle Dokumente anzeigen** oder **Alle Dokumente ausblenden**
-
----
-**Und jetzt noch mal als Screenshot:**
-
-![Screenshot Auflistung der Dokumente](screenshot_frontend_dms_listing.png)
+![Auflistung der Dokumente im Frontend](documents_frontend_dms_listing.png)
 
 ---
 
@@ -84,7 +54,7 @@ In der folgenden Abb. wurde bspw. nach "Boskopp" gesucht. Die Kategorie "Äpfel"
 ![Gefundene Dokumente anzeigen](screenshot_frontend_dms_listing_searching_documents_view_documents.png)
 
 ---
-# Verwaltungsansicht im Frontend (DMS-Verwaltung)
+## Verwaltungsansicht im Frontend
 Über die Verwaltungsansicht laden sie Dokumente hoch. Über die Funktion "Verwalten" stehen die Werkzeuge Veröffentlichen oder ausblenden, löschen und Bearbeiten der Dokumenteigenschaften zur Verfügung.
 
 ![Screenshot Verwaltungsansicht](screenshot_frontend_dms_management.png)
