@@ -3,13 +3,12 @@
 Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 1. [Auflistung der Dokumente im Frontend](#auflistung-der-dokumente-im-frontend)
-2. [Gliederung der DMS-Auflistung](#gliederung-der-dms-auflistung)
-3. [Dokumente einer Kategorie anzeigen oder ausblenden](#dokumente-einer-kategorie-anzeigen-oder-ausblenden)
-4. [Alle Dokumente anzeigen oder ausblenden](#alle-dukumente-anzeigen-oder-ausblenden)
-5. [Suchfunktion](#suchfunktion)
-6. [Verwaltungsansicht im Frontend](#verwaltungsansicht-im-frontend)
-7. [Dokumente hochladen](#dokumente-hochladen)
-8. [Hinweismeldungen](#hinweismeldungen)
+2. [Dokumente einer Kategorie anzeigen oder ausblenden](#dokumente-einer-kategorie-anzeigen-oder-ausblenden)
+3. [Alle Dokumente anzeigen oder ausblenden](#alle-dukumente-anzeigen-oder-ausblenden)
+4. [Suchfunktion](#suchfunktion)
+5. [Verwaltungsansicht im Frontend](#verwaltungsansicht-im-frontend)
+6. [Dokumente hochladen](#dokumente-hochladen)
+7. [Hinweismeldungen](#hinweismeldungen)
 
    
 ---
