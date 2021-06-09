@@ -16,7 +16,10 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 ## Auflistung der Dokumente im Frontend
 
-### Gliederung der DMS-Auflistung
+* Die folgende Abbildung zeigt die DMS-Auflistung Ausgabe im Frontend. 
+* Zu sehen sind die leeren Katgeorien. 
+* Es existieren noch keine hochgeladenen Dokumente.
+* Das Layout der DMS-Ausflistung erfolgte mittels CSS.
 
 ![Auflistung der Dokumente im Frontend](documents_frontend_dms_listing.png)
 
