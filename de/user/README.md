@@ -9,7 +9,6 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 5. [Verwaltungsansicht im Frontend](#verwaltungsansicht-im-frontend)
 6. [Dokumente hochladen](#dokumente-hochladen)
 7. [Hinweismeldungen](#hinweismeldungen)
-
    
 ---
 
@@ -18,7 +17,7 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 * Die folgende Abbildung zeigt die DMS-Auflistung Ausgabe im Frontend. 
 * Zu sehen sind die leeren Katgeorien. 
 * Es existieren noch keine hochgeladenen Dokumente.
-* Das Layout der DMS-Ausflistung erfolgte mittels CSS.
+* Das Layout der DMS-Auflistung erfolgte mittels CSS.
 
 ![Auflistung der Dokumente im Frontend](documents_frontend_dms_listing.png)
 
