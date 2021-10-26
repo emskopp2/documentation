@@ -4,13 +4,13 @@ Dies ist das offizielle Handbuch für das [[Contao DMS]](https://github.com/Cont
 
 ## Was ist das Contao DMS (DokManSystem)?
 
-Die Erweiterung "DokManSystem" ist ein Dokumenten Management System (DMS) für Contao. Es ermöglicht es **Mitgliedern** verschiedenste Dokumenttypen **vom Frontend** aus auf den Webserver hochzuladen, anzuzeigen und zu verwalten.
+Die Erweiterung "DokManSystem" ist ein Dokumenten Management System (DMS) für Contao. Es ermöglicht es **Mitgliedern**, verschiedenste Dokumenttypen **vom Frontend** aus auf den Webserver hochzuladen, anzuzeigen und zu verwalten.
 
-Für die Anzeige und die Verwaltung der Dokumente im Frontend werden zwei Module benötigt die im Backend von Contao angelegt werden. Diese können dann an beliebiger Stelle der Website eingebunden werden. 
+Für die Anzeige und die Verwaltung der Dokumente im Frontend werden zwei Module benötigt, die im Backend von Contao angelegt werden. Diese können dann an beliebiger Stelle der Website eingebunden werden. 
 
 Die Funktion ist rein frontendbasiert. Soll heißen, dass im Frontend die Dokumente mittels der entsprechenden Module aufgelistet oder verwaltet werden.
 
-Im Backend werden Kategorien angelegt, Rechte verwaltet und vorhanden Dokumente administriert (aber nicht angelegt bzw. hochgeladen).
+Im Backend werden Kategorien angelegt, Rechte verwaltet und vorhanden Dokumente administriert, (aber nicht angelegt bzw. hochgeladen).
 
 Für eine übersichtliche Ablage der Dokumente lassen sich beliebige Kategorien anlegen. Sowohl die Kategorien als auch die Dokumente selbst können mit sehr genau greifenden Zugriffsrechten bzw. Leserechten versehen werden.
 Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Sets zugeordet werden. Diese geben an, welche Dateitypen in welche Kategorie hochgeladen werden dürfen.
