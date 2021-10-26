@@ -25,7 +25,7 @@ Hier erhalten Sie Informationen, wie Sie das DMS benutzen.
 
 ## Dokumente einer Kategorie anzeigen oder ausblenden
 
-Die in einer Kategorie enthaltenen Dokumente lassen sich mit der Checkbox ein-, und ausblenden. 
+Die in einer Kategorie enthaltenen Dokumente lassen sich über die Checkbox ein-, und ausblenden. 
 
 ![Screenshot Dokumente einer Kategorie anzeigen](screenshot_frontend_dms_listing_view_documents_in_selected_category.png)
 
@@ -86,7 +86,7 @@ Bestimmen sie die **Dokumenteigenschaften**:
 ## Hinweismeldungen
 Nachfolgend sind Hinweismeldungen aufgeführt, die Ihnen beim Arbeiten mit dem ContaoDMS begegnen können:
 
-* Die nachfolgende Meldung erhalten sie, wenn ein Dateityp hochgeladen wird der für diese Kategorie nicht freigegeben ist. 
+* Die nachfolgende Meldung erhalten sie, wenn ein Dateityp hochgeladen wird, der für diese Kategorie nicht freigegeben ist. 
 
 ![Screenshot Meldung Nicht erlaubter Dateityp](screenshot_frontend_dms_management_message_forbidden_datatyp.png)
 
