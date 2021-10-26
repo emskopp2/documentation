@@ -6,7 +6,7 @@
 2. [Kategorietiefe](#kategorietiefe)
 3. [Kategoriebilder](#kategoriebilder)
 4. [Anlegen einer neuen Kategorie](#anlegen-einer-neuen-kategorie)
-5. [Kategorieeinstellungen](#kategorieeinstellungen)
+5. [Kategorie-Einstellungen](#kategorie-einstellungen)
 6. [Erlaubte Dateitypen](#erlaubte-dateitypen)
 7. [Vererbung von erlaubten Dateitypen](#vererbung-von-erlaubten-dateitypen)
 8. [Veröffentlichung von Dokumenten](#veröffentlichung-von-dokumenten)
@@ -20,7 +20,7 @@
 
 ## Kategorien im ContaoDMS
 
-* Kategorien sind die Orte in welchen die Dokumente später aufbewahrt werden.
+* Kategorien sind die Orte, in welchen die Dokumente später aufbewahrt werden.
 * Jedes Dokument wird genau einer Kategorie zugeordnet. Daher ist es wichtig, sich im Vorfeld eine sinnvolle Struktur zu überlegen.
 * Eine weitere wichtige Überlegung sollte sein, welche Dokumente die einzelnen Mitglieder später zu sehen bekommen sollen.
 * Grundsätzlich ist zu entscheiden ob Dokumente von:
@@ -58,13 +58,13 @@ Es ist maximal ein 4-stufiger Kategorieaufbau zulässig. Das sollte eigentlich f
 
 ![DMS Backend Menü](backend_categories.png)
 
-→ **Neue Kategorie** anlegen
+→ **Neue Kategorie** anlegen (im Beispiel wird das die Kategorie **Buchhaltung** sein)
 
 ![Kategorie einfügen](categories_new_category.png)
 
 → Kategorie mittels Einfügesysmbol an gewünschte Stelle einfügen. 
 
-**Note:** Im folgenden Beispiel ist noch keine Kategorie vorhanden. Die erste Kategorie kann also nur an einer Stelle eingefügt werden.
+**Note:** Im folgenden Beispiel ist noch keine Kategorie vorhanden. Die erste Kategorie kann also nur an eine Stelle eingefügt werden.
 
 ![Kategorie auf Hauptebene anlegen](categories_insert_first_level.png)
 
@@ -90,11 +90,11 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 
 ---
 
-## Kategorieeinstellungen
+## Kategorie-Einstellungen
 
 ### Name und Beschreibung
 
-* **Name:** Kategoriename eintragen (Pflichtfeld)
+* **Name:** Kategoriename eintragen (*Pflichtfeld)
 * **Beschreibung:** Beschreibung der Kategorie angeben (Angabe ist optional)
 
 ![Kategorie Name und Beschreibung eingeben](categories_config_name_and_description.png)
@@ -103,7 +103,7 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 ### Erlaubte Dateitypen
 
 **Erlaubte Dateitypen:** 
-* Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder, falls angelegt, durch Auswahl von **Dateityp-Sets**. 
+* Sie können erlaubte Dateitypen für eine Kategorie manuell festlegen oder falls angelegt durch Auswahl von **Dateityp-Sets**. 
 * Eine Kombination ist ebenfalls möglich.
 
 **Manuell:** 
@@ -115,8 +115,8 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 
 **Dateityp-Sets verwenden:**
 
- * **Erlaubte Dateityp-Sets:** Häkchen setzen welche Dateitypen in dieser Kategorie erlaubt sind. 
- * Man kann das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn man nur mit Sets arbeiten möchte.
+ * **Erlaubte Dateityp-Sets:** Häkchen setzen für Dateitypen die in dieser Kategorie erlaubt sind. 
+ * Sie können das vorherige Feld *Erlaubte Dateitypen* frei lassen, wenn Sie nur mit Sets arbeiten möchten.
 
 ![Dateityp-Sets benutzen](categories_config_file_type_sets_2.png)
 
@@ -130,10 +130,10 @@ Kategorie **"Buchhaltung"** als Hauptebene und Kategorie **"Steuer"** als Untere
 
 **Beispiel**:
 
-* Sie haben für die Hauptkategorie **"Buchhaltung"** die erlaubte Dateitypen doc,docx,pdf festgelegt.
+* Sie haben für die Hauptkategorie **"Buchhaltung"** die erlaubte Dateitypen **doc, docx und pdf** festgelegt.
 * Dann erstellen sie für **"Buchhaltung"** eine neue Unterkategorie z.B. **"Steuer"**.
 * Wenn sie nun für die Kategorie **"Steuer"** das Häkchen bei *Vererbung der erlaubten Dateitypen* setzen, vererbt die Hauptkategorie **"Buchhaltung"** die erlaubten Dateitypen an die Unterkategorie **"Steuer"** weiter. 
-* Somit hat die Unterkategorie **"Steuer"** ebenfalls die erlaubten Dateitypen doc,docx,pdf
+* Somit hat die Unterkategorie **"Steuer"** ebenfalls die erlaubten Dateitypen **doc, docx und pdf**
 * Sie können für die Unterkategorie natürlich separat noch weitere erlaubte Dateitypen hinzufügen (entweder manuell oder über die Dateityp-Set Auswahl)
 
 
@@ -171,7 +171,7 @@ Lassen Sie die Felder leer um die Kategorie direkt und unbegrenzt anzuzeigen
 
 ## Bearbeitung einer Kategorie
 
-Sie haben die Möglichkeit einzelne Kategorien zu bearbeiten oder mehrere Kategorien auszuwählen um gemeinsame Einstellungen vorzunehmen.
+Sie haben die Möglichkeit, einzelne Kategorien zu bearbeiten oder mehrere Kategorien auszuwählen, um gemeinsame Einstellungen vorzunehmen.
 
 * In der Kategorieübersicht klicken Sie auf das **Stiftsymbol** der entsprechenden Kategorie um zu den Einstellungen zu gelangen. 
 * **Siehe oben:** [Kategorieeinstellungen](#kategorieeinstellungen)
@@ -187,15 +187,15 @@ Sie haben die Möglichkeit einzelne Kategorien zu bearbeiten oder mehrere Katego
 
 ![Mehrere Datensätze bearbeiten](categories_multitask.png)
 
-Wählen sie die zu bearbeitenden Kategorien und klicken unten auf **Bearbeiten**:
+Wählen Sie die zu bearbeitenden Kategorien und klicken unten auf **Bearbeiten**:
 
 ![Ausgewählte Datensätze](categories_multitask_selection.png)
 
-Wählen sie die zu bearbeitenden Felder aus und klicken auf **Weiter**:
+Wählen Sie die zu bearbeitenden Felder aus und klicken auf **Weiter**:
 
 ![Zu bearbeitende Felder auswählen](categories_select_existing_fields.png)
 
-Nun können sie die Einstellungen der gewählten Kategorien vornehmen.
+Nun können Sie die Einstellungen der gewählten Kategorien vornehmen.
 
 ---
 
