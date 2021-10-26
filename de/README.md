@@ -8,14 +8,16 @@ Die Erweiterung "DokManSystem" ist ein Dokumenten Management System (DMS) für C
 
 Für die Anzeige und die Verwaltung der Dokumente im Frontend werden zwei Module benötigt, die im Backend von Contao angelegt werden. Diese können dann an beliebiger Stelle der Website eingebunden werden. 
 
-Die Funktion ist rein frontendbasiert. Soll heißen, dass im Frontend die Dokumente mittels der entsprechenden Module aufgelistet oder verwaltet werden.
+Die Funktion ist rein frontendbasiert. 
 
-Im Backend werden Kategorien angelegt, Rechte verwaltet und vorhanden Dokumente administriert, (aber nicht angelegt bzw. hochgeladen).
+  * Die Dokumente werden **im Frontend** mittels der entsprechenden Module aufgelistet und verwaltet.
+  * **Im Backend** werden Kategorien angelegt, Rechte verwaltet und vorhandene Dokumente administriert, aber nicht angelegt bzw. hochgeladen.
 
 Für eine übersichtliche Ablage der Dokumente lassen sich beliebige Kategorien anlegen. Sowohl die Kategorien als auch die Dokumente selbst können mit sehr genau greifenden Zugriffsrechten bzw. Leserechten versehen werden.
 Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Sets zugeordet werden. Diese geben an, welche Dateitypen in welche Kategorie hochgeladen werden dürfen.
 
-Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer (aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer oder Contao-Manager installiert werden). 
+Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer.
+**Note:** aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer oder Contao-Manager installiert werden. 
 
 ## Administratorhandbuch
 
