@@ -5,29 +5,17 @@ Hier erhalten sie Informationen über die Installation.
 **Seiteninhalt**
 <!-- toc -->
 
-1. [Installation per Erweiterungskatalog](#installation-per-erweiterungsverwaltung)
-2. [Installation per Composer](#installation-per-composer)
-3. [Serverkonfiguration](#serverkonfiguration)
-4. [Installation per Contao-Manager](#installation-per-contao-manager)
-
-## Installation per Erweiterungskatalog
-
-Die Erweiterung [DokManSystem] kann in der Contao Erweiterungsverwaltung im Backend installiert werden.
-
-→ System → Erweiterungsverwaltung → Erweiterung installieren → Eingabe: DokManSystem
+1. [Installation per Composer](#installation-per-composer)
+2. [Serverkonfiguration](#serverkonfiguration)
+3. [Installation per Contao-Manager](#installation-per-contao-manager)
 
 **Für die manuelle Installation**, können die benötigten Dateien hier heruntergeladen werden: https://github.com/ContaoDMS
 
-Anschließend steht dem Administrator das Modul "DMS" mit den Werkzeugen: 
-
-* Kategorien
-* Zugriffsrechte
-* Dokumente 
-* (und Dateityp-Sets) *ist ein extra Add-On, muss separat installiert werden*
+Nach der Installation stehen die Werkzeuge des Contao-DMS im Backend zur Verfügung: 
  
-zur Verfügung.
-
 ![Contao-DMS Backend Werkzeuge](4-dms-backend-tools.png)
+
+* (Dateityp-Sets) *ist ein extra Add-On und muss separat installiert werden*
 
 
 ## Installation per Composer
