@@ -4,20 +4,19 @@ Dies ist das offizielle Handbuch für das [[Contao DMS]](https://github.com/Cont
 
 ## Was ist das Contao DMS (DokManSystem)?
 
-Die Erweiterung "DokManSystem" ist ein Dokumenten Management System (DMS) für Contao. Es ermöglicht es **Mitgliedern**, verschiedenste Dokumenttypen **vom Frontend** aus auf den Webserver hochzuladen, anzuzeigen und zu verwalten.
+Die Erweiterung "DokManSystem" ist ein Dokumenten Management System für Contao. Die Funktion ist rein frontendbasiert. 
 
-Für die Anzeige und die Verwaltung der Dokumente im Frontend werden zwei Module benötigt, die im Backend von Contao angelegt werden. Diese können dann an beliebiger Stelle der Website eingebunden werden. 
+Mitgliedern können vom Frentend verschiedenste Dokumenttypen auf den Webserver hochladen, anzeigen und verwalten. Eine Anwendungsmöglichkeit ist beispielsweise ein Intranet.
 
-Die Funktion ist rein frontendbasiert. 
+Für die Anzeige und die Verwaltung der Dokumente werden zwei Module benötigt, die im Backend von Contao angelegt werden. Diese können dann an beliebiger Stelle der Website eingebunden werden. 
 
   * Die Dokumente werden **im Frontend** mittels der entsprechenden Module aufgelistet und verwaltet.
   * **Im Backend** werden Kategorien angelegt, Rechte verwaltet und vorhandene Dokumente administriert, aber nicht angelegt bzw. hochgeladen.
 
-Für eine übersichtliche Ablage der Dokumente lassen sich beliebige Kategorien anlegen. Sowohl die Kategorien als auch die Dokumente selbst können mit sehr genau greifenden Zugriffsrechten bzw. Leserechten versehen werden.
-Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Sets zugeordet werden. Diese geben an, welche Dateitypen in welche Kategorie hochgeladen werden dürfen.
+Für eine übersichtliche Ablage der Dokumente lassen sich beliebige Kategorien anlegen. Sowohl die Kategorien als auch die Dokumente selbst können mit sehr Zugriffsrechten und Leserechten versehen werden.
+Desweiteren können Kategorien erlaubte Dateitypen manuell oder per Dateityp-Sets zugeordet werden. Dateityp-Sets geben an, welche Dateitypen in welche Kategorie hochgeladen werden dürfen.
 
-Die Installation der Erweiterung kann derzeit noch über die Contao Erweiterungsverwaltung erfolgen. Alternativ per Composer.
-**Note:** aktuelle Version ist die 3.0.0. Zukünftige Versionen können nur noch mittels Composer oder Contao-Manager installiert werden. 
+Die Installation der Erweiterung erfolgt über per Composer oder den Contao-Manager.
 
 ## Administratorhandbuch
 
